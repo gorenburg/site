@@ -17,7 +17,7 @@ title: "Ilya Gorenburg | Frontend Developer. Behind the scenes"
           <div class="post-preview-meta">
             <span class="fa-pad-right">{{ post.date | date: "%-d %B %Y"}}</span>
             &#8226;
-            <i class="far fa-camera fa-pad-left fa-pad-right"></i>
+            <i class="fas fa-camera fa-pad-left fa-pad-right"></i>
             &#8226;
             <span class="fa-pad-left">
               {% for tag in post.tags %}
@@ -64,7 +64,7 @@ title: "Ilya Gorenburg | Frontend Developer. Behind the scenes"
         <a href="{{ post.link }}" class="small" title="{{ post.date | date: "%-d/%m/%Y"}}">{{ post.date | date: "%-d/%m/%Y"}}</a>
         <a href="{{ post.link }}" class="large" title="{{ post.date | date: "%-d %B %Y"}}">{{ post.date | date: "%-d %B %Y"}}</a>
         &#8226;
-        <i class="far fa-external-link fa-pad-left fa-pad-right"></i>
+        <i class="fas fa-external-link-alt fa-pad-left fa-pad-right"></i>
         &#8226;
         {% for tag in post.tags %}
           <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}" class="header-tag">#{{ tag }}</a>
