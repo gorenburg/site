@@ -1,0 +1,30 @@
+.footer-page {
+  border-top: 2px solid #ebebeb;
+  padding: 0.6em 0 0.8em;
+  margin-bottom: 3em;
+}
+
+.footer-icons {
+  text-align: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 12px;
+    font-size: 26px;
+  }
+
+  a {
+    text-decoration: none;
+    transition: opacity .2s linear;
+
+    &:hover {
+      opacity: .8;
+    }
+
+  }
+
+}

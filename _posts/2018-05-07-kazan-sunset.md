@@ -1,0 +1,14 @@
+---
+layout: page
+type: insta
+sitemap: false
+title:  "Kazan's Sunset"
+date:   2018-05-07 10:00:00 -0400
+tags: [photos]
+---
+
+[![](https://66.media.tumblr.com/871d6e69ce35bb7d3969f30b49537d37/tumblr_p8dh83pEc31t0z60ao1_1280.jpg)](https://66.media.tumblr.com/871d6e69ce35bb7d3969f30b49537d37/tumblr_p8dh83pEc31t0z60ao1_1280.jpg)
+
+[![](https://66.media.tumblr.com/ac9677d5a19de5552df4dc30170805bb/tumblr_p8dh83pEc31t0z60ao2_1280.jpg)](https://66.media.tumblr.com/ac9677d5a19de5552df4dc30170805bb/tumblr_p8dh83pEc31t0z60ao2_1280.jpg)
+
+[![](https://66.media.tumblr.com/5094cd461ba6ac50cb1cc53321dc1b22/tumblr_p8dh83pEc31t0z60ao3_1280.jpg)](https://66.media.tumblr.com/5094cd461ba6ac50cb1cc53321dc1b22/tumblr_p8dh83pEc31t0z60ao3_1280.jpg)

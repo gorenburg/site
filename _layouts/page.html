@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <section class="wrapper">
+
+      {% include header.html %}
+
+      <section class="posts">
+        <article class="post post-{{ page.type }}">
+
+          {% unless page.type contains 'quote' %}
+
+            <div class="title text-center">
+              <h1 class="h2">{{ page.title }}</h1>
+            </div>
+
+            <header class="text-center">
+              <date class="small" title="{{ page.date | date: "%-d/%m/%Y"}}">{{ page.date | date: "%-d/%m/%Y"}}</date>
+              <date class="large" title="{{ page.date | date: "%-d %B %Y"}}">{{ page.date | date: "%-d %B %Y"}}</date>
+              &#8226;
+              {% for tag in page.tags %}
+                <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}" class="header-tag">#{{ tag }}</a>
+              {% endfor %}
+            </header>
+
+            {{ page.content | replace: "[[MORE]]", "" }}
+
+          {% else %}
+
+            {{ page.content | replace: "[[MORE]]", "" }}
+
+            <header class="text-center">
+              <date class="small" title="{{ page.date | date: "%-d/%m/%Y"}}">{{ page.date | date: "%-d/%m/%Y"}}</date>
+              <date class="large" title="{{ page.date | date: "%-d %B %Y"}}">{{ page.date | date: "%-d %B %Y"}}</date>
+              &#8226;
+              {% for tag in page.tags %}
+                <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}" class="header-tag">#{{ tag }}</a>
+              {% endfor %}
+            </header>
+
+          {% endunless %}
+
+        </article>
+      </section>
+
+      <section class="comments">
+        <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%" data-numposts="10"></div>
+      </section>
+
+      {% include footer.html %}
+
+    </section>
+
+  </body>
+</html>
