@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://ilya.gorenburg.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ilya.gorenburg.com/" rel="alternate" type="text/html" /><updated>2018-11-18T12:59:52-05:00</updated><id>https://ilya.gorenburg.com/feed.xml</id><title type="html">Ilya Gorenburg | Frontend Developer. Behind the scenes</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Наш царь – Мукден, наш царь – Цусима…</title><link href="https://ilya.gorenburg.com/2018/11/17/tzar" rel="alternate" type="text/html" title="Наш царь – Мукден, наш царь – Цусима..." /><published>2018-11-17T09:00:00-05:00</published><updated>2018-11-17T09:00:00-05:00</updated><id>https://ilya.gorenburg.com/2018/11/17/tzar</id><content type="html" xml:base="https://ilya.gorenburg.com/2018/11/17/tzar">&lt;blockquote&gt;
+  &lt;p&gt;Наш царь – Мукден, наш царь – Цусима,&lt;br /&gt;
+Наш царь – кровавое пятно&lt;br /&gt;
+Зловонье пороха и дыма,&lt;br /&gt;
+В котором разуму — темно.&lt;/p&gt;
+
+  &lt;p&gt;Наш царь — убожество слепое,&lt;br /&gt;
+Тюрьма и кнут, подсуд, расстрел,&lt;br /&gt;
+Царь — висельник, тем низкий вдвое,&lt;br /&gt;
+Что обещал, но дать не смел.&lt;/p&gt;
+
+  &lt;p&gt;Он трус, он чувствует с запинкой,&lt;br /&gt;
+Но будет, час расплаты ждет.&lt;br /&gt;
+Кто начал царствовать — Ходынкой,&lt;br /&gt;
+Тот кончит — встав на эшафот.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Константин Бальмонт. 1906&lt;/p&gt;</content><author><name></name></author><category term="quote" /><summary type="html">Наш царь – Мукден, наш царь – Цусима, Наш царь – кровавое пятно Зловонье пороха и дыма, В котором разуму — темно. Наш царь — убожество слепое, Тюрьма и кнут, подсуд, расстрел, Царь — висельник, тем низкий вдвое, Что обещал, но дать не смел. Он трус, он чувствует с запинкой, Но будет, час расплаты ждет. Кто начал царствовать — Ходынкой, Тот кончит — встав на эшафот. Константин Бальмонт. 1906</summary></entry><entry><title type="html">Mastering CSS Grid For Content Columns</title><link href="https://ilya.gorenburg.com/2018/10/15/mastering-css-grid" rel="alternate" type="text/html" title="Mastering CSS Grid For Content Columns" /><published>2018-10-15T10:00:00-04:00</published><updated>2018-10-15T10:00:00-04:00</updated><id>https://ilya.gorenburg.com/2018/10/15/mastering-css-grid</id><content type="html" xml:base="https://ilya.gorenburg.com/2018/10/15/mastering-css-grid"></content><author><name></name></author><category term="code" /><summary type="html"></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://ilya.gorenburg.com/2018/10/13/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-10-13T12:55:48-04:00</published><updated>2018-10-13T12:55:48-04:00</updated><id>https://ilya.gorenburg.com/2018/10/13/welcome-to-jekyll</id><content type="html" xml:base="https://ilya.gorenburg.com/2018/10/13/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.[[MORE]]&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">с. Ивановское. Церковь Иоанна Златоуста</title><link href="https://ilya.gorenburg.com/2018/09/18/ivanovskoe" rel="alternate" type="text/html" title="с. Ивановское. Церковь Иоанна Златоуста" /><published>2018-09-18T10:00:00-04:00</published><updated>2018-09-18T10:00:00-04:00</updated><id>https://ilya.gorenburg.com/2018/09/18/ivanovskoe</id><content type="html" xml:base="https://ilya.gorenburg.com/2018/09/18/ivanovskoe">&lt;p&gt;В начале мая катались на велосипедах с Эльмирой и Стасом до села Ивановское. Доехали на машине до села Кургуза и оттуда на велосипедах. В сильную ветряную погоду. Но мы это сделали. 25 км на велосипедах (туда и обратно) до самой старой из сохранившихся церквей в Татарстане. Построена в 1732 году. Сейчас заброшена, в ужасном состоянии. Но кто-то начал наводить там порядок и убирать весь мусор - приятно. Жаль только что ее вряд ли уже восстановят - уж слишком грустное у нее состояние.[[MORE]]&lt;/p&gt;
+
+&lt;p&gt;Это, кстати, вторая попытка попасть в эту церковь и она увенчалась успехом. В предыдущую когда это пытались сделать 6 месяцев до этой попытки мы просто не дошли ввиду темноты.&lt;/p&gt;
+
+&lt;p&gt;Место поистине просто потрясающее! Очень красивые виды с холма на реку Свиягу и поля за ней. Добраться в зимнее время и в дождливую погоду до места на автотраспорте нереально. Лучше всего весной/летом/осенью в сухую погоду. Можно и на автомобиле, но лучше на велисипеде. Сразу под церковью село в котором местные жители с недоумением смотрели на нас - чужаков. Село вымирает - дороги до него нормальной нет и в слякоть туда особо не проберешься.&lt;/p&gt;
+
+&lt;p&gt;Рядом с церковью есть могила последнего священника этой церкви.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1870/44469468861_d196c9b0e6_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1847/43559754185_fa5f4be451_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1841/44419724912_61342d5986_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1875/44469480681_63db5a56c6_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1845/44419731062_f595637d8b_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1893/44469486601_3627a7e9a9_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1874/44469488061_e8368b6d7d_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1856/44469488961_93562cbe4a_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1885/44419737282_67e1c74478_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1886/43751467254_5ce701c5ba_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1853/43751468184_f929d11a40_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1855/43751469464_51aaf6df01_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1888/43751471174_183bccab46_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1875/43751472564_11d619d21d_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1859/43751474234_5ae7db5882_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1889/43751476014_c242392236_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1851/44419749042_87462ceb38_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1845/44419750592_8556e4a170_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1879/44419752002_96b1ceba1a_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1887/44419754142_d77c396316_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1869/42660388140_20193fd185_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1892/42660389360_65c6ecfafd_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1870/42660390170_c8acc150cd_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1852/43559744365_7a4d05b396_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1881/44469457411_a582078024_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="photos" /><category term="explore" /><category term="travel" /><summary type="html">В начале мая катались на велосипедах с Эльмирой и Стасом до села Ивановское. Доехали на машине до села Кургуза и оттуда на велосипедах. В сильную ветряную погоду. Но мы это сделали. 25 км на велосипедах (туда и обратно) до самой старой из сохранившихся церквей в Татарстане. Построена в 1732 году. Сейчас заброшена, в ужасном состоянии. Но кто-то начал наводить там порядок и убирать весь мусор - приятно. Жаль только что ее вряд ли уже восстановят - уж слишком грустное у нее состояние.</summary></entry><entry><title type="html">Kazan’s Sunset</title><link href="https://ilya.gorenburg.com/2018/05/07/kazan-sunset" rel="alternate" type="text/html" title="Kazan's Sunset" /><published>2018-05-07T10:00:00-04:00</published><updated>2018-05-07T10:00:00-04:00</updated><id>https://ilya.gorenburg.com/2018/05/07/kazan-sunset</id><content type="html" xml:base="https://ilya.gorenburg.com/2018/05/07/kazan-sunset">&lt;p&gt;&lt;a href=&quot;https://66.media.tumblr.com/871d6e69ce35bb7d3969f30b49537d37/tumblr_p8dh83pEc31t0z60ao1_1280.jpg&quot;&gt;&lt;img src=&quot;https://66.media.tumblr.com/871d6e69ce35bb7d3969f30b49537d37/tumblr_p8dh83pEc31t0z60ao1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://66.media.tumblr.com/ac9677d5a19de5552df4dc30170805bb/tumblr_p8dh83pEc31t0z60ao2_1280.jpg&quot;&gt;&lt;img src=&quot;https://66.media.tumblr.com/ac9677d5a19de5552df4dc30170805bb/tumblr_p8dh83pEc31t0z60ao2_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://66.media.tumblr.com/5094cd461ba6ac50cb1cc53321dc1b22/tumblr_p8dh83pEc31t0z60ao3_1280.jpg&quot;&gt;&lt;img src=&quot;https://66.media.tumblr.com/5094cd461ba6ac50cb1cc53321dc1b22/tumblr_p8dh83pEc31t0z60ao3_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="photos" /><summary type="html"></summary></entry><entry><title type="html">Церковь Михаила Архангела, с.Большое Елово</title><link href="https://ilya.gorenburg.com/2018/04/01/bolshoe-elovo" rel="alternate" type="text/html" title="Церковь Михаила Архангела, с.Большое Елово" /><published>2018-04-01T10:00:00-04:00</published><updated>2018-04-01T10:00:00-04:00</updated><id>https://ilya.gorenburg.com/2018/04/01/bolshoe-elovo</id><content type="html" xml:base="https://ilya.gorenburg.com/2018/04/01/bolshoe-elovo">&lt;p&gt;Однопрестольный каменный храм построен в 1884-1891 гг. (приход существовал с середины XVIII в.) на средства елабужских купцов Стахеевых по проекту архитектора Василия Михайловича Дружинина. Средних размеров храм с трехъярусной шатровой колокольней, выстроенный в псевдорусском стиле.&lt;/p&gt;
+
+&lt;p&gt;Храм восстанавливается.[[MORE]]&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2032.7846528471196!2d51.55668822263133!3d55.79258478204146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sru!4v1522572779393&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot; class=&quot;post-map&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/814/40185580524_474b6c0903_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/816/40185579534_6f1d40e8a1_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4775/40185578714_94b8676d1f_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4778/40893440181_7969a56a82_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/789/40185577524_468cd874ee_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/799/27023081958_b7b22744bf_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/791/40893436091_74770d8b3e_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/793/40893435291_1abd5c7058_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4772/39084228150_ca44fc2223_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="photos" /><category term="explore" /><category term="travel" /><summary type="html">Однопрестольный каменный храм построен в 1884-1891 гг. (приход существовал с середины XVIII в.) на средства елабужских купцов Стахеевых по проекту архитектора Василия Михайловича Дружинина. Средних размеров храм с трехъярусной шатровой колокольней, выстроенный в псевдорусском стиле. Храм восстанавливается.</summary></entry><entry><title type="html">Не надо бояться</title><link href="https://ilya.gorenburg.com/2018/03/30/ne-nado" rel="alternate" type="text/html" title="Не надо бояться" /><published>2018-03-30T10:00:00-04:00</published><updated>2018-03-30T10:00:00-04:00</updated><id>https://ilya.gorenburg.com/2018/03/30/ne-nado</id><content type="html" xml:base="https://ilya.gorenburg.com/2018/03/30/ne-nado">&lt;blockquote&gt;
+  &lt;p&gt;Не надо бояться густого тумана,&lt;br /&gt;
+Не надо бояться пустого кармана.&lt;br /&gt;
+Не надо бояться ни горных потоков,&lt;br /&gt;
+ни топей болотных, ни грязных подонков!&lt;/p&gt;
+
+  &lt;p&gt;Не надо бояться тяжёлой задачи,&lt;br /&gt;
+а надо бояться дешёвой удачи.&lt;br /&gt;
+Не надо бояться быть честным и битым,&lt;br /&gt;
+а надо бояться быть лживым и сытым!&lt;/p&gt;
+
+  &lt;p&gt;Умейте всем страхам в лицо рассмеяться, -&lt;br /&gt;
+лишь собственной трусости надо бояться!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Евгений Евтушенко. 1978&lt;/p&gt;</content><author><name></name></author><category term="quote" /><summary type="html">Не надо бояться густого тумана, Не надо бояться пустого кармана. Не надо бояться ни горных потоков, ни топей болотных, ни грязных подонков! Не надо бояться тяжёлой задачи, а надо бояться дешёвой удачи. Не надо бояться быть честным и битым, а надо бояться быть лживым и сытым! Умейте всем страхам в лицо рассмеяться, - лишь собственной трусости надо бояться! Евгений Евтушенко. 1978</summary></entry><entry><title type="html">Kazan’s Sunset</title><link href="https://ilya.gorenburg.com/2018/01/01/kazan" rel="alternate" type="text/html" title="Kazan's Sunset" /><published>2018-01-01T09:00:00-05:00</published><updated>2018-01-01T09:00:00-05:00</updated><id>https://ilya.gorenburg.com/2018/01/01/kazan</id><content type="html" xml:base="https://ilya.gorenburg.com/2018/01/01/kazan">&lt;p&gt;&lt;a href=&quot;https://66.media.tumblr.com/871d6e69ce35bb7d3969f30b49537d37/tumblr_p8dh83pEc31t0z60ao1_1280.jpg&quot;&gt;&lt;img src=&quot;https://66.media.tumblr.com/871d6e69ce35bb7d3969f30b49537d37/tumblr_p8dh83pEc31t0z60ao1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://66.media.tumblr.com/ac9677d5a19de5552df4dc30170805bb/tumblr_p8dh83pEc31t0z60ao2_1280.jpg&quot;&gt;&lt;img src=&quot;https://66.media.tumblr.com/ac9677d5a19de5552df4dc30170805bb/tumblr_p8dh83pEc31t0z60ao2_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://66.media.tumblr.com/5094cd461ba6ac50cb1cc53321dc1b22/tumblr_p8dh83pEc31t0z60ao3_1280.jpg&quot;&gt;&lt;img src=&quot;https://66.media.tumblr.com/5094cd461ba6ac50cb1cc53321dc1b22/tumblr_p8dh83pEc31t0z60ao3_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="photos" /><summary type="html"></summary></entry><entry><title type="html">с.Кашинка, Ульяновская область</title><link href="https://ilya.gorenburg.com/2017/11/03/kashinka" rel="alternate" type="text/html" title="с.Кашинка, Ульяновская область" /><published>2017-11-03T10:00:00-04:00</published><updated>2017-11-03T10:00:00-04:00</updated><id>https://ilya.gorenburg.com/2017/11/03/kashinka</id><content type="html" xml:base="https://ilya.gorenburg.com/2017/11/03/kashinka">&lt;p&gt;Храм деревянный во имя Св. Троицы, на каменном фундаменте, построен в 1890 г. С приходом советской власти, в 30-е годы прошлого столетия, церкви удалось избежать участи, постигнувшей многие христианские храмы того времени когда храмы начали закрывать и уничтожать. В 60-е года церковь закрыли. Иконы забрали на хранение местные жители.&lt;/p&gt;
+
+&lt;p&gt;Представленные фото - 2016 года. В настоящий момент (к удивлению) церковь начали восстанавливать.[[MORE]]&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4228.023537554497!2d48.143391901151396!3d54.630850635868974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sru!4v1509687154470&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;post-map&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4494/37387888354_0b6f344dd0_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4447/38043981496_afb6e67d58_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4445/26320186189_ace6235959_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4486/24244390308_d8eb7a81d4_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4455/26320192569_f1afd5aa27_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4498/38043985296_6abcce2ef5_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4482/38096702711_e11382cfd6_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4445/24244398858_5c6b18854e_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4498/24244400068_7c0ff14186_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4470/26320211749_43d141ab3e_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4494/26320214419_5fc19a23be_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4509/24244403238_daa150b1b4_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="photos" /><category term="explore" /><category term="travel" /><summary type="html">Храм деревянный во имя Св. Троицы, на каменном фундаменте, построен в 1890 г. С приходом советской власти, в 30-е годы прошлого столетия, церкви удалось избежать участи, постигнувшей многие христианские храмы того времени когда храмы начали закрывать и уничтожать. В 60-е года церковь закрыли. Иконы забрали на хранение местные жители. Представленные фото - 2016 года. В настоящий момент (к удивлению) церковь начали восстанавливать.</summary></entry><entry><title type="html">с. Куюки, Лаишевский район</title><link href="https://ilya.gorenburg.com/2017/10/16/kyuki" rel="alternate" type="text/html" title="с. Куюки, Лаишевский район" /><published>2017-10-16T10:00:00-04:00</published><updated>2017-10-16T10:00:00-04:00</updated><id>https://ilya.gorenburg.com/2017/10/16/kyuki</id><content type="html" xml:base="https://ilya.gorenburg.com/2017/10/16/kyuki">&lt;p&gt;Дрон летает в воздухе. Я пытаюсь пролететь вокруг церкви. Нас в округе двое. В 100 метрах от нас стоит бревенчатый дом с закрытыми наглухо изнутри окнами. Только громкий звук телевизора выдает жизнь внутри дома. Рядом с нами останавливается потрепанная Chevrolet Niva. Останавливается, глушит двигатель и просто стоит. Спустя минуту из автомобиля выходит мужчина.[[MORE]]&lt;/p&gt;
+
+&lt;p&gt;-Что вы тут делаете? - с интересом и улыбкой спросил он&lt;br /&gt;
+-Сейчас дрон посажу, отвечу на все ваши вопросы.&lt;br /&gt;
+Спустя полминуты возвращаюсь к своему собеседнику: видео снимаем о церкви, которой скоро не станет&lt;br /&gt;
+-Как не станет? - со страхом и удивлением спрашивает мужчина&lt;br /&gt;
+-Ну как-как. Вот так. Время убьет ее. Восстанавливать никто не будет - так она и разрушится она&lt;br /&gt;
+-Не нужно так говорить - вы меня пугаете.&lt;br /&gt;
+-А что вас пугать-то? Ее никто не будет восстанавливать. РПЦ не до этого. Им бы лишь новые храмы строить на месте парков. А такие храмы просто сами разрушаются от года к году. А мы снимаем чтобы осталось хоть что-то в истории.&lt;br /&gt;
+-А почему не будут восстанавливать?&lt;br /&gt;
+-А РПЦ это нужно? Если бы нужно было - давно бы уже восстановили. Проще новое построить, чем старое отреставрировать&lt;br /&gt;
+-Вас как зовут? Давайте представимся - на одном же языке разговариваем.&lt;br /&gt;
+-Давайте&lt;br /&gt;
+-Меня зовут Рагать Рифкатович. Я - глава Куюкинского сельского поселения.&lt;br /&gt;
+-Меня зовут Илья. Просто турист. Просто приехал поснимать этот храм.&lt;br /&gt;
+-Этот храм, как говорят, стоит на обоженных бревнах дуба. Его фундамент может еще очень долго простоять.&lt;br /&gt;
+-Да, только кирпич быстрее обрушится, чем фундамент.&lt;br /&gt;
+-Да, это так. В деревне раньше 65 дворов было. А сейчас… Сейчас всего 2 семьи живут. Остальные - дачники. Да и тех от года к году становится меньше.&lt;br /&gt;
+-Ну, это можно понять - дорог до села можно сказать нет. Вообще. Можно разговор с вами снять. Для истории?&lt;br /&gt;
+-Ой, нет-нет. Не стоит. Я вообще мимо проезжал. Вы здесь молодых людей не видели? С утра обещали приехать - помочь очистить территорию вокруг храма&lt;br /&gt;
+-Неа, никого не видели.&lt;br /&gt;
+-Ну вот. Придется мне одному все здесь делать. Не сдержали слово. Вы еще долго тут будете снимать?&lt;br /&gt;
+-Минут 10 еще.&lt;br /&gt;
+-Хорошо, я через 20 минут тогда вернуть - буду убираться вокруг храма - возможно буду вам мешать&lt;br /&gt;
+-Мы закончим, вы нам не помешаете.&lt;br /&gt;
+-Ну ладно. Я поехал до дома, через 20 минут вернусь&lt;/p&gt;
+
+&lt;p&gt;Жизнь в селе застыла. Застыла где-то в 60-х годах, наверное. Дорог к селу нет. 2,5 км по проселочной дороге. И то после дождей я уже на своей машине там не проеду. Говорили мне друзья бери себе полноприводный паркетник, так нет-же…&lt;/p&gt;
+
+&lt;p&gt;Село вымирает. И ощущение что через пару лет оно совсем опустеет. Дачники тоже забудут туда дорогу.&lt;/p&gt;
+
+&lt;p&gt;Теперь о церкви:&lt;/p&gt;
+
+&lt;p&gt;Кирпичная однопрестольная церковь, построенная в 1879-1880 подполковником Н. С. Есиповым в формах эклектики. Определенный ритм фасадам придают стилизованные дорические пилястры и высокие арочные окна. Двусветный четверик с полукруглым алтарем, притвором связанный с колокольней. Храм построен по образцовому проекту, в эклектичном стиле, с использованием приемов и элементов классицизма, псевдоготики и романского стиля. Закрыта не позже 1930-х, главки сломаны. Представляет обычный образец, как наше государство уничтожало свои памятники. Взорванная в начале прошлого века колокольня, разрушенный купол, использование в хозяйственных целях. Все, что осталось, было объявлено в 1993 году как памятник архитектуры республики Татарстан, подлежащий государственной охране. С тех пор про охрану эту, по видимости, забыли.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7903.868134037677!2d49.43081546041839!3d55.47659008155935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sru!4v1508185337253&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;post-map&quot;&gt;&lt;/iframe&gt;
+
+&lt;div class=&quot;post-video&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/ohdAuewoWXw?showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4499/37668032546_4e24412377_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4504/37046092253_3fc2b9c848_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4457/37046083253_4e1551878f_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4460/37716300651_bd864db086_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4484/37667998346_d86669f38b_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4489/37716293291_0bb25f0ecc_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4512/23863085968_f0480cff64_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4479/37684391162_2eb6796517_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4464/23863082408_392f9911a7_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4511/37716286551_5e4749bd29_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4458/37458872270_5fb3b0e2c4_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4447/37046043623_f84dea0251_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4476/23863067118_a9c48e1132_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4507/37684379982_62a9ba97e2_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4495/23863061578_81c2a9150b_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="photos" /><category term="explore" /><category term="travel" /><summary type="html">Дрон летает в воздухе. Я пытаюсь пролететь вокруг церкви. Нас в округе двое. В 100 метрах от нас стоит бревенчатый дом с закрытыми наглухо изнутри окнами. Только громкий звук телевизора выдает жизнь внутри дома. Рядом с нами останавливается потрепанная Chevrolet Niva. Останавливается, глушит двигатель и просто стоит. Спустя минуту из автомобиля выходит мужчина.</summary></entry></feed>
