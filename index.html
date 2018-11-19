@@ -39,6 +39,11 @@ title: "Ilya Gorenburg | Frontend Developer. Behind the scenes"
         {{ post.content | replace: '<a ', '<a data-lightbox="date" ' | replace: 'date', post.date }}
       </div>
 
+
+      {% if post.lead %}
+        <p>{{ post.lead }}</p>
+      {% endif %}
+
       <header class="text-center">
         <a href="{{ post.url }}" class="small" title="{{ post.date | date: "%-d/%m/%Y"}}">{{ post.date | date: "%-d/%m/%Y"}}</a>
         <a href="{{ post.url }}" class="large" title="{{ post.date | date: "%-d %B %Y"}}">{{ post.date | date: "%-d %B %Y"}}</a>
