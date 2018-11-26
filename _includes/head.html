@@ -12,6 +12,29 @@
   {% endif %}
 </title>
 
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:site_name" content="ilya.gorenburg.com">
+<meta property="og:image:width" content="1920">
+<meta property="og:type" content="website">
+<meta name="twitter:site" content="@gorenburg">
+<meta name="twitter:site_name" content="Ilya Gorenburg">
+
+{% if page.preview %}
+  <meta property="og:image" content="{{ page.preview }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ page.preview }}">
+  <meta name="image" content="{{ page.preview }}">
+  <meta name="og_twitter_card" content="summary_large_image">
+{% endif %}
+
+{% if page.title %}
+  <meta property="og:title" content="{{ page.title }} · {{ site.title }}">
+  <meta name="twitter:title" content="{{ page.title }} · {{ site.title }}">
+{% else %}
+  <meta property="og:title" content="{{ site.title }}">
+  <meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+
 <link rel="shortcut icon" href="https://66.media.tumblr.com/avatar_291ece574ae5_128.pnj">
 <link rel="apple-touch-icon" href="https://66.media.tumblr.com/avatar_291ece574ae5_128.pnj">
 
