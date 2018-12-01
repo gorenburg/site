@@ -15,7 +15,7 @@ preview: 'https://farm4.staticflickr.com/3934/15530746232_2f17970464_k.jpg'
 
 После лагеря поехали на ручей, после чего сделали большой круг, заехали в Семиозерский Монастырь и вернулись к машинам. Итого у Ксюши MapMyRide насчитал 27 км. Мой RunKeeper насчитал 21 км, но я его отключал на время осмотра лагеря. Под катом - карта где находится лагерь и фото. Спасибо Ксюше за фото.
 
-<div class="post-video"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2014.4198282708478!2d49.09854499999997!3d55.95903599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTXCsDU3JzMyLjUiTiA0OcKwMDUnNTQuOCJF!5e1!3m2!1sru!2sru!4v1413238459092" width="100%" height="450"></iframe></div>
+<div class="post-iframe"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2014.4198282708478!2d49.09854499999997!3d55.95903599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTXCsDU3JzMyLjUiTiA0OcKwMDUnNTQuOCJF!5e1!3m2!1sru!2sru!4v1413238459092" width="100%" height="450"></iframe></div>
 
 ![](https://farm4.staticflickr.com/3948/15530733682_df70ea468d_k.jpg)
 

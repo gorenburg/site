@@ -9,7 +9,7 @@ preview: 'https://farm5.staticflickr.com/4504/36749813234_07a27fb9b8_k.jpg'
 
 120 км от Казани. Камское устье. Да еще и осенью. Это просто потрясающе! Юрьевская пещера и гипсовые рудники. Очень советую к поездке! А перед поездкой наденьте удобную обувь, возьмите отличные фонарики и карты пещер (последнее можно легко найти в интернете). Потрясающие виды и блуждание по пещерам будет завораживающим!
 
-<div class="post-video"><iframe width="560" height="600" src="https://www.youtube.com/embed/qxSH8hOsxUc?showinfo=0" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="post-iframe"><iframe width="560" height="600" src="https://www.youtube.com/embed/qxSH8hOsxUc?showinfo=0" frameborder="0" allowfullscreen=""></iframe></div>
 
 ![](https://farm5.staticflickr.com/4493/37201606400_09ebe33eb3_k.jpg)
 

@@ -13,7 +13,7 @@ preview: 'https://farm5.staticflickr.com/4313/35309520864_48e4a4028e_k.jpg'
 
 Закрыт не позже 1930-х. В 2003 возвращен верующим, богослужения проводятся в приспособленном помещении.
 
-<div class="post-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/6Yz6fI2XBKo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="post-iframe"><iframe width="1280" height="720" src="https://www.youtube.com/embed/6Yz6fI2XBKo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></div>
 
 ![](https://farm5.staticflickr.com/4293/35342601573_f3610918dd_k.jpg)
 

@@ -65,6 +65,11 @@ header {
   margin: 0;
   padding: 0;
 
+  @media screen and (max-width: 43.749em) {
+    margin-top: 1em;
+    text-align: center;
+  }
+
   li {
     display: inline-block;
     text-align: center;
