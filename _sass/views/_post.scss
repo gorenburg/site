@@ -234,10 +234,12 @@
     p {
 
       img {
-        width: 86vw;
-        max-width: 1900px;
-        margin-left: 50%;
-        transform: translateX(-50%);
+        @media (min-width: 61em) {
+          width: 86vw;
+          max-width: 1900px;
+          margin-left: 50%;
+          transform: translateX(-50%);
+        }
       }
 
     }
