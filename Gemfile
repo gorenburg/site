@@ -23,6 +23,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-tagging"
   gem "jekyll-paginate"
+  gem "jekyll-minifier"
   gem "octopress-autoprefixer"
 end
 
