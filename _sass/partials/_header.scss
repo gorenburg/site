@@ -29,13 +29,14 @@ header {
 .header-profile {
   display: flex;
   align-items: center;
-  font-family: 'Rubik', sans-serif;
+  font-family: $font-secondary;
   line-height: 1.33;
 }
 
 .header-profile-inner {
   text-align: left;
   padding: 0 1em;
+  letter-spacing: -.02em;
 }
 
 .header-profile-link {
@@ -44,7 +45,8 @@ header {
   text-decoration: none;
   color: inherit;
   font-size: 1.125em;
-  letter-spacing: -.5px;
+  font-weight: 500;
+  letter-spacing: -.02px;
 }
 
 .header-avatar {
@@ -78,10 +80,10 @@ header {
       font-size: 0.875em;
       line-height: 1.714285714;
       margin-bottom: 1.714285714em;
+      letter-spacing: -.02em;
       text-decoration: none;
-      font-family:'Rubik',sans-serif;
-      font-weight: 300;
-      font-style: normal;
+      font-family: $font-secondary;
+      font-weight: 400;
       color: #a2a2a3;
       transition: color .2s linear;
 

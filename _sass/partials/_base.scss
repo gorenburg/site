@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  font: 400 0.625em/1.5 'Playfair Display',sans-serif;
+  font: 400 0.625em/1.5 $font-primary;
   margin-bottom: 0;
   background-color: #fffcfc;
   color: #4d4d50;
@@ -80,8 +80,8 @@ img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Rubik', sans-serif;
-  font-weight: 400;
+  font-family: $font-secondary;
+  font-weight: 500;
   font-style: normal;
 }
 

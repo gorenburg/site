@@ -43,7 +43,7 @@
   }
   p {
     font-size: 1em;
-    line-height: 1.5;
+    line-height: 1.6;
     margin-bottom: 1.5em;
     color: #4d4d50;
   }
@@ -54,7 +54,7 @@
     font-weight: 400;
     color: #29282c;
     &:hover {
-      color: #21cd9c;
+      text-decoration: none;
     }
   }
   ul, ol {
@@ -93,7 +93,7 @@
       font-size: 1.5em;
       line-height: 1.2;
       margin-bottom: 0.6em;
-      letter-spacing: -.05em;
+      letter-spacing: -.03em;
       transition: color .1s linear;
     }
 
@@ -115,7 +115,7 @@
     margin: 0;
     border: none;
     font-size: .7em;
-    font-family: 'Rubik', sans-serif;
+    font-family: $font-secondary;
     line-height: 1.5em;
 
     date, a {
