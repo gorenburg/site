@@ -124,6 +124,12 @@
       margin: 0 0.5em;
     }
 
+    a {
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
     date {
       text-transform: capitalize;
     }
