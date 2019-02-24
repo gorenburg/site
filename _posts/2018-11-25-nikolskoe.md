@@ -21,6 +21,8 @@ preview: 'https://farm5.staticflickr.com/4903/31113826107_378d77a290_k_d.jpg'
 
 На картах XVIII века село называлось "Никольское, что за лесом". Это необходимое уточнение отличало его от одноименных сел с названием Никольское, коих в Лаишевском уезде было несколько.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2794.908205814407!2d49.752129745060614!3d55.471283493233685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sca!4v1551037046794" width="600" height="450" frameborder="0" style="border:0" allowfullscreen="" class="post-map"></iframe>
+
 ![](https://farm5.staticflickr.com/4878/45324624635_81aef384ee_o_d.jpg)
 
 ![](https://farm5.staticflickr.com/4846/45324624895_730b3854aa_o_d.jpg)
