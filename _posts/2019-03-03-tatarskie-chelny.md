@@ -1,7 +1,7 @@
 ---
 layout: page
 type: photos
-title:  "с. Татарские Челны"
+title:  "с. Татарские Челны, Татарстан"
 date:   2019-03-03 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://farm5.staticflickr.com/4804/31526634627_bc45a15114_k_d.jpg'

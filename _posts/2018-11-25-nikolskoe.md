@@ -1,7 +1,7 @@
 ---
 layout: page
 type: photos
-title:  "с. Никольское. Церковь Николая Чудотворца"
+title:  "с. Никольское, Татарстан. Церковь Николая Чудотворца"
 date:   2018-11-25 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://farm5.staticflickr.com/4903/31113826107_378d77a290_k_d.jpg'

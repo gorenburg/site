@@ -1,7 +1,7 @@
 ---
 layout: page
 type: photos
-title:  "Храм Живоначальной Троицы, с.Танкеевка"
+title:  "Храм Живоначальной Троицы, с.Танкеевка, Татарстан"
 date:   2017-08-21 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://farm5.staticflickr.com/4313/35309520864_48e4a4028e_k.jpg'

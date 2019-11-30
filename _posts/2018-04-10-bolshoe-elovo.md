@@ -1,7 +1,7 @@
 ---
 layout: page
 type: photos
-title:  "Церковь Михаила Архангела, с.Большое Елово"
+title:  "Церковь Михаила Архангела, с.Большое Елово, Татарстан"
 date:   2018-04-01 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://farm5.staticflickr.com/4772/39084228150_ca44fc2223_k.jpg'

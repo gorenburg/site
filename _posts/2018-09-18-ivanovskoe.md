@@ -1,7 +1,7 @@
 ---
 layout: page
 type: photos
-title:  "с. Ивановское. Церковь Иоанна Златоуста"
+title:  "с. Ивановское, Татарстан. Церковь Иоанна Златоуста"
 date:   2018-09-18 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://farm2.staticflickr.com/1856/44469488961_93562cbe4a_k.jpg'

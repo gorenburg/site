@@ -1,7 +1,7 @@
 ---
 layout: page
 type: photos
-title:  "Малый Карамас"
+title:  "Малый Карамас, Марий Эл"
 date:   2017-09-03 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://farm5.staticflickr.com/4406/36600902490_10bd9a5b74_k.jpg'
