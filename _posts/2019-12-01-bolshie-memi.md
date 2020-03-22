@@ -1,7 +1,7 @@
 ---
 layout: page
 type: photos
-title:  "с. Большие Меми, Татарстан"
+title:  "с. Большие Меми, Татарстан. Церковь Александра Невского"
 date:   2019-12-01 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://live.staticflickr.com/65535/49152618608_36874e6048_k_d.jpg'

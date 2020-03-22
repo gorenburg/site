@@ -1,7 +1,7 @@
 ---
 layout: page
 type: photos
-title:  "с. Астраханка, Татарстан"
+title:  "с. Астраханка, Татарстан. Казанско-Богородицкая церковь"
 date:   2019-11-30 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://live.staticflickr.com/1820/43086254845_8168ae8ef5_k_d.jpg'

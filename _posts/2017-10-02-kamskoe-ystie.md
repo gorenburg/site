@@ -1,7 +1,7 @@
 ---
 layout: page
 type: photos
-title:  "Камское Устье, Татарстан"
+title:  "п. Камское Устье, Татарстан"
 date:   2017-10-02 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://farm5.staticflickr.com/4504/36749813234_07a27fb9b8_k.jpg'

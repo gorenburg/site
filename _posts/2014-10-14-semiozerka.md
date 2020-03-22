@@ -1,7 +1,7 @@
 ---
 layout: page
 type: photos
-title:  "ДОЛ им. Гайдара, Семиозерка, Татарстан"
+title:  "п. Семиозерка, Татарстан. ДОЛ им. Гайдара"
 date:   2014-10-14 10:00:00 -0400
 tags: [photos, travel, explore]
 preview: 'https://farm4.staticflickr.com/3934/15530746232_2f17970464_k.jpg'

@@ -1,7 +1,7 @@
 ---
 layout: page
 type: photos
-title:  "Заброшенный лагерь “Ласточка”, д. Крутушка, Татарстан"
+title:  "д. Крутушка, Татарстан. Заброшенный лагерь “Ласточка”"
 date:   2015-05-23 10:00:00 -0400
 tags: [photos, travel, explore]
 preview: 'https://farm8.staticflickr.com/7679/17358644528_99d4aa8c17_k.jpg'
