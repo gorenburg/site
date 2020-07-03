@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: insta
 title:  "с. Октябрьский, дачи"
 date:   2018-03-12 10:00:00 -0400

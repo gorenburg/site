@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: insta
 title:  "Йошкар Ола"
 date:   2015-02-16 10:00:00 -0400

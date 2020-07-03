@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: video
 title:  "Покидаем центральный Орегон"
 date:   2020-01-12 10:00:00 -0400

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: photos
 title:  "п. Камское Устье, Татарстан"
 date:   2017-10-02 10:00:00 -0400

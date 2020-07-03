@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: photos
 title:  "Тихий Плес, Татарстан. Церковь Ризоположения"
 date:   2020-03-29 10:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: page
 type: link
 sitemap: false
 title:  "Mastering CSS Grid For Content Columns"

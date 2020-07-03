@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: photos
 title:  "д. Малый Карамас, Марий Эл"
 date:   2017-09-03 10:00:00 -0400

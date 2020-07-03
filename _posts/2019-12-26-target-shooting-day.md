@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: video
 title:  "Target Shooting Day"
 date:   2019-12-26 10:00:00 -0400

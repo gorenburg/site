@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: photos
 title:  "Вальпараисо, Чили"
 date:   2019-10-20 10:00:00 -0400

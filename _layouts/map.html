@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    {% include head.html %}
+  </head>
+  <body class="page-map">
+    <section class="wrapper">
+      {% include header.html %}
+
+      <article class="post post-empty">
+        <div class="title text-center">
+          <h1 class="h2">{{ page.title }}</h1>
+        </div>
+      </article>
+    
+    </section>
+
+    {{ page.content | replace: "[[MORE]]", "" }}
+
+    <section class="wrapper">
+      {% include footer.html %}
+    </section>
+
+  </body>
+</html>

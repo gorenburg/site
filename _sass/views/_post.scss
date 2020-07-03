@@ -23,8 +23,8 @@
   }
   h3 {
     font-size: 1.125em;
-    line-height: 1.333333333;
-    margin-bottom: 1.333333333em;
+    line-height: 1.33;
+    margin-bottom: 1.33em;
   }
   h4 {
     font-size: 1em;
@@ -284,6 +284,10 @@
       font-style: italic;
     }
 
+  }
+
+  &-empty {
+    margin-bottom: 0;
   }
 
 }

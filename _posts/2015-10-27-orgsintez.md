@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: photos
 title:  "Оргсинтез ночью"
 date:   2015-10-27 10:00:00 -0400

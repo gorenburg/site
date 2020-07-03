@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: photos
 title:  "п. Семиозерка, Татарстан. ДОЛ им. Гайдара"
 date:   2014-10-14 10:00:00 -0400
