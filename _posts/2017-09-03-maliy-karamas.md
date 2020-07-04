@@ -33,7 +33,7 @@ preview: 'https://farm5.staticflickr.com/4406/36600902490_10bd9a5b74_k.jpg'
 
 В 2003 году в дер. Малый Карамас находится 5 домов, которые пустуют. Из деревни жители переселились в дер. Чодыраял. Официально деревня не исключена из учетных данных.
 
-[Источник информации](http://aboutmari.com/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BC%D0%B0%D1%81_(%D0%98%D0%B7%D0%B8_%D0%9A%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%D1%81),_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F)
+[Источник информации](https://aboutmari.com/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BC%D0%B0%D1%81_(%D0%98%D0%B7%D0%B8_%D0%9A%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%D1%81),_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F)
 
 <div class="post-iframe"><iframe src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d3822.9848444847707!2d48.85808569804267!3d56.136484515018076!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sru!4v1504441932374" width="600" height="450" frameborder="0" allowfullscreen=""></iframe></div>
 
