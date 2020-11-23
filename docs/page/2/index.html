@@ -14,11 +14,12 @@
 </title>
 
 <meta property="og:url" content="https://ilya.gorenburg.com/page/2/">
-<meta property="og:site_name" content="ilya.gorenburg.com">
+<meta property="og:site_name" content="Ilya Gorenburg">
 <meta property="og:image:width" content="1920">
 <meta property="og:type" content="website">
-<meta name="twitter:site" content="@gorenburg">
-<meta name="twitter:site_name" content="Ilya Gorenburg">
+<meta property="twitter:site" content="@gorenburg">
+<meta property="twitter:site_name" content="Ilya Gorenburg">
+<meta property="twitter:card" content="summary_large_image">
 
 
 
@@ -27,10 +28,15 @@
   <meta name="twitter:title" content="Ilya Gorenburg | Frontend Developer. Behind the scenes · Ilya Gorenburg | Frontend Developer. Behind the scenes">
 
 
+<meta name="description" content="{% if page.url == "/" %}    Подписывайтесь на мой канал в telegram о моей жизни в Канаде: @kaknadec{% endif %}{% for post in paginator.posts %}  {% if post.type contains 'photos' %}                                {{ post.title }}                      {{...">
+<meta property="og:description" content="{% if page.url == "/" %}    Подписывайтесь на мой канал в telegram о моей жизни в Канаде: @kaknadec{% endif %}{% for post in paginator.posts %}  {% if post.type contains 'photos' %}                                {{ post.title }}                      {{...">
+<meta property="twitter:description" content="{% if page.url == "/" %}    Подписывайтесь на мой канал в telegram о моей жизни в Канаде: @kaknadec{% endif %}{% for post in paginator.posts %}  {% if post.type contains 'photos' %}                                {{ post.title }}                      {{...">
+
 <link rel="shortcut icon" href="/assets/images/avatar.jpg">
 <link rel="apple-touch-icon" href="/assets/images/avatar.jpg">
 
-<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i|Fira+Sans+Condensed:500|Fira+Sans:400,500,600&amp;subset=cyrillic" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@500&family=Fira+Sans:wght@400;500;600&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/solid.css" integrity="sha384-rdyFrfAIC05c5ph7BKz3l5NG5yEottvO/DQ0dCrwD8gzeQDjYBHNr1ucUpQuljos" crossorigin="anonymous">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/brands.css" integrity="sha384-QT2Z8ljl3UupqMtQNmPyhSPO/d5qbrzWmFxJqmY7tqoTuT2YrQLEqzvVOP2cT5XW" crossorigin="anonymous">
@@ -51,34 +57,64 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<header class="header-page">
-  <section class="header-profile">
-    <a href="/" class="header-logo">
-      <img src="/assets/images/avatar.jpg" width="64" height="64" class="header-avatar" alt="Ilya Gorenburg">
-    </a>
-    <div class="header-profile-inner">
-      <a href="/" class="header-profile-link">Ilya Gorenburg</a>
-      <section class="header-description">Frontend Developer. Behind the scenes</section>
-    </div>
-  </section>
-  <nav>
-    <ul class="header-menu">
-      <li>
-        <a href="/map/"><i class="fas fa-map-pin fa-pad-right-thin"></i>map</a>
-      </li>
-      <li>
-        <a href="/tag/photos">#photos</a>
-      </li>
-      <li>
-        <a href="/tag/code">#code</a>
-      </li>
-    </ul>
-  </nav>
-</header>
+<section class="wrapper">
+
+  <header class="header-page">
+    <section class="header-profile">
+      <a href="/" class="header-logo">
+        <img src="/assets/images/avatar.jpg" width="64" height="64" class="header-avatar" alt="Ilya Gorenburg">
+      </a>
+      <div class="header-profile-inner">
+        <a href="/" class="header-profile-link">Ilya Gorenburg</a>
+        <section class="header-description">Frontend Developer. Behind the scenes</section>
+      </div>
+    </section>
+    <nav>
+      <ul class="header-menu">
+        <li>
+          <a href="/map/"><i class="fas fa-map-pin fa-pad-right-thin"></i>map</a>
+        </li>
+        <li>
+          <a href="/tag/photos">#photos</a>
+        </li>
+        <li>
+          <a href="/tag/code">#code</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+</section>
 
 
       <section class="posts">
         
+
+
+
+  
+
+    <article class="post video">
+
+        <div class="post-video"><video width="800" height="450" controls="" preload="metadata"><source src="https://flickr.com/video_download.gne?id=49277832183" type="video/mp4" /></video></div>
+
+<p class="post-video-caption">Стрельба по целям в поле Орегона</p>
+
+
+        <header class="text-center">
+          <a href="/2019/12/26/target-shooting-day" class="small" title="26/12/2019">26/12/2019</a>
+          <a href="/2019/12/26/target-shooting-day" class="large" title="26 December 2019">26 December 2019</a>
+          &#8226;
+          <i class="fas fa-video fa-pad-left fa-pad-right"></i>
+          &#8226;
+          
+            <a href="/tag/video" class="header-tag">#video</a>
+          
+        </header>
+
+    </article>
+
+  
 
 
 
@@ -380,40 +416,6 @@
 
 
 
-  
-    
-    <article class="post-preview post-preview-photos">
-
-      <a href="/2018/12/04/hohlovo" title="с. Хохлово, Татарстан. Церковь Введения во храм Пресвятой Богородицы" class="post-preview-link title" style="background-image: url('https://farm2.staticflickr.com/1779/43943402632_62a700a027_k_d.jpg');">
-
-        <div class="post-preview-link-inner">
-          <h2 class="h2">с. Хохлово, Татарстан. Церковь Введения во храм Пресвятой Богородицы</h2>
-
-          <div class="post-preview-meta">
-            <span class="fa-pad-right">4 December 2018</span>
-            &#8226;
-            <i class="fas fa-camera fa-pad-left fa-pad-right"></i>
-            &#8226;
-            <span class="fa-pad-left">
-              
-                #photos
-              
-                #explore
-              
-                #travel
-              
-            </span>
-          </div>
-        </div>
-
-      </a>
-
-    </article>
-
-  
-
-
-
 
   <div class="pagination">
 
@@ -459,6 +461,14 @@
           
             <a href="/page/5/">
               5
+            </a>
+          
+        </li>
+      
+        <li>
+          
+            <a href="/page/6/">
+              6
             </a>
           
         </li>
@@ -511,10 +521,10 @@
 <script src="/assets/js/lightbox.min.js"></script>
 
 <script>
-$(document).ready(function() {
-  const observer = lozad();
-  observer.observe();
-})
+  $(document).ready(function() {
+    const observer = lozad();
+    observer.observe();
+  })
 </script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

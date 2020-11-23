@@ -14,18 +14,18 @@
 </title>
 
 <meta property="og:url" content="https://ilya.gorenburg.com/2020/07/03/shapshi">
-<meta property="og:site_name" content="ilya.gorenburg.com">
+<meta property="og:site_name" content="Ilya Gorenburg">
 <meta property="og:image:width" content="1920">
 <meta property="og:type" content="website">
-<meta name="twitter:site" content="@gorenburg">
-<meta name="twitter:site_name" content="Ilya Gorenburg">
+<meta property="twitter:site" content="@gorenburg">
+<meta property="twitter:site_name" content="Ilya Gorenburg">
+<meta property="twitter:card" content="summary_large_image">
 
 
   <meta property="og:image" content="https://live.staticflickr.com/65535/50073101587_8d2f2daa86_k_d.jpg">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="https://live.staticflickr.com/65535/50073101587_8d2f2daa86_k_d.jpg">
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:image" content="https://live.staticflickr.com/65535/50073101587_8d2f2daa86_k_d.jpg">
   <meta name="image" content="https://live.staticflickr.com/65535/50073101587_8d2f2daa86_k_d.jpg">
-  <meta name="og_twitter_card" content="summary_large_image">
 
 
 
@@ -33,10 +33,15 @@
   <meta name="twitter:title" content="с. Шапши, Татарстан. Церковь Николая Чудотворца · Ilya Gorenburg | Frontend Developer. Behind the scenes">
 
 
+<meta name="description" content="Однопрестольный каменный храм построен в 1821 г. Служил зимней церковью прихода с. Шапши.Средних размеров храм без колокольни с высоким центральным объемом. Выполнен в традициях позднего классицизма. Кубический двусветный объём храма перекрыт купольным ...">
+<meta property="og:description" content="Однопрестольный каменный храм построен в 1821 г. Служил зимней церковью прихода с. Шапши.Средних размеров храм без колокольни с высоким центральным объемом. Выполнен в традициях позднего классицизма. Кубический двусветный объём храма перекрыт купольным ...">
+<meta property="twitter:description" content="Однопрестольный каменный храм построен в 1821 г. Служил зимней церковью прихода с. Шапши.Средних размеров храм без колокольни с высоким центральным объемом. Выполнен в традициях позднего классицизма. Кубический двусветный объём храма перекрыт купольным ...">
+
 <link rel="shortcut icon" href="/assets/images/avatar.jpg">
 <link rel="apple-touch-icon" href="/assets/images/avatar.jpg">
 
-<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i|Fira+Sans+Condensed:500|Fira+Sans:400,500,600&amp;subset=cyrillic" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@500&family=Fira+Sans:wght@400;500;600&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/solid.css" integrity="sha384-rdyFrfAIC05c5ph7BKz3l5NG5yEottvO/DQ0dCrwD8gzeQDjYBHNr1ucUpQuljos" crossorigin="anonymous">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/brands.css" integrity="sha384-QT2Z8ljl3UupqMtQNmPyhSPO/d5qbrzWmFxJqmY7tqoTuT2YrQLEqzvVOP2cT5XW" crossorigin="anonymous">
@@ -46,9 +51,8 @@
 
   </head>
   <body>
-    <section class="wrapper">
 
-      <div id="fb-root"></div>
+    <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -57,53 +61,65 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<header class="header-page">
-  <section class="header-profile">
-    <a href="/" class="header-logo">
-      <img src="/assets/images/avatar.jpg" width="64" height="64" class="header-avatar" alt="Ilya Gorenburg">
-    </a>
-    <div class="header-profile-inner">
-      <a href="/" class="header-profile-link">Ilya Gorenburg</a>
-      <section class="header-description">Frontend Developer. Behind the scenes</section>
-    </div>
-  </section>
-  <nav>
-    <ul class="header-menu">
-      <li>
-        <a href="/map/"><i class="fas fa-map-pin fa-pad-right-thin"></i>map</a>
-      </li>
-      <li>
-        <a href="/tag/photos">#photos</a>
-      </li>
-      <li>
-        <a href="/tag/code">#code</a>
-      </li>
-    </ul>
-  </nav>
-</header>
+<section class="wrapper">
+
+  <header class="header-page">
+    <section class="header-profile">
+      <a href="/" class="header-logo">
+        <img src="/assets/images/avatar.jpg" width="64" height="64" class="header-avatar" alt="Ilya Gorenburg">
+      </a>
+      <div class="header-profile-inner">
+        <a href="/" class="header-profile-link">Ilya Gorenburg</a>
+        <section class="header-description">Frontend Developer. Behind the scenes</section>
+      </div>
+    </section>
+    <nav>
+      <ul class="header-menu">
+        <li>
+          <a href="/map/"><i class="fas fa-map-pin fa-pad-right-thin"></i>map</a>
+        </li>
+        <li>
+          <a href="/tag/photos">#photos</a>
+        </li>
+        <li>
+          <a href="/tag/code">#code</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+</section>
 
 
-      <section class="posts">
-        <article class="post post-photos">
+    <section class="posts">
+      <article class="post post-photos">
+
+        
 
           
 
-            <div class="title text-center">
-              <h1 class="h2">с. Шапши, Татарстан. Церковь Николая Чудотворца</h1>
-            </div>
+          <div class="wrapper">
 
-            <header class="text-center">
-              <date class="small" title="3/07/2020">3/07/2020</date>
-              <date class="large" title="3 July 2020">3 July 2020</date>
-              &#8226;
-              
-                <a href="/tag/photos" class="header-tag">#photos</a>
-              
-                <a href="/tag/explore" class="header-tag">#explore</a>
-              
-                <a href="/tag/travel" class="header-tag">#travel</a>
-              
-            </header>
+            
+
+              <div class="title text-center">
+                <h1 class="h2">с. Шапши, Татарстан. Церковь Николая Чудотворца</h1>
+              </div>
+
+              <header class="text-center">
+                <date class="small" title="3/07/2020">3/07/2020</date>
+                <date class="large" title="3 July 2020">3 July 2020</date>
+                &#8226;
+                
+                  <a href="/tag/photos" class="header-tag">#photos</a>
+                
+                  <a href="/tag/explore" class="header-tag">#explore</a>
+                
+                  <a href="/tag/travel" class="header-tag">#travel</a>
+                
+              </header>
+
+            
 
             <p>Однопрестольный каменный храм построен в 1821 г. Служил зимней церковью прихода с. Шапши.</p>
 
@@ -152,11 +168,14 @@
 <p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/50073099012_87a1d72c86_k.jpg" /></p>
 
 
-          
+          </div>
 
-        </article>
-      </section>
+        
 
+      </article>
+    </section>
+
+    <section class="wrapper">
       <section class="comments">
         <div class="fb-comments" data-href="https://ilya.gorenburg.com/2020/07/03/shapshi" data-width="100%" data-numposts="10"></div>
       </section>
@@ -196,10 +215,10 @@
 <script src="/assets/js/lightbox.min.js"></script>
 
 <script>
-$(document).ready(function() {
-  const observer = lozad();
-  observer.observe();
-})
+  $(document).ready(function() {
+    const observer = lozad();
+    observer.observe();
+  })
 </script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -212,8 +231,40 @@ $(document).ready(function() {
   gtag('config', 'UA-1939975-10');
 </script>
 
-
     </section>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://google.com/article"
+        },
+        "headline": "с. Шапши, Татарстан. Церковь Николая Чудотворца",
+        
+          "image": [
+            "https://live.staticflickr.com/65535/50073101587_8d2f2daa86_k_d.jpg"
+          ],
+         
+        "datePublished": "2020-07-03T10:00:00-04:00",
+        "dateModified": "2020-07-03T10:00:00-04:00",
+        "author": {
+          "@type": "Person",
+          "name": "Ilya Gorenburg"
+        },
+        
+          "publisher": {
+            "@type": "Organization",
+            "name": "Ilya Gorenburg",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://live.staticflickr.com/65535/50073101587_8d2f2daa86_k_d.jpg"
+            }
+          }
+        
+      }
+      </script>
 
   </body>
 </html>
