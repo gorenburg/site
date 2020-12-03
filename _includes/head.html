@@ -35,9 +35,15 @@
   <meta name="twitter:title" content="{{ site.title }}">
 {% endif %}
 
-<meta name="description" content="{{ page.content | strip_html | strip_newlines | truncate: 256 }}">
-<meta property="og:description" content="{{ page.content | strip_html | strip_newlines | truncate: 256 }}">
-<meta property="twitter:description" content="{{ page.content | strip_html | strip_newlines | truncate: 256 }}">
+{% if page.description %}
+  <meta name="description" content="{{ page.description | truncate: 256 }}">
+  <meta property="og:description" content="{{ page.description | truncate: 256 }}">
+  <meta property="twitter:description" content="{{ page.description | truncate: 256 }}">
+{% else %}
+  <meta name="description" content="{{ page.content | strip_html | strip_newlines | truncate: 256 }}">
+  <meta property="og:description" content="{{ page.content | strip_html | strip_newlines | truncate: 256 }}">
+  <meta property="twitter:description" content="{{ page.content | strip_html | strip_newlines | truncate: 256 }}">
+{% endif %}
 
 <link rel="shortcut icon" href="/assets/images/avatar.jpg">
 <link rel="apple-touch-icon" href="/assets/images/avatar.jpg">
