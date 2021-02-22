@@ -224,19 +224,31 @@
 
 <script>
   $(document).ready(function() {
-    const observer = lozad();
-    observer.observe();
+    const observer = lozad()
+    observer.observe()
+
+    const video = document.querySelector('.js-header-video')
+    if (video) {
+      const videoIntersectionObserver = new IntersectionObserver(function(entries) {
+        if (entries[0].isIntersecting) {
+          video.play()
+        } else {
+          video.pause()
+        }
+      })
+      videoIntersectionObserver.observe(video)
+    }
+
   })
 </script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1939975-10"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-1939975-10');
+  window.dataLayer = window.dataLayer || []
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js', new Date())
+  gtag('config', 'UA-1939975-10')
 </script>
 
     </section>

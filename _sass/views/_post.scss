@@ -175,7 +175,6 @@
     }
 
     a {
-      vertical-align: top;
       position: absolute;
       display: block;
       top: 0;
@@ -243,12 +242,16 @@
     p {
 
       img {
+        max-width: 100vw;
+        transform: translateX(-10%);
+
         @media (min-width: 61em) {
           width: 86vw;
           max-width: 1900px;
           margin-left: 50%;
           transform: translateX(-50%);
         }
+
       }
 
     }

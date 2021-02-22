@@ -175,7 +175,7 @@ description: "Personal site of Ilya Gorenburg, frontend developer. Posting stori
           {% if page == paginator.page %}
             {{ page }}
           {% elsif page == 1 %}
-            <a href="{{ paginator.previous_page_path | relative_url }}">
+            <a href="{{ '/' | relative_url }}">
               {{ page }}
             </a>
           {% else %}

@@ -103,6 +103,29 @@
     
 
       <article class="post">
+        <a href="/2021/02/21/carbide-willson-ruins" title="Carbide Willson Ruins" class="title">
+          <h2 class="h2">Carbide Willson Ruins</h2>
+        </a>
+        <header>
+          <time class="fa-pad-right">21 February 2021</time>
+          &#8226;
+          
+            <a href="/tag/photos" class="header-tag">#photos</a>
+          
+            <a href="/tag/explore" class="header-tag">#explore</a>
+          
+            <a href="/tag/travel" class="header-tag">#travel</a>
+          
+        </header>
+      </article>
+
+    
+
+  
+
+    
+
+      <article class="post">
         <a href="/2021/01/02/tatajes" title="ТатАЭС, с. Камские Поляны, Татарстан" class="title">
           <h2 class="h2">ТатАЭС, с. Камские Поляны, Татарстан</h2>
         </a>
@@ -1065,19 +1088,31 @@
 
 <script>
   $(document).ready(function() {
-    const observer = lozad();
-    observer.observe();
+    const observer = lozad()
+    observer.observe()
+
+    const video = document.querySelector('.js-header-video')
+    if (video) {
+      const videoIntersectionObserver = new IntersectionObserver(function(entries) {
+        if (entries[0].isIntersecting) {
+          video.play()
+        } else {
+          video.pause()
+        }
+      })
+      videoIntersectionObserver.observe(video)
+    }
+
   })
 </script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1939975-10"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-1939975-10');
+  window.dataLayer = window.dataLayer || []
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js', new Date())
+  gtag('config', 'UA-1939975-10')
 </script>
 
 
