@@ -47,7 +47,7 @@
 <link href="/assets/css/style.css" rel="stylesheet">
 
   </head>
-  <body>
+  <body id="body">
     <section class="wrapper">
 
       <div id="fb-root"></div>
@@ -97,6 +97,29 @@
 </div>
 
 <section class="articles-tag-list">
+
+  
+
+    
+
+      <article class="post">
+        <a href="/2021/03/08/abandoned-village" title="Заброшенная деревня" class="title">
+          <h2 class="h2">Заброшенная деревня</h2>
+        </a>
+        <header>
+          <time class="fa-pad-right">8 March 2021</time>
+          &#8226;
+          
+            <a href="/tag/photos" class="header-tag">#photos</a>
+          
+            <a href="/tag/explore" class="header-tag">#explore</a>
+          
+            <a href="/tag/travel" class="header-tag">#travel</a>
+          
+        </header>
+      </article>
+
+    
 
   
 
@@ -904,19 +927,6 @@
   $(document).ready(function() {
     const observer = lozad()
     observer.observe()
-
-    const video = document.querySelector('.js-header-video')
-    if (video) {
-      const videoIntersectionObserver = new IntersectionObserver(function(entries) {
-        if (entries[0].isIntersecting) {
-          video.play()
-        } else {
-          video.pause()
-        }
-      })
-      videoIntersectionObserver.observe(video)
-    }
-
   })
 </script>
 

@@ -47,7 +47,7 @@
 <link href="/assets/css/style.css" rel="stylesheet">
 
   </head>
-  <body>
+  <body id="body">
     <section class="wrapper">
 
       <div id="fb-root"></div>
@@ -93,6 +93,40 @@
         
    <div class="announcement-telegram"><i class="fab fa-telegram fa-pad-right"></i> Подписывайтесь на мой канал в telegram о моей жизни в Канаде: <a href="https://t.me/kaknadec" target="_blank">@kaknadec</a></div>
 
+
+
+
+  
+    
+    <article class="post-preview post-preview-photos">
+
+      <a href="/2021/03/08/abandoned-village" title="Заброшенная деревня" class="post-preview-link title" style="background-image: url('https://live.staticflickr.com/65535/50158903176_0393901ae6_k_d.jpg');">
+
+        <div class="post-preview-link-inner">
+          <h2 class="h2">Заброшенная деревня</h2>
+
+          <div class="post-preview-meta">
+            <span class="fa-pad-right">8 March 2021</span>
+            &#8226;
+            <i class="fas fa-camera fa-pad-left fa-pad-right"></i>
+            &#8226;
+            <span class="fa-pad-left">
+              
+                #photos
+              
+                #explore
+              
+                #travel
+              
+            </span>
+          </div>
+        </div>
+
+      </a>
+
+    </article>
+
+  
 
 
 
@@ -392,40 +426,6 @@
 
 
 
-  
-    
-    <article class="post-preview post-preview-photos">
-
-      <a href="/2020/02/15/mokri" title="с. Мокры, Чувашская республика" class="post-preview-link title" style="background-image: url('https://live.staticflickr.com/65535/49541235752_cd1e98fac3_k_d.jpg');">
-
-        <div class="post-preview-link-inner">
-          <h2 class="h2">с. Мокры, Чувашская республика</h2>
-
-          <div class="post-preview-meta">
-            <span class="fa-pad-right">15 February 2020</span>
-            &#8226;
-            <i class="fas fa-camera fa-pad-left fa-pad-right"></i>
-            &#8226;
-            <span class="fa-pad-left">
-              
-                #photos
-              
-                #explore
-              
-                #travel
-              
-            </span>
-          </div>
-        </div>
-
-      </a>
-
-    </article>
-
-  
-
-
-
 
   <div class="pagination">
 
@@ -532,19 +532,6 @@
   $(document).ready(function() {
     const observer = lozad()
     observer.observe()
-
-    const video = document.querySelector('.js-header-video')
-    if (video) {
-      const videoIntersectionObserver = new IntersectionObserver(function(entries) {
-        if (entries[0].isIntersecting) {
-          video.play()
-        } else {
-          video.pause()
-        }
-      })
-      videoIntersectionObserver.observe(video)
-    }
-
   })
 </script>
 

@@ -3,7 +3,7 @@
   <head>
     {% include head.html %}
   </head>
-  <body>
+  <body id="body">
 
     {% include header.html %}
 
@@ -23,10 +23,27 @@
                   {% endif %}
                 </div>
                 {% if page.preview_video %}
-                  <video class="post-img-header-media js-header-video" muted autoplay playsinline loop>
+                  <video class="post-img-header-media" id="js-header-video" muted autoplay playsinline loop>
                     <source src="{{ page.preview_video }}" type="video/mp4">
                     Sorry, your browser doesn't support embedded videos.
                   </video>
+
+                  <script>
+                    window.addEventListener('load', (event) => {
+                      const video = document.getElementById('js-header-video')
+                      if (video) {
+                        const videoIntersectionObserver = new IntersectionObserver(function(entries) {
+                          if (entries[0].isIntersecting) {
+                            video.play()
+                          } else {
+                            video.pause()
+                          }
+                        })
+                        videoIntersectionObserver.observe(video)
+                      }
+                    })
+                  </script>
+
                 {% else %}
                   <img class="post-img-header-media" src="{{ page.preview }}" width="2048" height="1536" alt="{{ page.title }}">
                 {% endif %}

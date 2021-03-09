@@ -36,19 +36,6 @@
   $(document).ready(function() {
     const observer = lozad()
     observer.observe()
-
-    const video = document.querySelector('.js-header-video')
-    if (video) {
-      const videoIntersectionObserver = new IntersectionObserver(function(entries) {
-        if (entries[0].isIntersecting) {
-          video.play()
-        } else {
-          video.pause()
-        }
-      })
-      videoIntersectionObserver.observe(video)
-    }
-
   })
 </script>
 

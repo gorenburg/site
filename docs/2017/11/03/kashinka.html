@@ -52,7 +52,7 @@
 <link href="/assets/css/style.css" rel="stylesheet">
 
   </head>
-  <body>
+  <body id="body">
 
     <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -204,19 +204,6 @@
   $(document).ready(function() {
     const observer = lozad()
     observer.observe()
-
-    const video = document.querySelector('.js-header-video')
-    if (video) {
-      const videoIntersectionObserver = new IntersectionObserver(function(entries) {
-        if (entries[0].isIntersecting) {
-          video.play()
-        } else {
-          video.pause()
-        }
-      })
-      videoIntersectionObserver.observe(video)
-    }
-
   })
 </script>
 

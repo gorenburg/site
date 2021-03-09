@@ -47,7 +47,7 @@
 <link href="/assets/css/style.css" rel="stylesheet">
 
   </head>
-  <body>
+  <body id="body">
     <section class="wrapper">
 
       <div id="fb-root"></div>
@@ -91,6 +91,40 @@
 
       <section class="posts">
         
+
+
+
+  
+    
+    <article class="post-preview post-preview-photos">
+
+      <a href="/2019/03/03/tatarskie-chelny" title="с. Татарские Челны, Татарстан. Троицкая церковь" class="post-preview-link title" style="background-image: url('https://farm5.staticflickr.com/4804/31526634627_bc45a15114_k_d.jpg');">
+
+        <div class="post-preview-link-inner">
+          <h2 class="h2">с. Татарские Челны, Татарстан. Троицкая церковь</h2>
+
+          <div class="post-preview-meta">
+            <span class="fa-pad-right">3 March 2019</span>
+            &#8226;
+            <i class="fas fa-camera fa-pad-left fa-pad-right"></i>
+            &#8226;
+            <span class="fa-pad-left">
+              
+                #photos
+              
+                #explore
+              
+                #travel
+              
+            </span>
+          </div>
+        </div>
+
+      </a>
+
+    </article>
+
+  
 
 
 
@@ -393,45 +427,6 @@
 
 
 
-  
-
-    <article class="post quote">
-
-      <blockquote>
-  <p>Не надо бояться густого тумана,<br />
-Не надо бояться пустого кармана.<br />
-Не надо бояться ни горных потоков,<br />
-ни топей болотных, ни грязных подонков!</p>
-
-  <p>Не надо бояться тяжёлой задачи,<br />
-а надо бояться дешёвой удачи.<br />
-Не надо бояться быть честным и битым,<br />
-а надо бояться быть лживым и сытым!</p>
-
-  <p>Умейте всем страхам в лицо рассмеяться, -<br />
-лишь собственной трусости надо бояться!</p>
-</blockquote>
-
-<p>Евгений Евтушенко. 1978</p>
-
-
-      
-
-      <header class="text-center">
-        <a href="/2018/03/30/ne-nado" class="small" title="30/03/2018">30/03/2018</a>
-        <a href="/2018/03/30/ne-nado" class="large" title="30 March 2018">30 March 2018</a>
-        &#8226;
-        
-          <a href="/tag/quote" class="header-tag">#quote</a>
-        
-      </header>
-
-    </article>
-
-  
-
-
-
 
   <div class="pagination">
 
@@ -540,19 +535,6 @@
   $(document).ready(function() {
     const observer = lozad()
     observer.observe()
-
-    const video = document.querySelector('.js-header-video')
-    if (video) {
-      const videoIntersectionObserver = new IntersectionObserver(function(entries) {
-        if (entries[0].isIntersecting) {
-          video.play()
-        } else {
-          video.pause()
-        }
-      })
-      videoIntersectionObserver.observe(video)
-    }
-
   })
 </script>
 
