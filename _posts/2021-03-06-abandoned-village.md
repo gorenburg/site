@@ -24,7 +24,7 @@ preview_video: 'https://flickr.com/video_download.gne?id=50631217651'
 
 {% include audio.html src="https://s3.amazonaws.com/gorenburg.com/ilya/audio/2018-abandoned-village.mp3" %}
 
-<em>Запись разговора с Надеждой о заброшенном селе</em>
+<em>Запись разговора с Надеждой о заброшенной деревне</em>
 
 ![](){: .lozad data-src="https://live.staticflickr.com/65535/50159135607_8f968ffe22_k.jpg"}
 
