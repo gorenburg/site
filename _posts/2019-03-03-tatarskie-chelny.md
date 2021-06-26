@@ -11,7 +11,7 @@ preview: 'https://farm5.staticflickr.com/4804/31526634627_bc45a15114_k_d.jpg'
 
 По воспоминаниям старожилов, в Свято-Троицкой церкви одно время располагалось колхозное зернохранилище, а с 1960 года церковь пустовала. Текущее состояние - тяжелое.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1435.6483822617909!2d52.220124386560435!3d55.85825372645982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sca!4v1551647800756" width="600" height="450" frameborder="0" style="border:0" allowfullscreen="" class="post-map"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1435.6483822617909!2d52.220124386560435!3d55.85825372645982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sca!4v1551647800756" width="600" height="450" frameborder="0" style="border:0" allowfullscreen="" loading="lazy" class="post-map"></iframe>
 
 ![](https://farm8.staticflickr.com/7877/44649555400_52539cfd39_k.jpg)
 
