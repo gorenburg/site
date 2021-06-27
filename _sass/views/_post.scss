@@ -45,7 +45,7 @@
     font-size: 1em;
     line-height: 1.6;
     margin-bottom: 1.5em;
-    color: #4d4d50;
+    color: #29282c;
   }
   b, strong {
     font-weight: 600;
@@ -214,11 +214,13 @@
   &-map {
     width: 100%;
     height: 30vh;
+    margin-top: 1.5em;
     margin-bottom: 1.5em;
   }
 
   &-iframe {
     position: relative;
+    margin-top: 1.5em;
     margin-bottom: 1.5em;
 
     &:before {
