@@ -1,7 +1,7 @@
 ---
 layout: post
 type: photos
-title:  "Diefenbunker"
+title:  "Diefenbunker, Ottawa, CA"
 date:   2021-03-22 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://live.staticflickr.com/65535/50872152093_08ae53e6db_k_d.jpg'
