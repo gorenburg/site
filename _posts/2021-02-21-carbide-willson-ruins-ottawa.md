@@ -5,7 +5,7 @@ header: photo
 title:  "Carbide Willson Ruins, Ottawa, CA"
 subtitle: "Заброшенная лаборатория по производству карбида кальция"
 date:   2021-02-21 10:00:00 -0400
-tags: [photos, explore, travel]
+tags: [photos, explore, travel, story]
 preview: 'https://live.staticflickr.com/65535/50855247497_55c25d316f_k_d.jpg'
 preview_video: 'https://flickr.com/video_download.gne?id=50855245427'
 ---
