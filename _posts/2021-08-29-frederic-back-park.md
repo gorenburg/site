@@ -1,7 +1,7 @@
 ---
 layout: post
 type: photos
-title:  "Парк Frédéric-Back"
+title:  "Парк Frédéric-Back, Монреаль"
 date:   2021-08-29 10:00:00 -0400
 tags: [photos, explore, travel, story]
 preview: 'https://live.staticflickr.com/65535/51410915026_f7de68ccc6_k_d.jpg'
