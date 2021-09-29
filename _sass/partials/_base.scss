@@ -1,3 +1,19 @@
+:root {
+  --text-color: #29282c;
+  --bg-color: #fffcfc;
+  --primary-color: #a5f1d9;
+  --border-color: #a5f1d9;
+  --separator-color: #ebebeb;
+
+  @media (prefers-color-scheme: dark) {
+    --bg-color: #171717;
+    --text-color: #f1f1f1;
+    --border-color: #333;
+    --separator-color: #333;
+  }
+
+}
+
 *, *:before, *:after {
   box-sizing: border-box;
 }
@@ -7,7 +23,7 @@ html {
   -ms-text-size-adjust: 100%;
   min-height: 100%;
   box-sizing: border-box;
-  background: $color-primary;
+  background: var(--border-color);
   max-width: 100vw;
   overflow-x: hidden;
 }
@@ -15,10 +31,10 @@ html {
 body {
   font: 400 0.625em/1.5 $font-primary;
   margin-bottom: 0;
-  background-color: #fffcfc;
-  color: #29282c;
+  background-color: var(--bg-color);
+  color: var(--text-color);
   text-shadow: none;
-  border: 0.3125em solid $color-primary;
+  border: 0.3125em solid var(--border-color);
   min-height: 100vh;
   display: flex;
   flex-direction: column;

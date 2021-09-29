@@ -7,10 +7,6 @@
   padding-top: 1px;
   padding-bottom: 1px;
 
-  h1, h2, h3, h4, h5, h6 {
-    color: #29282c;
-  }
-
   h1 {
     font-size: 1.5em;
     line-height: 2;
@@ -45,14 +41,13 @@
     font-size: 1em;
     line-height: 1.6;
     margin-bottom: 1.5em;
-    color: #29282c;
   }
   b, strong {
     font-weight: 600;
   }
   a {
     font-weight: 400;
-    color: #29282c;
+    color: var(--text-color);
     &:hover {
       text-decoration: none;
     }
@@ -72,7 +67,7 @@
     margin-left: 0;
     margin-bottom: 1.5em;
     font-style: italic;
-    border-left: 4px solid #ebebeb;
+    border-left: 4px solid var(--separator-color);
     color: #4d4d50;
     padding-left: 1.5em;
   }

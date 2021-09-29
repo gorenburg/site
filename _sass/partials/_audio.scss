@@ -1,7 +1,7 @@
 .audio-player {
   display: flex;
   align-items: stretch;
-  background: $color-primary;
+  background: var(--primary-color);
   border: .25em solid transparent;
 
   &-controls {
