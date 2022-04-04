@@ -57,7 +57,7 @@ description: "Personal site of Ilya Gorenburg, frontend developer. Posting stori
 
   {% elsif post.type contains 'insta' %}
 
-    <article class="post {{post.type}}">
+    <article class="post {{ post.type }}">
 
       <div class="insta-grid">
         {{ post.content | replace: '<a ', '<a data-lightbox="date" ' | replace: 'date', post.date }}
@@ -104,7 +104,7 @@ description: "Personal site of Ilya Gorenburg, frontend developer. Posting stori
 
   {% elsif post.type contains 'quote' %}
 
-    <article class="post {{post.type}}">
+    <article class="post {{ post.type }}">
 
       {{ post.excerpt }}
 
@@ -127,7 +127,7 @@ description: "Personal site of Ilya Gorenburg, frontend developer. Posting stori
 
   {% else %}
 
-    <article class="post {{post.type}}">
+    <article class="post {{ post.type }}">
 
       <div class="text-center">
         <a href="{{ post.url }}" title="{{ post.title }}" class="title">
