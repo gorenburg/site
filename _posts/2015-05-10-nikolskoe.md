@@ -9,7 +9,7 @@ preview: 'https://farm9.staticflickr.com/8730/16868692453_c6db720a32_k.jpg'
 
 Поездка в заброшенную церковь Николая Чудотворца. Находится на месте заброшенной деревни Никольское (Лаишевский район), рядом с селами Чирпы и Именьково.
 
-<div class="post-iframe"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=z995EM4pAeu4.kOzLjV8GMEAg" width="100%" height="450"></iframe></div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2794.908205814407!2d49.752129745060614!3d55.471283493233685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sca!4v1551037046794" width="600" height="450" frameborder="0" style="border:0" allowfullscreen="" loading="lazy" class="post-map"></iframe>
 
 ![](https://farm8.staticflickr.com/7699/17488163565_f4c3e57040_k.jpg)
 
