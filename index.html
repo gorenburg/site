@@ -4,10 +4,6 @@ title: "Ilya Gorenburg | Frontend Developer. Behind the scenes"
 description: "Personal site of Ilya Gorenburg, frontend developer. Posting stories happening behind the scenes."
 ---
 
-{% if page.url == "/" %}
-   <div class="announcement-telegram"><i class="fab fa-telegram fa-pad-right"></i> Подписывайтесь на мой канал в telegram о моей жизни в Канаде: <a href="https://t.me/kaknadec" target="_blank">@kaknadec</a></div>
-{% endif %}
-
 {% for post in paginator.posts %}
 
   {% if post.type contains 'photos' %}
