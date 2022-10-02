@@ -15,15 +15,15 @@ preview: 'https://live.staticflickr.com/65535/51980068331_e4765c31bb_k_d.jpg'
 
 ![](){: .lozad data-src="https://live.staticflickr.com/65535/51980924019_34386d4a5b_o_d.jpg"}
 
-1920 год. Источник: [MemoriaChilena](http://www.memoriachilena.gob.cl/602/w3-article-74471.html)
+1920 год. Источник: [MemoriaChilena](https://www.memoriachilena.gob.cl/602/w3-article-74471.html)
 
 ![](){: .lozad data-src="https://live.staticflickr.com/65535/51980717068_9780392973_o_d.jpg"}
 
-1924 год. Источник: [MemoriaChilena](http://www.memoriachilena.gob.cl/602/w3-article-53658.html)
+1924 год. Источник: [MemoriaChilena](https://www.memoriachilena.gob.cl/602/w3-article-53658.html)
 
 ![](){: .lozad data-src="https://live.staticflickr.com/65535/51980717058_27d59566e9_o_d.jpg"}
 
-1924 год. Источник: [MemoriaChilena](http://www.memoriachilena.gob.cl/602/w3-article-53660.html)
+1924 год. Источник: [MemoriaChilena](https://www.memoriachilena.gob.cl/602/w3-article-53660.html)
 
 
 ![](){: .lozad data-src="https://live.staticflickr.com/65535/51980068331_e4765c31bb_k.jpg"}
