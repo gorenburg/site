@@ -9,7 +9,7 @@ preview: 'https://live.staticflickr.com/65535/52331950058_193ec9c999_k_d.jpg'
 
 Параход севший на мель в 1932 году в [Эстанции Сан Грегори, Чили](/2022/04/03/estancia-san-gregorio)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d8521.57252772595!2d-70.07039982819471!3d-52.56716723824692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1649013752164!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0" allowfullscreen="" loading="lazy" class="post-map"></iframe>
+{% include map.html src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d8521.57252772595!2d-70.07039982819471!3d-52.56716723824692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1649013752164!5m2!1sen!2sca" %}
 
 ![](){: .lozad data-src="https://live.staticflickr.com/65535/52331950058_193ec9c999_k.jpg"}
 

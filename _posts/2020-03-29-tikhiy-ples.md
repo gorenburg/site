@@ -17,7 +17,7 @@ preview: 'https://live.staticflickr.com/65535/49706048142_a4c0d69c27_k_d.jpg'
 
 Церковь была закрыта в начале 1930-х гг., но само здание хорошо сохранилось.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3929.560080196539!2d48.58296502406396!3d55.692302372828784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1585533548443!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0" allowfullscreen="" loading="lazy" class="post-map"></iframe>
+{% include map.html src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3929.560080196539!2d48.58296502406396!3d55.692302372828784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1585533548443!5m2!1sen!2sca" %}
 
 ![](){: .lozad data-src="https://live.staticflickr.com/65535/49705199918_29cd0a982e_k.jpg"}
 

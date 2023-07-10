@@ -1,12 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.1)
+    addressable (2.8.4)
       public_suffix (>= 2.0.2, < 6.0)
-    autoprefixer-rails (10.4.7.0)
+    autoprefixer-rails (10.4.13.0)
       execjs (~> 2)
     colorator (1.1.0)
-    concurrent-ruby (1.2.0)
+    concurrent-ruby (1.2.2)
     cssminify2 (2.0.1)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
@@ -17,7 +17,7 @@ GEM
     forwardable-extended (2.6.0)
     htmlcompressor (0.4.0)
     http_parser.rb (0.8.0)
-    i18n (1.12.0)
+    i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     jekyll (4.3.2)
       addressable (~> 2.4)

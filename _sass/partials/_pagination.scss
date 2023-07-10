@@ -4,7 +4,7 @@
   justify-content: space-between;
   list-style: none;
   padding: 0;
-  margin: 0 0 2.5em;
+  margin: 0 0 2.5rem;
   font-family: $font-secondary;
   text-decoration: none;
   font-size: 1em;
@@ -26,13 +26,13 @@
     li {
       display: inline-block;
       vertical-align: top;
-      margin: 0 10px;
+      margin: 0 .625rem;
     }
 
   }
 
   .pagination-prev, .pagination-next {
-    min-width: 100px;
+    min-width: 6.25rem;
   }
 
   .pagination-next {
@@ -42,14 +42,14 @@
   .prev {
     &:before {
       content: '\2190';
-      margin-right: 0.2em;
+      margin-right: .25rem;
     }
   }
 
   .next {
     &:after {
       content: '\2192';
-      margin-left: 0.2em;
+      margin-left: .25rem;
     }
   }
 

@@ -1,14 +1,14 @@
 header {
-  padding-top: 3em;
-  padding-bottom: 2.9em;
+  padding-top: 3rem;
+  padding-bottom: 2.9rem;
 
   ul {
-    padding: 0.6em 0 0.7em;
+    padding: .6rem 0 .7rem;
 
     li {
       width: auto;
       + li {
-        margin-left: 1em;
+        margin-left: 1rem;
       }
     }
 
@@ -18,8 +18,8 @@ header {
 
 .header-page {
   @media screen and (min-width: 43.75em) {
-    padding-top: 3em;
-    padding-bottom: 3em;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -30,35 +30,35 @@ header {
   display: flex;
   align-items: center;
   font-family: $font-secondary;
-  letter-spacing: -.5px;
+  letter-spacing: -.03125px;
   line-height: 1.33;
 }
 
 .header-profile-inner {
   text-align: left;
-  padding: 0 1em;
-  letter-spacing: -.02em;
+  padding: 0 1rem;
+  letter-spacing: -.02rem;
 }
 
 .header-profile-link {
-  margin-top: .5em;
+  margin-top: .5rem;
   margin-bottom: 0;
   text-decoration: none;
   color: inherit;
-  font-size: 1.125em;
+  font-size: 1.125rem;
   font-weight: 500;
-  letter-spacing: -.02px;
+  letter-spacing: -.00125rem;
 }
 
 .header-avatar {
-  border-radius: 6px;
+  border-radius: .375rem;
   vertical-align: top;
 }
 
 .header-description {
-  font-size: 0.8125em;
+  font-size: 1rem;
   font-family: 'Fira Sans', sans-serif;
-  letter-spacing: -.5px;
+  letter-spacing: -.03125rem;
   color: #a2a2a3;
   @media screen and (min-width: 43.75em) {
     line-height: 1.846153846;
@@ -70,7 +70,7 @@ header {
   padding: 0;
 
   @media screen and (max-width: 43.749em) {
-    margin-top: 1em;
+    margin-top: 1rem;
     text-align: center;
   }
 
@@ -79,10 +79,9 @@ header {
     text-align: center;
     a {
       display: block;
-      font-size: 0.875em;
       line-height: 1.3;
       margin-bottom: 0;
-      letter-spacing: -.5px;
+      letter-spacing: -.03125rem;
       text-decoration: none;
       font-weight: 400;
       font-family: $font-secondary;
@@ -95,7 +94,7 @@ header {
 
     }
     + li {
-      margin-left: 1.5em;
+      margin-left: 1.5rem;
     }
   }
 

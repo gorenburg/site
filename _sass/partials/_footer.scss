@@ -1,7 +1,7 @@
 .footer-page {
-  border-top: 2px solid var(--separator-color);
-  padding: 0.6em 0 0.8em;
-  margin-bottom: 3em;
+  border-top: .125rem solid var(--separator-color);
+  padding: .6rem 0 .8rem;
+  margin-bottom: 3rem;
 }
 
 .footer-icons {
@@ -13,8 +13,8 @@
   li {
     display: inline-block;
     vertical-align: top;
-    margin: 0 12px;
-    font-size: 26px;
+    margin: 0 .75rem;
+    font-size: 1.625rem;
   }
 
   a {

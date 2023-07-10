@@ -9,7 +9,7 @@ preview: 'https://live.staticflickr.com/65535/52682966523_385896f1bc_k_d.jpg'
 
 Второе крушение военного самолета, обнаруженное годы спустя. Разбился во время тренировочного полета 9 февраля 1945 года. Пилот погиб.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d686.4152688815948!2d-120.37041262097861!3d43.10926222673087!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1676138883435!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="post-map"></iframe>
+{% include map.html src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d686.4152688815948!2d-120.37041262097861!3d43.10926222673087!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1676138883435!5m2!1sen!2sca" %}
 
 ![](){: .lozad data-src="https://live.staticflickr.com/65535/52682750914_5dfc84675c_k.jpg"}
 

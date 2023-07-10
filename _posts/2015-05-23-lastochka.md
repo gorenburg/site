@@ -9,7 +9,7 @@ preview: 'https://farm8.staticflickr.com/7679/17358644528_99d4aa8c17_k.jpg'
 
 Поездка в заброшенный лагерь “Ласточка” в д.Крутушка. Проехали 50 км на велосипедах до лагеря и обратно.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2653.781547340508!2d49.213525807155285!3d55.93613931563352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1661133820654!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="post-map"></iframe>
+{% include map.html src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2653.781547340508!2d49.213525807155285!3d55.93613931563352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1661133820654!5m2!1sen!2sca" %}
 
 ![](https://farm8.staticflickr.com/7782/16923906764_1e829ce9c9_k.jpg)
 

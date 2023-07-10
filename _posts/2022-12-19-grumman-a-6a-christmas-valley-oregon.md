@@ -13,7 +13,7 @@ preview: 'https://live.staticflickr.com/65535/52573892741_756ed5e9df_k_d.jpg'
 
 Мы туда добирались от ближайшей асфальтированной дороги на Jeep Wrangler минут 40, хотя можно попробовать и доехать на обычном внедорожнике.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1261.0546667735!2d-120.3849158!3d43.10973!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1671483681729!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="post-map"></iframe>
+{% include map.html src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1261.0546667735!2d-120.3849158!3d43.10973!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1671483681729!5m2!1sen!2sca" %}
 
 ![](){: .lozad data-src="https://live.staticflickr.com/65535/52574420923_8ce9eb2542_k.jpg"}
 
