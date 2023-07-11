@@ -59,7 +59,6 @@ description: "Personal site of Ilya Gorenburg, frontend developer. Posting stori
         {{ post.content | replace: '<a ', '<a data-lightbox="date" ' | replace: 'date', post.date }}
       </div>
 
-
       {% if post.lead %}
         <p>{{ post.lead }}</p>
       {% endif %}

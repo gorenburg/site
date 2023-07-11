@@ -81,7 +81,21 @@
 
             {% endunless %}
 
-            {{ page.content | replace: "[[MORE]]", "" }}
+            {% if page.type contains 'insta' %}
+
+              <div class="insta-grid">
+                {{ page.content | replace: '<a ', '<a data-lightbox="date" ' | replace: 'date', page.date }}
+              </div>
+
+              {% if page.lead %}
+                <p>{{ page.lead }}</p>
+              {% endif %}
+
+            {% else %}
+
+              {{ page.content | replace: "[[MORE]]", "" }}
+
+            {% endif %}
 
           </div>
 
