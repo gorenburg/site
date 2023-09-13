@@ -9,6 +9,10 @@ preview: '/assets/cover/lit-there-be-light.png'
 
 Speaker notes about [Lit Framework](https://lit.dev) that we used at [Epic Games Dev Community](https://dev.epicgames.com/community) site to build web components. Presented at [JS Montreal](https://js-montreal.com) on 12th of September 2023.
 
+## Deck
+
+{% include slideshare.html src="https://www.slideshare.net/slideshow/embed_code/key/twJnJoaSaG9obs?hostedIn=slideshare&page=upload" %}
+
 ## Code
 
 Code examples included in the presentation are available on [github](https://gist.github.com/gorenburg/38da2c643e4153cf95a339ff7794f02b)

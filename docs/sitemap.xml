@@ -269,6 +269,10 @@
 <lastmod>2023-07-10T11:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>https://ilya.gorenburg.com/2023/09/12/lit-there-be-light</loc>
+<lastmod>2023-09-12T10:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>https://ilya.gorenburg.com/404</loc>
 </url>
 <url>
@@ -302,6 +306,12 @@
 <loc>https://ilya.gorenburg.com/tag/story</loc>
 </url>
 <url>
+<loc>https://ilya.gorenburg.com/tag/talks</loc>
+</url>
+<url>
+<loc>https://ilya.gorenburg.com/tag/speaker-notes</loc>
+</url>
+<url>
 <loc>https://ilya.gorenburg.com/page/2/</loc>
 </url>
 <url>
@@ -318,5 +328,8 @@
 </url>
 <url>
 <loc>https://ilya.gorenburg.com/page/7/</loc>
+</url>
+<url>
+<loc>https://ilya.gorenburg.com/page/8/</loc>
 </url>
 </urlset>
