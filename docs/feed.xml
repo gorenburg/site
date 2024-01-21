@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ilya.gorenburg.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ilya.gorenburg.com/" rel="alternate" type="text/html" /><updated>2023-09-14T23:14:01-04:00</updated><id>https://ilya.gorenburg.com/feed.xml</id><title type="html">Ilya Gorenburg | Frontend Developer. Behind the scenes</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Lit there be light</title><link href="https://ilya.gorenburg.com/2023/09/12/lit-there-be-light" rel="alternate" type="text/html" title="Lit there be light" /><published>2023-09-12T10:00:00-04:00</published><updated>2023-09-12T10:00:00-04:00</updated><id>https://ilya.gorenburg.com/2023/09/12/lit-there-be-light</id><content type="html" xml:base="https://ilya.gorenburg.com/2023/09/12/lit-there-be-light"><![CDATA[<p>Speaker notes about <a href="https://lit.dev">Lit Framework</a> that we used at <a href="https://dev.epicgames.com/community">Epic Games Dev Community</a> site to build web components. Presented at <a href="https://js-montreal.com">JS Montreal</a> on 12th of September 2023.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://ilya.gorenburg.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ilya.gorenburg.com/" rel="alternate" type="text/html" /><updated>2024-01-21T14:50:49-05:00</updated><id>https://ilya.gorenburg.com/feed.xml</id><title type="html">Ilya Gorenburg | Frontend Developer. Behind the scenes</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Brossard to Montreal by Water</title><link href="https://ilya.gorenburg.com/2024/01/21/brossard-to-montreal-by-water" rel="alternate" type="text/html" title="Brossard to Montreal by Water" /><published>2024-01-21T09:00:00-05:00</published><updated>2024-01-21T09:00:00-05:00</updated><id>https://ilya.gorenburg.com/2024/01/21/brossard-to-montreal-by-water</id><content type="html" xml:base="https://ilya.gorenburg.com/2024/01/21/brossard-to-montreal-by-water"><![CDATA[<div class="post-video"><video width="800" height="450" controls="" preload="metadata"><source src="https://www.flickr.com/video_download.gne?id=53478541406" type="video/mp4" /></video></div>]]></content><author><name></name></author><category term="video" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Lit there be light</title><link href="https://ilya.gorenburg.com/2023/09/12/lit-there-be-light" rel="alternate" type="text/html" title="Lit there be light" /><published>2023-09-12T10:00:00-04:00</published><updated>2023-09-12T10:00:00-04:00</updated><id>https://ilya.gorenburg.com/2023/09/12/lit-there-be-light</id><content type="html" xml:base="https://ilya.gorenburg.com/2023/09/12/lit-there-be-light"><![CDATA[<p>Speaker notes about <a href="https://lit.dev">Lit Framework</a> that we used at <a href="https://dev.epicgames.com/community">Epic Games Dev Community</a> site to build web components. Presented at <a href="https://js-montreal.com">JS Montreal</a> on 12th of September 2023.</p>
 
 <h2 id="deck">Deck</h2>
 
@@ -202,52 +202,4 @@
 
 <p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/52332141530_96f6f7c86a_k.jpg" /></p>
 
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/52330756342_1ae8c22933_k.jpg" /></p>]]></content><author><name></name></author><category term="photos" /><category term="explore" /><category term="travel" /><summary type="html"><![CDATA[Параход севший на мель в 1932 году в Эстанции Сан Грегори, Чили]]></summary></entry><entry><title type="html">Columbia River Gorge. Pt. 1</title><link href="https://ilya.gorenburg.com/2022/07/31/columbia-river-gorge-pt-1" rel="alternate" type="text/html" title="Columbia River Gorge. Pt. 1" /><published>2022-07-31T10:00:00-04:00</published><updated>2022-07-31T10:00:00-04:00</updated><id>https://ilya.gorenburg.com/2022/07/31/columbia-river-gorge-pt-1</id><content type="html" xml:base="https://ilya.gorenburg.com/2022/07/31/columbia-river-gorge-pt-1"><![CDATA[<div class="post-video"><video width="800" height="450" controls="" preload="metadata"><source src="https://flickr.com/video_download.gne?id=52254159671" type="video/mp4" /></video></div>]]></content><author><name></name></author><category term="video" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Estancia San Gregorio, Chile</title><link href="https://ilya.gorenburg.com/2022/04/03/estancia-san-gregorio" rel="alternate" type="text/html" title="Estancia San Gregorio, Chile" /><published>2022-04-03T10:00:00-04:00</published><updated>2022-04-03T10:00:00-04:00</updated><id>https://ilya.gorenburg.com/2022/04/03/estancia-san-gregorio</id><content type="html" xml:base="https://ilya.gorenburg.com/2022/04/03/estancia-san-gregorio"><![CDATA[<p>Первое ранчо, основанное в Патагонии в 1870 году, площадью 91 805 га, на нем содержалось 122 849 овец, 387 голов крупного рогатого скота и 401 лошадь. Основную прибыль эстансии составляли экспорт шерсти и мяса.  В самом начале своего основания была проблема отсутствия дорог и железной дороги, соединяющих эстанцию с другими городами - соединение было лишь грузовыми суднами. Позже эта проблема была решена. Пик своего развития эстансия получила в 1930-х годах, после чего население начало уезжать, а поголовье скота начало сокращаться по причине обеднения плодородных почв и сокращения необходимого количества еды для скота.</p>
-
-<p>В 2000 году этот комплекс был объявлен Национальным памятником. Хорошо сохранившиеся здания показывают архитектурные решения периода заселения и развития чилийской Патагонии.</p>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d8521.57252772595!2d-70.07039982819471!3d-52.56716723824692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1649013752164!5m2!1sen!2sca" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="post-map"></iframe>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51980924019_34386d4a5b_o_d.jpg" /></p>
-
-<p>1920 год. Источник: <a href="https://www.memoriachilena.gob.cl/602/w3-article-74471.html">MemoriaChilena</a></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51980717068_9780392973_o_d.jpg" /></p>
-
-<p>1924 год. Источник: <a href="https://www.memoriachilena.gob.cl/602/w3-article-53658.html">MemoriaChilena</a></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51980717058_27d59566e9_o_d.jpg" /></p>
-
-<p>1924 год. Источник: <a href="https://www.memoriachilena.gob.cl/602/w3-article-53660.html">MemoriaChilena</a></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51980068331_e4765c31bb_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51980068616_2c8ae18ce4_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51979061722_78eb72d11a_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/52332078225_e4d0f46f10_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51980346959_9832db7788_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51980347159_9aeab5aef0_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51979062627_d68d2a220c_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51979062827_dc65aef677_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51980138833_f9fa6ece92_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51979061077_8028659277_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51980067841_6ba9916c18_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51980136508_8a97644d38_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/51980067336_927cf35d1b_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/52331948419_89211563b7_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/52331886988_2860eff868_k.jpg" /></p>
-
-<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/52332078005_e3118ece01_k.jpg" /></p>]]></content><author><name></name></author><category term="photos" /><category term="explore" /><category term="travel" /><summary type="html"><![CDATA[Первое ранчо, основанное в Патагонии в 1870 году, площадью 91 805 га, на нем содержалось 122 849 овец, 387 голов крупного рогатого скота и 401 лошадь. Основную прибыль эстансии составляли экспорт шерсти и мяса. В самом начале своего основания была проблема отсутствия дорог и железной дороги, соединяющих эстанцию с другими городами - соединение было лишь грузовыми суднами. Позже эта проблема была решена. Пик своего развития эстансия получила в 1930-х годах, после чего население начало уезжать, а поголовье скота начало сокращаться по причине обеднения плодородных почв и сокращения необходимого количества еды для скота. В 2000 году этот комплекс был объявлен Национальным памятником. Хорошо сохранившиеся здания показывают архитектурные решения периода заселения и развития чилийской Патагонии. 1920 год. Источник: MemoriaChilena 1924 год. Источник: MemoriaChilena 1924 год. Источник: MemoriaChilena]]></summary></entry></feed>
+<p><img src="" alt="" class="lozad" data-src="https://live.staticflickr.com/65535/52330756342_1ae8c22933_k.jpg" /></p>]]></content><author><name></name></author><category term="photos" /><category term="explore" /><category term="travel" /><summary type="html"><![CDATA[Параход севший на мель в 1932 году в Эстанции Сан Грегори, Чили]]></summary></entry><entry><title type="html">Columbia River Gorge. Pt. 1</title><link href="https://ilya.gorenburg.com/2022/07/31/columbia-river-gorge-pt-1" rel="alternate" type="text/html" title="Columbia River Gorge. Pt. 1" /><published>2022-07-31T10:00:00-04:00</published><updated>2022-07-31T10:00:00-04:00</updated><id>https://ilya.gorenburg.com/2022/07/31/columbia-river-gorge-pt-1</id><content type="html" xml:base="https://ilya.gorenburg.com/2022/07/31/columbia-river-gorge-pt-1"><![CDATA[<div class="post-video"><video width="800" height="450" controls="" preload="metadata"><source src="https://flickr.com/video_download.gne?id=52254159671" type="video/mp4" /></video></div>]]></content><author><name></name></author><category term="video" /><summary type="html"><![CDATA[]]></summary></entry></feed>
