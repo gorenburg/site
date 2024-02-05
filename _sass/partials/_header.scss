@@ -17,6 +17,7 @@ header {
 }
 
 .page-header {
+  font-family: $font-secondary;
   @media screen and (min-width: 43.75em) {
     padding-top: 3rem;
     padding-bottom: 3rem;
@@ -30,22 +31,18 @@ header {
 .header-profile {
   display: flex;
   align-items: center;
-  font-family: $font-secondary;
-  letter-spacing: -.03125px;
   line-height: 1.33;
 }
 
 .header-profile-inner {
   padding: 0 1rem;
-  letter-spacing: -.02rem;
 }
 
 .header-profile-link {
   text-decoration: none;
   color: inherit;
   font-size: 1.125rem;
-  font-weight: 500;
-  letter-spacing: -.00125rem;
+  font-weight: 700;
 }
 
 .header-avatar {
@@ -54,8 +51,6 @@ header {
 
 .header-description {
   font-size: 1rem;
-  font-family: 'Fira Sans', sans-serif;
-  letter-spacing: -.03125rem;
   color: #a2a2a3;
   @media screen and (min-width: 43.75em) {
     line-height: 1.84;
@@ -78,10 +73,7 @@ header {
       display: block;
       line-height: 1.3;
       margin-bottom: 0;
-      letter-spacing: -.03125rem;
       text-decoration: none;
-      font-weight: 400;
-      font-family: $font-secondary;
       color: #a2a2a3;
       transition: color .2s linear;
 
