@@ -4,6 +4,7 @@
   --primary-color: #a5f1d9;
   --border-color: #a5f1d9;
   --separator-color: #ebebeb;
+  --content-width: 63.75rem;
 
   @media (prefers-color-scheme: dark) {
     --bg-color: #171717;
@@ -96,8 +97,16 @@ h1, h2, h3, h4, h5, h6 {
   font-style: normal;
 }
 
+h1 {
+  text-align: center;
+}
+
 a {
   color: #21cd9c;
+
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 .wrapper {
@@ -110,7 +119,7 @@ a {
 
   @media screen and (min-width: 61em) {
     width: 100%;
-    max-width: 63.75rem;
+    max-width: var(--content-width);
     padding-left: 2.5rem;
     padding-right: 2.5rem;
   }

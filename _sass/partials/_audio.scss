@@ -28,7 +28,7 @@
     background: #fff;
   }
 
-  &-placeholder {
+  &-preloader {
     position: absolute;
     top: 0;
     left: 0;
@@ -43,7 +43,7 @@
     font-size: 1rem;
     cursor: pointer;
     padding: 0;
-    z-index: 2;
+    z-index: 3;
     outline: none;
   }
 

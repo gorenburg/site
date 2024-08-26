@@ -37,14 +37,14 @@ preview: 'https://live.staticflickr.com/65535/52415793814_71bef5b36a_k_d.jpg'
 
 {% include map.html src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d8521.57252772595!2d-70.07039982819471!3d-52.56716723824692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1649013752164!5m2!1sen!2sca" %}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/52415510731_1afc25802e_k.jpg"}
+![Ambassador shipwreck, Chile](https://live.staticflickr.com/65535/52415510731_1afc25802e_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/52415510511_671abf9e42_k.jpg"}
+![Ambassador shipwreck, Chile](https://live.staticflickr.com/65535/52415510511_671abf9e42_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/52415793814_71bef5b36a_k.jpg"}
+![Ambassador shipwreck, Chile](https://live.staticflickr.com/65535/52415793814_71bef5b36a_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/52415954030_cfb9f6643b_k.jpg"}
+![Ambassador shipwreck, Chile](https://live.staticflickr.com/65535/52415954030_cfb9f6643b_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/52415509881_9e847d46ca_k.jpg"}
+![Ambassador shipwreck, Chile](https://live.staticflickr.com/65535/52415509881_9e847d46ca_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/52415509616_a5778b1c22_k.jpg"}
+![Ambassador shipwreck, Chile](https://live.staticflickr.com/65535/52415509616_a5778b1c22_k.jpg){: width="2048" height="1536" loading="lazy"}

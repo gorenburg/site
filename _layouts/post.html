@@ -64,42 +64,36 @@
 
           {% endif %}
 
-          <div class="wrapper">
+          {% unless page.header contains 'photo' %}
 
-            {% unless page.header contains 'photo' %}
+            <h1>{{ page.title }}</h1>
 
-              <div class="title text-center">
-                <h1 class="h2">{{ page.title }}</h1>
-              </div>
+            <header class="text-center">
+              <date class="small" title="{{ page.date | date: "%-d/%m/%Y"}}">{{ page.date | date: "%-d/%m/%Y"}}</date>
+              <date class="large" title="{{ page.date | date: "%-d %B %Y"}}">{{ page.date | date: "%-d %B %Y"}}</date>
+              &#8226;
+              {% for tag in page.tags %}
+                <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}" class="header-tag">#{{ tag }}</a>
+              {% endfor %}
+            </header>
 
-              <header class="text-center">
-                <date class="small" title="{{ page.date | date: "%-d/%m/%Y"}}">{{ page.date | date: "%-d/%m/%Y"}}</date>
-                <date class="large" title="{{ page.date | date: "%-d %B %Y"}}">{{ page.date | date: "%-d %B %Y"}}</date>
-                &#8226;
-                {% for tag in page.tags %}
-                  <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}" class="header-tag">#{{ tag }}</a>
-                {% endfor %}
-              </header>
+          {% endunless %}
 
-            {% endunless %}
+          {% if page.type contains 'insta' %}
 
-            {% if page.type contains 'insta' %}
+            <div class="insta-grid">
+              {{ page.content | replace: '<a ', '<a data-lightbox="date" ' | replace: 'date', page.date }}
+            </div>
 
-              <div class="insta-grid">
-                {{ page.content | replace: '<a ', '<a data-lightbox="date" ' | replace: 'date', page.date }}
-              </div>
-
-              {% if page.lead %}
-                <p>{{ page.lead }}</p>
-              {% endif %}
-
-            {% else %}
-
-              {{ page.content | replace: "[[MORE]]", "" }}
-
+            {% if page.lead %}
+              <p>{{ page.lead }}</p>
             {% endif %}
 
-          </div>
+          {% else %}
+
+            {{ page.content | replace: "[[MORE]]", "" }}
+
+          {% endif %}
 
         {% else %}
 

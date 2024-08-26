@@ -44,7 +44,6 @@
       audioLoaderEl.classList.add('hide')
       isAudioReady = true
       if (isPlayOnLoad) {
-        console.log('play on load')
         wavesurfer.play()
       }
     })
@@ -67,7 +66,6 @@
       if (isAudioReady) {
         wavesurfer.play()
       } else {
-        console.log('asdasd')
         isPlayOnLoad = true
         loadAudio()
       }

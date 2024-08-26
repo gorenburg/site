@@ -29,44 +29,44 @@ The mine is 1500 meters deep, but the visit is limited to 5 meters below the sur
 
 {% include map.html src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2805.483549992134!2d-71.89731956814708!3d45.31885715319606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sca!4v1709088111267!5m2!1sen!2sca" %}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53556934593_b916685e19_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53556934593_b916685e19_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53557187945_885af4433d_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53557187945_885af4433d_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53557187980_336f456cbb_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53557187980_336f456cbb_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53556934618_a24a4c2f35_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53556934618_a24a4c2f35_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53555886177_07f62a9c0c_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53555886177_07f62a9c0c_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53556935153_b7c5f33050_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53556935153_b7c5f33050_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53556937038_16ccba7c40_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53556937038_16ccba7c40_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53557188410_99ce5a99e8_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53557188410_99ce5a99e8_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53556935408_3a5847cbd9_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53556935408_3a5847cbd9_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53555886577_07a63dde61_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53555886577_07a63dde61_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53557075934_cabde11b0c_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53557075934_cabde11b0c_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53555886647_efd6b5dbe1_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53555886647_efd6b5dbe1_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53557076359_300fb1d897_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53557076359_300fb1d897_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53556935843_8058f49ac5_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53556935843_8058f49ac5_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53556735151_592d0e9a6a_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53556735151_592d0e9a6a_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53557189575_dfe50e52bd_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53557189575_dfe50e52bd_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53556936648_cf8977e5b0_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53556936648_cf8977e5b0_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53557076804_cf0677ac37_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53557076804_cf0677ac37_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53556735566_7be35faa3f_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53556735566_7be35faa3f_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53556936883_671c4bae55_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53556936883_671c4bae55_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/53557077459_c056da6b1b_k.jpg"}
+![Capelton Mine, Quebec](https://live.staticflickr.com/65535/53557077459_c056da6b1b_k.jpg){: width="1536" height="2048" loading="lazy"}
