@@ -13,48 +13,48 @@ preview: 'https://live.staticflickr.com/65535/51272440276_129057b3ed_k_d.jpg'
 
 {% include map.html src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3914.9363686980214!2d48.85459028550335!3d55.779615814262684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1624734112206!5m2!1sen!2sca" %}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51273167904_e956e6707d_o_d.jpg"}
+![Мельница Королькова в Морквашах 1890-1900 (1)](https://live.staticflickr.com/65535/51273167904_2bba8e06fb_k.jpg){: width="2027" height="1316" loading="lazy"}
 
 1890-1900 года
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51273467790_baf65f5e0d_o_d.jpg"}
+![Мельница Королькова в Морквашах 1890-1900 (1)](https://live.staticflickr.com/65535/51273467790_baf65f5e0d_o_d.jpg){: width="1024" height="626" loading="lazy"}
 
 1890-1900 года
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51272439036_a44f3273d3_k_d.jpg"}
+![Мельница Королькова в Морквашах 1955 (1)](https://live.staticflickr.com/65535/51272439036_a44f3273d3_k.jpg){: width="2048" height="1365" loading="lazy"}
 
 1955 год
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51272438946_0c6d9914f8_k_d.jpg"}
+![Мельница Королькова в Морквашах 1955 (2)](https://live.staticflickr.com/65535/51272438946_0c6d9914f8_k.jpg){: width="2048" height="1455" loading="lazy"}
 
 1955 год
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51272615913_e72132652e_k_d.jpg"}
+![Мельница Королькова в Морквашах 1955 (3)](https://live.staticflickr.com/65535/51272615913_e72132652e_k.jpg){: width="2048" height="1566" loading="lazy"}
 
 1955 год
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51273167889_b8e13fe37d_o_d.jpg"}
+![Мельница Королькова в Морквашах 1955](https://live.staticflickr.com/65535/51273167889_b8e13fe37d_o_d.jpg){: width="900" height="626" loading="lazy"}
 
 1955 год
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51271691607_483fa33284_k_d.jpg"}
+![Мельница Королькова в Морквашах 1957](https://live.staticflickr.com/65535/51271691607_483fa33284_k.jpg){: width="2048" height="1416" loading="lazy"}
 
 1957 год
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51272438791_70faf81de6_k_d.jpg"}
+![Мельница Королькова в Морквашах 1979](https://live.staticflickr.com/65535/51272438791_70faf81de6_k.jpg){: width="2048" height="1108" loading="lazy"}
 
 1979 год
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51272440276_129057b3ed_k.jpg"}
+![Мельница Корольковой в Морквашах (1)](https://live.staticflickr.com/65535/51272440276_129057b3ed_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51273169059_e23a637009_k.jpg"}
+![Мельница Корольковой в Морквашах (2)](https://live.staticflickr.com/65535/51273169059_e23a637009_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51273468860_facb1d6679_k.jpg"}
+![Мельница Корольковой в Морквашах (3)](https://live.staticflickr.com/65535/51273468860_facb1d6679_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51273168774_ed2629d2c1_k.jpg"}
+![Мельница Корольковой в Морквашах (4)](https://live.staticflickr.com/65535/51273168774_ed2629d2c1_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51272616473_66355938a8_k.jpg"}
+![Мельница Королькова в Морквашах (5)](https://live.staticflickr.com/65535/51272616473_66355938a8_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51272616273_ecfd134f65_k.jpg"}
+![Мельница Королькова в Морквашах (6)](https://live.staticflickr.com/65535/51272616273_ecfd134f65_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/51272616148_25015bc25b_k.jpg"}
+![Мельница Королькова в Морквашах (7)](https://live.staticflickr.com/65535/51272616148_25015bc25b_k.jpg){: width="1536" height="2048" loading="lazy"}

@@ -15,46 +15,46 @@ preview: 'https://live.staticflickr.com/65535/49152618608_36874e6048_k_d.jpg'
 
 {% include map.html src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3947.060880046135!2d48.67188299374623!3d55.40027619894917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sca!4v1575225440033!5m2!1sru!2sca" %}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153313672_13dc369fbd_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153313672_13dc369fbd_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49152611883_92a8ffc576_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49152611883_92a8ffc576_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153315032_756a4af06a_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153315032_756a4af06a_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153315347_4c6a70ba3e_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153315347_4c6a70ba3e_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153110006_50d5223e95_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153110006_50d5223e95_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153110591_664c329b8c_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153110591_664c329b8c_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153111166_a1dadf34b3_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153111166_a1dadf34b3_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153317317_7665b88ad3_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153317317_7665b88ad3_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153317852_fc310f74a7_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153317852_fc310f74a7_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153318247_08615f2985_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153318247_08615f2985_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49152616103_59d0cf442d_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49152616103_59d0cf442d_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49152616593_ffc090daac_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49152616593_ffc090daac_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49152617158_8bc78e662c_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49152617158_8bc78e662c_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49152617598_f2d105727a_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49152617598_f2d105727a_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49152618133_5ae7833f68_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49152618133_5ae7833f68_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49152618608_36874e6048_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49152618608_36874e6048_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49152619093_29c982aba6_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49152619093_29c982aba6_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153116706_871407538d_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153116706_871407538d_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153117166_a5c3f9a7b9_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153117166_a5c3f9a7b9_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153323272_f67c56fc72_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153323272_f67c56fc72_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153107496_f9ac53f24a_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153107496_f9ac53f24a_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![](){: .lozad data-src="https://live.staticflickr.com/65535/49153106941_4697fd004a_k.jpg"}
+![Большие меми](https://live.staticflickr.com/65535/49153106941_4697fd004a_k.jpg){: width="2048" height="1536" loading="lazy"}
