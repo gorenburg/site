@@ -24,6 +24,7 @@ plugins:
   - jekyll/tagging
   - jekyll-paginate
   - jekyll-minifier
+  - jekyll-toc
 
 sass:
   style:      compressed

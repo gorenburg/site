@@ -91,6 +91,8 @@
 
           {% else %}
 
+            {{ content | toc_only }}
+
             {{ page.content | replace: "[[MORE]]", "" }}
 
           {% endif %}
