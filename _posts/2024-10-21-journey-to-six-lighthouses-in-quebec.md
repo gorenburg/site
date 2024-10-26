@@ -16,8 +16,8 @@ Fast forward to July this year: a friend ([Louis Richer](https://gurushots.com/l
 
 So, off we went in my friend's Jeep Wrangler, towing a Pricecraft 175 boat, making our way to Tadoussac. The drive was 460 kilometers with the boat in tow, and our plan was to explore as many water access points as possible on the first day, aiming to visit the first three lighthouses. On the second day, we’d tackle the next trio before heading back home. We hit the road at 7 a.m., anticipating a long day ahead.
 
-![View of Mont Saint-Hilaire from Highway A30](https://live.staticflickr.com/65535/54084647523_3b2522b233_k.jpg){: width="2048" height="1536" loading="lazy"}
-*View of Mont Saint-Hilaire from Highway A30*
+![View of Mont Saint-Hilaire from Highway A20](https://live.staticflickr.com/65535/54084647523_3b2522b233_k.jpg){: width="2048" height="1536" loading="lazy"}
+*View of Mont Saint-Hilaire from Highway A20*
 
 The route from Montreal to Quebec City was smooth and uneventful. However, an hour past Quebec City, the fun began as the road twisted with steep hills, taxing our engine on the climbs and our brakes on the descents—especially challenging since the trailer lacked electric brakes. The steepest descent came in Port-au-Persil, where we almost cooked our brakes on a 14% incline while approaching our first water access point.
 
