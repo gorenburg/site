@@ -9,7 +9,7 @@
 <header class="wrapper page-header">
   <section class="header-profile">
     <a href="{base}/" class="header-logo">
-      <img src="/images/avatar.jpg" width="64" height="64" class="header-avatar" alt={config.title}>
+      <img src="{base}/images/avatar.jpg" width="64" height="64" class="header-avatar" alt={config.title}>
     </a>
     <div class="header-profile-inner">
       <a href="{base}/" class="header-profile-link">{config.title}</a>
