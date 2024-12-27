@@ -44,7 +44,8 @@ const config = {
         '*',
         '/tag/*',
         '/page/*'
-      ]
+      ],
+      handleHttpError: 'warn'
     },
     paths: {
 			base: process.argv.includes('dev') ? '' : '/site'
