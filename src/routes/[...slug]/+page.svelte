@@ -21,6 +21,14 @@
       documentEl?.setAttribute('lang', data.meta.lang)
     })
   }
+
+  function getPreviewImageUrl(path: string): string {
+    if (path.includes('/cover/')) {
+      return base + '/' + path
+    }
+
+    return path
+  }
 </script>
 
 <svelte:head>
@@ -30,8 +38,8 @@
   <meta name="twitter:title" content={data.meta.title} />
   <meta name="twitter:card" content="summary_large_image" />
   {#if data.meta.preview}
-    <meta property="og:image" content={data.meta.preview} />
-    <meta name="twitter:image" content={data.meta.preview} />
+    <meta property="og:image" content={getPreviewImageUrl(data.meta.preview)} />
+    <meta name="twitter:image" content={getPreviewImageUrl(data.meta.preview)} />
   {/if}
 </svelte:head>
 
