@@ -37,7 +37,7 @@ const config = {
       pages: 'build',
       assets: 'build',
       strict: false,
-      fallback: 'index.html'
+      fallback: '404.html'
     }),
     prerender: {
       entries: [
