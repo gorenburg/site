@@ -1,6 +1,6 @@
-import { mdsvex, escapeSvelte } from 'mdsvex';
-import adapter from '@sveltejs/adapter-static';
-import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
+import { mdsvex, escapeSvelte } from 'mdsvex'
+import adapter from '@sveltejs/adapter-static'
+import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
 import remarkAttr from 'remark-attr'
 import rehypeSlug from 'rehype-slug'
 import { createHighlighter } from 'shiki'
@@ -45,7 +45,10 @@ const config = {
         '/tag/*',
         '/page/*'
       ]
-    }
+    },
+    paths: {
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
+		}
   },
 
   extensions: ['.svelte', '.md']
