@@ -1,5 +1,6 @@
 <script lang="ts">
-	import { itemsPerPage } from "$lib/config";
+	import { itemsPerPage } from "$lib/config"
+  import { base } from '$app/paths'
 
   type Props = {
     page: number
@@ -15,7 +16,7 @@
   {#if page === 1}
     <span class="visibility-hidden">Prev</span>
   {:else}
-    <a href="/page/{page - 1}" class="prev">Prev</a>
+    <a href="{base}/page/{page - 1}" class="prev">Prev</a>
   {/if}
 
   <ul class="pages-list">
@@ -23,11 +24,11 @@
     {#each Array.from({ length: pageCount }, (_, i) => i + 1) as i}
       <li>
         {#if i === 1 && page !== i}
-          <a href="/">{i}</a>
+          <a href="{base}/">{i}</a>
         {:else if page === i}
           <span class="active">{i}</span>
         {:else}
-          <a href="/page/{i}">{i}</a>
+          <a href="{base}/page/{i}">{i}</a>
         {/if}
       </li>
     {/each}
@@ -36,7 +37,7 @@
   {#if page === pageCount}
     <span class="visibility-hidden">Next</span>
   {:else}
-    <a href="/page/{page + 1}" class="next">Next</a>
+    <a href="{base}/page/{page + 1}" class="next">Next</a>
   {/if}
 </div>
 

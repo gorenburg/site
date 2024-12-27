@@ -3,6 +3,8 @@
 	import { slugify } from '$lib/functions/slugify'
 	import { formatDate } from '$lib/utils'
   import { onMount } from 'svelte'
+  import { base } from '$app/paths'
+
 	import Toc from '../../components/toc.svelte'
 	import Comments from '../../components/comments.svelte'
 	import Video from '../../components/video.svelte'
@@ -56,7 +58,7 @@
       <ul class="post-tags">
         {#each data.meta.tags as tag}
           <li class="post-tag">
-            <a href="/tag/{slugify(tag)}">&num;{slugify(tag)}</a>
+            <a href="{base}/tag/{slugify(tag)}">&num;{slugify(tag)}</a>
           </li>
         {/each}
       </ul>

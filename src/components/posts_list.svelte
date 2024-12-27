@@ -1,10 +1,10 @@
 <script lang="ts">
 	import { getPost } from "$lib/requests/post"
 	import type { Post } from "$lib/types"
+  import { base } from '$app/paths'
 
-  import Video from "./video.svelte"
   import PostListItemMeta from "./post_list_item_meta.svelte"
-	import Insta from "./insta.svelte";
+	import Insta from "./insta.svelte"
 
   type Props = {
     items: Post[]
@@ -32,7 +32,7 @@
         {/if}
         <PostListItemMeta slug={post.slug} date={post.date} type={post.type} tags={post.tags} hasLinks={true} />
       {:else}
-        <a href="/{post.slug}" class="post-link">
+        <a href="{base}/{post.slug}" class="post-link">
           <h2 class="h3 post-title">{post.title}</h2>
           <PostListItemMeta slug={post.slug} date={post.date} type={post.type} tags={post.tags} hasLinks={false} />
           <img class="post-img" src={post.preview} alt={post.title} width="2048" height="1536" loading="lazy" />

@@ -2,6 +2,8 @@
   import { slugify } from "$lib/functions/slugify"
 	import type { PostType } from "$lib/types"
 	import { formatDate } from "$lib/utils"
+  import { base } from '$app/paths'
+
   import IconImage from '$lib/icons/image.svg?raw'
   import IconVideo from '$lib/icons/video.svg?raw'
   import IconQuote from '$lib/icons/quote.svg?raw'
@@ -22,7 +24,7 @@
 
 <span class="post-meta">
   {#if hasLinks}
-    <a href="/{slug}">
+    <a href="{base}/{slug}">
       <time class="post-date" datetime={formatDate(date, 'long')}>{formatDate(date)}</time>
     </a>
   {:else}
@@ -47,7 +49,7 @@
     {#each tags as tag}
       <li class="post-tag">
         {#if hasLinks}
-          <a href="/tag/{slugify(tag)}">&num;{slugify(tag)}</a>
+          <a href="{base}/tag/{slugify(tag)}">&num;{slugify(tag)}</a>
         {:else}
           &num;{slugify(tag)}
         {/if}

@@ -2,6 +2,8 @@
   import * as config from '$lib/config'
   import { page } from '$app/state'
   import { formatDate } from '$lib/utils'
+  import { base } from '$app/paths'
+
   let { data } = $props()
 </script>
 
@@ -15,7 +17,7 @@
   <ul class="tag-list">
     {#each data.posts.items as post}
       <li class="tag-list-item">
-        <h2><a href="/{post.slug}" class="title">{post.title}</a></h2>
+        <h2><a href="{base}/{post.slug}" class="title">{post.title}</a></h2>
         <p class="date">{formatDate(post.date)}</p>
       </li>
     {/each}
