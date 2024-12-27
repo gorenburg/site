@@ -1,5 +1,6 @@
 <script lang="ts">
   import * as config from '$lib/config'
+  import { base } from '$app/paths'
   import IconCode from '$lib/icons/code.svg?raw'
   import IconImage from '$lib/icons/image.svg?raw'
   import IconMap from '$lib/icons/map.svg?raw'
@@ -7,30 +8,30 @@
 
 <header class="wrapper page-header">
   <section class="header-profile">
-    <a href="/" class="header-logo">
+    <a href="{base}/" class="header-logo">
       <img src="/images/avatar.jpg" width="64" height="64" class="header-avatar" alt={config.title}>
     </a>
     <div class="header-profile-inner">
-      <a href="/" class="header-profile-link">{config.title}</a>
+      <a href="{base}/" class="header-profile-link">{config.title}</a>
       <section class="header-description">{config.description}</section>
     </div>
   </section>
   <nav>
     <ul class="header-menu">
       <li>
-        <a href="/map">
+        <a href="{base}/map">
           {@html IconMap}
           <br>map
         </a>
       </li>
       <li>
-        <a href="/tag/photos">
+        <a href="{base}/tag/photos">
           {@html IconImage}
           <br>photos
         </a>
       </li>
       <li>
-        <a href="/tag/code">
+        <a href="{base}/tag/code">
           {@html IconCode}
           <br>code
         </a>
