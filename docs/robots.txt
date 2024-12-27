@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://ilya.gorenburg.com/sitemap.xml
