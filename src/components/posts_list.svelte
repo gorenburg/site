@@ -2,6 +2,7 @@
 	import { getPost } from "$lib/requests/post"
 	import type { Post } from "$lib/types"
   import { base } from '$app/paths'
+  import { getPreviewImageUrl } from "$lib/functions/base_path"
 
   import PostListItemMeta from "./post_list_item_meta.svelte"
 	import Insta from "./insta.svelte"
@@ -35,7 +36,7 @@
         <a href="{base}/{post.slug}" class="post-link">
           <h2 class="h3 post-title">{post.title}</h2>
           <PostListItemMeta slug={post.slug} date={post.date} type={post.type} tags={post.tags} hasLinks={false} />
-          <img class="post-img" src={post.preview} alt={post.title} width="2048" height="1536" loading="lazy" />
+          <img class="post-img" src={getPreviewImageUrl(post.preview)} alt={post.title} width="2048" height="1536" loading="lazy" />
         </a>
       {/if}
     </li>

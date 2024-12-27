@@ -4,6 +4,7 @@
 	import { formatDate } from '$lib/utils'
   import { onMount } from 'svelte'
   import { base } from '$app/paths'
+  import { getPreviewImageUrl } from '$lib/functions/base_path'
 
 	import Toc from '../../components/toc.svelte'
 	import Comments from '../../components/comments.svelte'
@@ -20,14 +21,6 @@
       const documentEl = document.body.parentElement
       documentEl?.setAttribute('lang', data.meta.lang)
     })
-  }
-
-  function getPreviewImageUrl(path: string): string {
-    if (path.includes('/cover/')) {
-      return base + '/' + path
-    }
-
-    return path
   }
 </script>
 
