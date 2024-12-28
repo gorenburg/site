@@ -3,6 +3,8 @@ import { getPosts } from "$lib/requests/posts"
 import { error } from '@sveltejs/kit'
 import type { Post } from '$lib/types'
 
+export const prerender = true
+
 /** @type {import('./$types').RequestHandler} */
 export async function GET({ url }) {
   try {

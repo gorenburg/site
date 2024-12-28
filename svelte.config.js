@@ -44,6 +44,7 @@ const config = {
         '*',
         '/sitemap.xml',
       ],
+      
       handleHttpError: 'warn'
     },
     paths: {
