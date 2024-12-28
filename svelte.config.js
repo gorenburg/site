@@ -42,8 +42,7 @@ const config = {
     prerender: {
       entries: [
         '*',
-        '/tag/*',
-        '/page/*'
+        '/sitemap.xml',
       ],
       handleHttpError: 'warn'
     },

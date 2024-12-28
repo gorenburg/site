@@ -35,6 +35,7 @@ const sitemap = (pages: Post[]) => `<?xml version="1.0" encoding="UTF-8" ?>
         <url>
           <loc>${url}${page.slug}</loc>
           <changefreq>monthly</changefreq>
+          <lastmod>${page.date}</lastmod>
           <priority>0.5</priority>
         </url>
       `
