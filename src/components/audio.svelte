@@ -47,7 +47,7 @@
         height: 60
       })
 
-      wavesurfer.on('ready', (event) => {
+      wavesurfer.on('ready', () => {
         audioLoaderEl!.classList.add('hide')
         isAudioReady = true
         if (isPlayOnLoad) {
