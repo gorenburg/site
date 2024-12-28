@@ -3,8 +3,6 @@ import { getPosts } from "$lib/requests/posts"
 import { error } from '@sveltejs/kit'
 import type { Post } from '$lib/types'
 
-const pages: string[] = []; // populate this with all the slugs you wish to include
-
 /** @type {import('./$types').RequestHandler} */
 export async function GET({ url }) {
   try {
@@ -39,7 +37,7 @@ const sitemap = (pages: Post[]) => `<?xml version="1.0" encoding="UTF-8" ?>
           <changefreq>monthly</changefreq>
           <priority>0.5</priority>
         </url>
-        `
+      `
     }
   )
   .join('')}
