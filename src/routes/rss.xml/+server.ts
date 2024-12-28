@@ -32,6 +32,7 @@ export async function GET({ fetch }) {
     `.trim()
     const response = new Response(body)
     response.headers.set('Content-Type', 'application/xml')
+    response.headers.set('Cache-Control', 'max-age=0, s-max-age=1200')
     return response
   } catch (e) {
     error(404, `Could not find sitemap.xml`)
