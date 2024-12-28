@@ -21,7 +21,7 @@ export async function getPosts(params?: GetPostsParams): Promise<GetPostsRespons
     if (file && typeof file === 'object' && 'metadata' in file && slug) {
       const metadata = file.metadata as Omit<Post, 'slug'>
       const post = { ...metadata, slug } satisfies Post
-      post.date = new Date(post.date).toLocaleDateString()
+      post.date = new Date(post.date).toString()
       posts.push(post)
     }
   }
