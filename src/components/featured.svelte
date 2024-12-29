@@ -30,9 +30,15 @@
 
 <style>
   .items-list {
-    display: flex;
-    gap: 1rem 1.5rem;
-    margin-bottom: 2.5rem;
+    display: none;
+  }
+
+  @media (min-width: 64rem) {
+    .items-list {
+      display: flex;
+      gap: 1rem 1.5rem;
+      margin-bottom: 2.5rem;
+    }
   }
 
   .item {
