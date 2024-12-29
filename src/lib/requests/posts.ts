@@ -32,8 +32,6 @@ export async function getPosts(params?: GetPostsParams): Promise<GetPostsRespons
 
   const totalCount = posts.length
 
-  console.log(posts)
-
   if (params && params.slugList) {
     posts = posts.filter(i => params.slugList?.includes(i.slug))
   }
