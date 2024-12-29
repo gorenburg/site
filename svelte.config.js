@@ -43,6 +43,7 @@ const config = {
       entries: [
         '*',
         '/sitemap.xml',
+        '/rss.xml'
       ],
       
       handleHttpError: 'warn'
