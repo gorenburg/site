@@ -16,6 +16,7 @@ export type Post = {
 export interface GetPostsParams {
 	page?: number
 	tag?: string
+	slugList?: string[]
 }
 
 export interface GetPostsResponse {
