@@ -37,7 +37,7 @@ const config = {
       pages: 'build',
       assets: 'build',
       strict: false,
-      fallback: 'index.html'
+      fallback: '404.html'
     }),
     prerender: {
       entries: [
@@ -49,7 +49,7 @@ const config = {
       handleHttpError: 'warn'
     },
     paths: {
-			base: process.argv.includes('dev') ? '' : ''
+			base: ''
 		}
   },
 
