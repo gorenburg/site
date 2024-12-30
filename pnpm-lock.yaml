@@ -18,7 +18,7 @@ importers:
         specifier: ^3.0.8
         version: 3.0.8(@sveltejs/kit@2.15.1(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.16.0)(vite@6.0.6(@types/node@22.10.2)))(svelte@5.16.0)(vite@6.0.6(@types/node@22.10.2)))
       '@sveltejs/kit':
-        specifier: ^2.15.0
+        specifier: ^2.15.1
         version: 2.15.1(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.16.0)(vite@6.0.6(@types/node@22.10.2)))(svelte@5.16.0)(vite@6.0.6(@types/node@22.10.2))
       '@sveltejs/vite-plugin-svelte':
         specifier: ^5.0.3
@@ -45,8 +45,8 @@ importers:
         specifier: ^0.12.3
         version: 0.12.3(svelte@5.16.0)
       npm-check-updates:
-        specifier: ^17.1.12
-        version: 17.1.12
+        specifier: ^17.1.13
+        version: 17.1.13
       prettier:
         specifier: ^3.4.2
         version: 3.4.2
@@ -1016,8 +1016,8 @@ packages:
   natural-compare@1.4.0:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
 
-  npm-check-updates@17.1.12:
-    resolution: {integrity: sha512-j1+ln9wXDNLgTSMrEF9ja4KyYq4yBF8FuuU3irFtMSnss4pYjvYfQESz8CV82Rk1daXjbtaAWF9pZZKzujhoBA==}
+  npm-check-updates@17.1.13:
+    resolution: {integrity: sha512-m9Woo2J5XVab0VcQpYvrQ0hx3ySI1mGbiHR595mc6Lr1/FIaTWvv+oU+T1WKSfXRiluKC/V5P6Bdk5agaYpqqg==}
     engines: {node: ^18.18.0 || >=20.0.0, npm: '>=8.12.1'}
     hasBin: true
 
@@ -2256,7 +2256,7 @@ snapshots:
 
   natural-compare@1.4.0: {}
 
-  npm-check-updates@17.1.12: {}
+  npm-check-updates@17.1.13: {}
 
   oniguruma-to-es@0.8.1:
     dependencies:
