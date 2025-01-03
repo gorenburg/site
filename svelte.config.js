@@ -45,7 +45,6 @@ const config = {
         '/sitemap.xml',
         '/rss.xml'
       ],
-      
       handleHttpError: 'warn'
     },
     paths: {
