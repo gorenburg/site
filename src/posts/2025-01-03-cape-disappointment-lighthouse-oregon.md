@@ -15,6 +15,10 @@ In 1937, the lighthouse was electrified. Though the Coast Guard planned to decom
 
 <Frame src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1326.1258714260252!2d-124.05226982965871!3d46.275982240420305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sca!4v1735933806475!5m2!1sen!2sca" />
 
+![Cape Disappointment Lighthouse, Oregon](https://live.staticflickr.com/65535/54244885145_d0af1289de_k.jpg){: width="2048" height="1365" loading="lazy"}
+
+![Cape Disappointment Lighthouse, Oregon](https://live.staticflickr.com/65535/54244466951_906e8bd45c_k.jpg){: width="2048" height="1365" loading="lazy"}
+
 ![Cape Disappointment Lighthouse, Oregon](https://live.staticflickr.com/65535/54244828405_db544dadb5_k.jpg){: width="2048" height="1365" loading="lazy"}
 
 ![Cape Disappointment Lighthouse, Oregon](https://live.staticflickr.com/65535/54244829025_ca5ff01fc7_k.jpg){: width="2048" height="1365" loading="lazy"}
@@ -32,3 +36,9 @@ In 1937, the lighthouse was electrified. Though the Coast Guard planned to decom
 ![Cape Disappointment Lighthouse, Oregon](https://live.staticflickr.com/65535/54244410136_5c5b285868_k.jpg){: width="2048" height="1365" loading="lazy"}
 
 ![Cape Disappointment Lighthouse, Oregon](https://live.staticflickr.com/65535/54243506212_8fd81767e9_k.jpg){: width="2048" height="1365" loading="lazy"}
+
+![Cape Disappointment Lighthouse, Oregon](https://live.staticflickr.com/65535/54244466991_a9d7d312e9_k.jpg){: width="2048" height="1365" loading="lazy"}
+
+![Cape Disappointment Lighthouse, Oregon](https://live.staticflickr.com/65535/54244699483_8e17f43a71_k.jpg){: width="2048" height="1365" loading="lazy"}
+
+![Cape Disappointment Lighthouse, Oregon](https://live.staticflickr.com/65535/54244885115_7de6259fb5_k.jpg){: width="2048" height="1365" loading="lazy"}
