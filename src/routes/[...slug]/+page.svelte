@@ -54,7 +54,7 @@
       <h1>{data.meta.title}</h1>
     {/if}
     <span class="post-meta">
-      <time class="post-date" datetime={formatDate(data.meta.date, 'long')}>{formatDate(data.meta.date)}</time>
+      <time class="post-date" datetime={formatDate(data.meta.date, 'full')}>{formatDate(data.meta.date)}</time>
       •
       <ul class="post-tags">
         {#each data.meta.tags as tag}
