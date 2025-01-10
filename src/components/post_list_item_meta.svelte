@@ -25,26 +25,28 @@
 <span class="post-meta">
   {#if hasLinks}
     <a href="{base}/{slug}">
-      <time class="post-date" datetime={formatDate(date, 'long')}>{formatDate(date)}</time>
+      <time class="post-date" datetime={formatDate(date)}>{formatDate(date)}</time>
     </a>
   {:else}
-    <time class="post-date" datetime={formatDate(date, 'long')}>{formatDate(date)}</time>
+    <time class="post-date" datetime={formatDate(date)}>{formatDate(date)}</time>
   {/if}
-  •
-  {#if type === 'photos'}
-    {@html IconImage}
-  {:else if type === 'video'}
-    {@html IconVideo}
-  {:else if type === 'quote'}
-    {@html IconQuote}
-  {:else if type === 'insta'}
-    {@html IconGrid}
-  {:else if type === 'link'}
-    {@html IconExternal}
-  {:else if type === 'talks'}
-    {@html IconChat}
-  {/if}
-  •
+  <span class="icon-wrapper">
+    •
+    {#if type === 'photos'}
+      {@html IconImage}
+    {:else if type === 'video'}
+      {@html IconVideo}
+    {:else if type === 'quote'}
+      {@html IconQuote}
+    {:else if type === 'insta'}
+      {@html IconGrid}
+    {:else if type === 'link'}
+      {@html IconExternal}
+    {:else if type === 'talks'}
+      {@html IconChat}
+    {/if}
+    •
+  </span>
   <ul class="post-tags">
     {#each tags as tag}
       <li class="post-tag">
@@ -70,5 +72,11 @@
       vertical-align: top;
       fill: currentColor;
     }
+  }
+
+  .icon-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
   }
 </style>

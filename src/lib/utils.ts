@@ -20,5 +20,6 @@ export function formatDate(date: string, dateStyle: DateStyle = 'long', locales 
     return new Intl.DateTimeFormat(locales, { dateStyle }).format(dateToFormat)
   }
 
-  return ''
+  const dateToFormat = new Date(date)
+  return Intl.DateTimeFormat(locales, { dateStyle }).format(dateToFormat)
 }

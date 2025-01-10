@@ -49,6 +49,7 @@
     padding-top: 1rem;
     padding-bottom: 1rem;
     display: flex;
+    gap: 1rem;
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
