@@ -1,8 +1,8 @@
 <script lang="ts">
   import * as config from '$lib/config'
   import { page } from '$app/state'
-	import Pagination from '../../../components/pagination.svelte'
-	import PostsList from '../../../components/posts_list.svelte'
+  import Pagination from '../../../components/pagination.svelte'
+  import PostsList from '../../../components/posts_list.svelte'
   let { data } = $props()
 </script>
 

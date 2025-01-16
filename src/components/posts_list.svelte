@@ -34,7 +34,7 @@
         <PostListItemMeta slug={post.slug} date={post.date} type={post.type} tags={post.tags} hasLinks={true} />
       {:else}
         <a href="{base}/{post.slug}" class="post-link">
-          <h2 class="h3 post-title">{post.title}</h2>
+          <h2 class="h3 post-title {post.tags.includes('talks') ? 'visibility-hidden' : ''}">{post.title}</h2>
           <PostListItemMeta slug={post.slug} date={post.date} type={post.type} tags={post.tags} hasLinks={false} />
           <img class="post-img" src={getPreviewImageUrl(post.preview)} alt={post.title} width="2048" height="1536" loading="lazy" />
         </a>

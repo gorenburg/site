@@ -6,15 +6,17 @@
   let { src }: Props = $props()
 </script>
 
-<div class="iframe-wrapper">
-  <iframe
-    {src} 
-    width="600"
-    height="450"
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade"
-    allowfullscreen
-  ></iframe>
+<div class="iframe">
+  <div class="iframe-wrapper">
+    <iframe
+      {src} 
+      width="800"
+      height="450"
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+      allowfullscreen
+    ></iframe>
+  </div>
 </div>
 
 <style>
