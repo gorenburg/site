@@ -94,6 +94,7 @@
       max-width: 100%;
       margin-left: var(--content-padding);
       margin-right: var(--content-padding);
+      text-align: center;
     }
 
     article > p:has(img) em {

@@ -444,6 +444,10 @@ img {
   vertical-align: top;
 }
 
+hr {
+  box-sizing: border-box;
+}
+
 a {
   color: var(--link-color);
   text-decoration: underline;
