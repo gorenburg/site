@@ -1,5 +1,6 @@
 import { itemsPerPage } from '$lib/config'
 import type { GetPostsParams, GetPostsResponse, Post } from '$lib/types'
+import { getParsedDate } from '$lib/utils'
 
 const slugRegExp = new RegExp(/^[0-9]{4}-[0-9]{2}-[0-9]{2}-/)
 
@@ -21,7 +22,8 @@ export async function getPosts(params?: GetPostsParams): Promise<GetPostsRespons
     if (file && typeof file === 'object' && 'metadata' in file && slug) {
       const metadata = file.metadata as Omit<Post, 'slug'>
       const post = { ...metadata, slug } satisfies Post
-      post.date = new Date(post.date).toUTCString()
+      const parsedDate = getParsedDate(post.date)
+      post.date = parsedDate ? parsedDate.toUTCString() : post.date
       posts.push(post)
     }
   }

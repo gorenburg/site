@@ -18,7 +18,7 @@
     {#each data.posts.items as post}
       <li class="tag-list-item">
         <h2><a href="{base}/{post.slug}" class="title">{post.title}</a></h2>
-        <p class="date">{formatDate(post.date)}</p>
+        <time class="date" datetime={formatDate(post.date)}>{formatDate(post.date)}</time>
       </li>
     {/each}
   </ul>

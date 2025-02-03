@@ -2,7 +2,7 @@ type DateStyle = Intl.DateTimeFormatOptions['dateStyle']
 
 const timePattern = /(?<year>\d{4})-(?<month>\d{2})-(?<day>\d{2})\s(?<hour>\d{2}):(?<minute>\d{2}):(?<second>\d{2})\s(?<timezone>[+-]\d{4})/;
 
-export function formatDate(date: string, dateStyle: DateStyle = 'long', locales = 'en-US'): string {
+export function getParsedDate(date: string): Date | undefined {
   const match = date.match(timePattern)
 
   if (match) {
@@ -16,10 +16,18 @@ export function formatDate(date: string, dateStyle: DateStyle = 'long', locales 
       second: groups?.second,
       timezone: groups?.timezone
     }
-    const dateToFormat = new Date(`${components.year}-${components.month}-${components.day}T${components.hour}:${components.minute}:${components.second}`)
-    return new Intl.DateTimeFormat(locales, { dateStyle }).format(dateToFormat)
+    return new Date(`${components.year}-${components.month}-${components.day}T${components.hour}:${components.minute}:${components.second}Z`)
   }
 
-  const dateToFormat = new Date(date)
-  return Intl.DateTimeFormat(locales, { dateStyle }).format(dateToFormat)
+  return undefined
+}
+
+export function formatDate(date: string, dateStyle: DateStyle = 'long', locales = 'en-US'): string {
+  const dateValue = new Date(date)
+
+  if (dateValue) {
+    return new Intl.DateTimeFormat(locales, { dateStyle }).format(dateValue)
+  }
+
+  return date
 }
