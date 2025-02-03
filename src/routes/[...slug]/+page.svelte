@@ -106,6 +106,10 @@
       text-align: center;
     }
 
+    article > ol, article > ul {
+      padding-left: 4rem !important;
+    }
+
     img {
       max-width: 100%;
       height: auto;
