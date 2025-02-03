@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { onDestroy, onMount } from "svelte"
 
+  let isCommentsBlockLoaded = false
   let commentsEl: HTMLElement
   let observer: IntersectionObserver
 
@@ -9,6 +10,7 @@
   }
 
   onMount(() => {
+    if (isCommentsBlockLoaded) { return }
     observer = new IntersectionObserver(loadCommentsLibrary, options)
     observer.observe(commentsEl)
   })
@@ -26,6 +28,7 @@
 
     scriptEl.setAttribute('data-chirpy-domain', 'ilya.gorenburg.com')
     document.body.appendChild(scriptEl)
+    isCommentsBlockLoaded = true
   }
 </script>
 
