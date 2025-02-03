@@ -1,7 +1,7 @@
 <script lang="ts">
   import * as config from '$lib/config'
 	import { slugify } from '$lib/functions/slugify'
-	import { formatDate } from '$lib/utils'
+	import { getFormatedDate } from '$lib/utils'
   import { onMount } from 'svelte'
   import { base } from '$app/paths'
   import { getPreviewImageUrl } from '$lib/functions/base_path'
@@ -54,7 +54,7 @@
       <h1>{data.meta.title}</h1>
     {/if}
     <span class="post-meta">
-      <time class="post-date" datetime={formatDate(data.meta.date, 'full')}>{formatDate(data.meta.date)}</time>
+      <time class="post-date" datetime={getFormatedDate(data.meta.date, 'full')}>{getFormatedDate(data.meta.date)}</time>
       •
       <ul class="post-tags">
         {#each data.meta.tags as tag}

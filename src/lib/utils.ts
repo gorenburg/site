@@ -22,12 +22,16 @@ export function getParsedDate(date: string): Date | undefined {
   return undefined
 }
 
-export function formatDate(date: string, dateStyle: DateStyle = 'long', locales = 'en-US'): string {
+export function formatDate(date: string | Date, dateStyle: DateStyle = 'long', locales = 'en-US'): string  {
   const dateValue = new Date(date)
 
   if (dateValue) {
     return new Intl.DateTimeFormat(locales, { dateStyle }).format(dateValue)
   }
 
-  return date
+  return date.toString()
+}
+
+export function getFormatedDate(date: string, dateStyle: DateStyle = 'long') {
+  return formatDate(getParsedDate(date) || date, dateStyle)
 }
