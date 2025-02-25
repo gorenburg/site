@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { onMount } from "svelte"
-  import { page } from '$app/state'
 
   let titleList: HTMLHeadingElement[] = []
 
