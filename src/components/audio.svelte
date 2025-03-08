@@ -1,9 +1,9 @@
 <div class="audio-player">
   <div class="audio-player-controls">
-    <button class="audio-player-btn js-audio-play" type="button">
+    <button class="audio-player-btn js-audio-play" type="button" aria-label="Play audio">
       <i class="fas fa-fw fa-play"></i>
     </button>
-    <button class="audio-player-btn js-audio-pause hide" type="button">
+    <button class="audio-player-btn js-audio-pause hide" type="button" aria-label="Pause audio">
       <i class="fas fa-fw fa-pause"></i>
     </button>
   </div>

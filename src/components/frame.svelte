@@ -13,6 +13,7 @@
       width="800"
       height="450"
       loading="lazy"
+      title="iframe view"
       referrerpolicy="no-referrer-when-downgrade"
       allowfullscreen
     ></iframe>
