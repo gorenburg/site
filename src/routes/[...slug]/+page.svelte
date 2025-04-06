@@ -110,6 +110,13 @@
       padding-left: 4rem !important;
     }
 
+    article > blockquote {
+      > * {
+        border-left: 0.25rem solid var(--border-color);
+        padding: .5rem 0 .5rem 1rem;
+      }
+    }
+
     img {
       max-width: 100%;
       height: auto;

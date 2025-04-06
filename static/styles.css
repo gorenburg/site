@@ -495,10 +495,7 @@ iframe {
 
 blockquote {
   line-height: 1.5;
-  margin-left: 0;
-  margin-bottom: 1.5rem;
   font-style: italic;
-  border-left: 0.25rem solid var(--border-color);
   font-family: var(--font-primary);
   font-size: 1.25rem;
   color: var(--text-color);
@@ -526,7 +523,7 @@ code:not(pre code) {
 pre.shiki {
   font-size: 1rem;
   max-width: calc(var(--content-width) - var(--content-padding) * 2);
-  padding: calc(var(--content-padding) / 2) 0 calc(var(--content-padding) / 2) var(--content-padding);
+  padding: calc(var(--content-padding) / 2);
   border-radius: .5rem;
   counter-reset: highlight;
 }
