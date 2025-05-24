@@ -1,19 +1,21 @@
 <script lang="ts">
   type Props = {
     src: string
+    title?: string
+    height?: number
   }
 
-  let { src }: Props = $props()
+  let { src, title, height }: Props = $props()
 </script>
 
 <div class="iframe">
   <div class="iframe-wrapper">
     <iframe
       {src} 
+      title={title ? title : 'iframe'}
       width="800"
-      height="450"
+      height={height ? height: 450 }
       loading="lazy"
-      title="iframe view"
       referrerpolicy="no-referrer-when-downgrade"
       allowfullscreen
     ></iframe>
