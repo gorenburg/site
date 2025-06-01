@@ -11,7 +11,7 @@
     "format": "prettier --write .",
     "lint": "prettier --check . && eslint ."
   },
-  "packageManager": "bun@1.2.14",
+  "packageManager": "bun@1.2.15",
   "devDependencies": {
     "@eslint/compat": "^1.2.9",
     "@eslint/css": "^0.8.1",
@@ -21,7 +21,7 @@
     "@sveltejs/adapter-static": "^3.0.8",
     "@sveltejs/kit": "^2.21.1",
     "@sveltejs/vite-plugin-svelte": "^5.0.3",
-    "@types/node": "^22.15.21",
+    "@types/node": "^22.15.29",
     "bigger-picture": "^1.1.19",
     "eslint": "^9.28.0",
     "eslint-config-prettier": "^10.1.5",
@@ -34,7 +34,7 @@
     "rehype-slug": "^6.0.0",
     "remark-attr": "^0.11.1",
     "shiki": "^3.4.2",
-    "svelte": "5.33.1",
+    "svelte": "5.33.11",
     "svelte-check": "^4.2.1",
     "sveltekit-autoimport": "^1.8.1",
     "typescript": "5.7.3",
