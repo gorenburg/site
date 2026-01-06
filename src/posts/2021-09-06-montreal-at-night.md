@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "Монреаль ночью"
-date:   2021-09-06 10:00:00 -0400
+title: 'Монреаль ночью'
+date: 2021-09-06 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2021-09-06-montreal-at-night/51431675204_4e54d5e8f9_k_d.jpg'
 ---
@@ -47,6 +47,6 @@ preview: 'https://ilya.cdn.gorenburg.com/2021-09-06-montreal-at-night/5143167520
 
 ![Montreal Espace 67 at night](https://ilya.cdn.gorenburg.com/2021-09-06-montreal-at-night/51430930736_d302d03800_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-<Video src="https://www.flickr.com/video_download.gne?id=51430171757" />
+<Video src="https://ilya.cdn.gorenburg.com/2021-09-06-montreal-at-night/51430171757.mp4" />
 
-<Video src="https://www.flickr.com/video_download.gne?id=51431900730" />
+<Video src="https://ilya.cdn.gorenburg.com/2021-09-06-montreal-at-night/51431900730.mp4" />

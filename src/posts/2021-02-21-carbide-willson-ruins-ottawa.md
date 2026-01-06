@@ -2,12 +2,12 @@
 layout: post
 type: photos
 header: photo
-title:  "Carbide Willson Ruins, Ottawa, CA"
-subtitle: "Заброшенная лаборатория по производству карбида кальция"
-date:   2021-02-21 10:00:00 -0400
+title: 'Carbide Willson Ruins, Ottawa, CA'
+subtitle: 'Заброшенная лаборатория по производству карбида кальция'
+date: 2021-02-21 10:00:00 -0400
 tags: [photos, explore, travel, story]
 preview: 'https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50855247497_55c25d316f_k_d.jpg'
-preview_video: 'https://flickr.com/video_download.gne?id=50855245427'
+preview_video: 'https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50855245427.mp4'
 ---
 
 Руины на озере Мич не являются секретом для тех, кто знает парк Гатино, но история построившего их джентльмена Томаса «Карбида» Уилсона малоизвестна.
