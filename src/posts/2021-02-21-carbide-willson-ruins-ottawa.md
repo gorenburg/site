@@ -6,7 +6,7 @@ title:  "Carbide Willson Ruins, Ottawa, CA"
 subtitle: "Заброшенная лаборатория по производству карбида кальция"
 date:   2021-02-21 10:00:00 -0400
 tags: [photos, explore, travel, story]
-preview: 'https://live.staticflickr.com/65535/50855247497_55c25d316f_k_d.jpg'
+preview: 'https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50855247497_55c25d316f_k_d.jpg'
 preview_video: 'https://flickr.com/video_download.gne?id=50855245427'
 ---
 
@@ -22,26 +22,26 @@ preview_video: 'https://flickr.com/video_download.gne?id=50855245427'
 
 <Frame src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2437.983543764947!2d-75.86838482632503!3d45.53857385842127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1613965817133!5m2!1sen!2sca" />
 
-![Carbide Willson Ruins](https://live.staticflickr.com/65535/50854437683_040b0c1540_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Carbide Willson Ruins](https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50854437683_040b0c1540_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Carbide Willson Ruins](https://live.staticflickr.com/65535/50854438018_8e3fe9d844_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Carbide Willson Ruins](https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50854438018_8e3fe9d844_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Carbide Willson Ruins](https://live.staticflickr.com/65535/50854438273_f4bde17d63_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Carbide Willson Ruins](https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50854438273_f4bde17d63_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Carbide Willson Ruins](https://live.staticflickr.com/65535/50854438513_9089786aec_k.jpg){: width="1536" height="2048" loading="lazy"}
+![Carbide Willson Ruins](https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50854438513_9089786aec_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![Carbide Willson Ruins](https://live.staticflickr.com/65535/50854438888_3724efb62c_k.jpg){: width="1536" height="2048" loading="lazy"}
+![Carbide Willson Ruins](https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50854438888_3724efb62c_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![Carbide Willson Ruins](https://live.staticflickr.com/65535/50854439503_cec1a730ed_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Carbide Willson Ruins](https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50854439503_cec1a730ed_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Carbide Willson Ruins](https://live.staticflickr.com/65535/50854439658_21f539ab11_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Carbide Willson Ruins](https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50854439658_21f539ab11_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Carbide Willson Ruins](https://live.staticflickr.com/65535/50855157286_8d38d55674_k.jpg){: width="1536" height="2048" loading="lazy"}
+![Carbide Willson Ruins](https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50855157286_8d38d55674_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![Carbide Willson Ruins](https://live.staticflickr.com/65535/50855157521_aa722542fe_k.jpg){: width="1536" height="2048" loading="lazy"}
+![Carbide Willson Ruins](https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50855157521_aa722542fe_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![Carbide Willson Ruins](https://live.staticflickr.com/65535/50855245652_146114117f_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Carbide Willson Ruins](https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50855245652_146114117f_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Carbide Willson Ruins](https://live.staticflickr.com/65535/50855247497_55c25d316f_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Carbide Willson Ruins](https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50855247497_55c25d316f_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Carbide Willson Ruins](https://live.staticflickr.com/65535/50855247697_502daff739_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Carbide Willson Ruins](https://ilya.cdn.gorenburg.com/2021-02-21-carbide-willson-ruins-ottawa/50855247697_502daff739_k.jpg){: width="2048" height="1536" loading="lazy"}

@@ -8,6 +8,6 @@ description: "Классическое однокомнатное здание �
 lang: 'ru'
 ---
 
-[![](https://live.staticflickr.com/65535/53037341976_09fa390a4f_c_d.jpg)](https://live.staticflickr.com/65535/53037341976_00ea21ee8d_4k_d.jpg)
+[![](https://ilya.cdn.gorenburg.com/2023-07-10-howard-school/53037341976_09fa390a4f_c_d.jpg)](https://ilya.cdn.gorenburg.com/2023-07-10-howard-school/53037341976_00ea21ee8d_4k_d.jpg)
 
-[![](https://live.staticflickr.com/65535/53036765027_6445f4bd11_c_d.jpg)](https://live.staticflickr.com/65535/53036765027_cc3a76bd00_o_d.jpg)
+[![](https://ilya.cdn.gorenburg.com/2023-07-10-howard-school/53036765027_6445f4bd11_c_d.jpg)](https://ilya.cdn.gorenburg.com/2023-07-10-howard-school/53036765027_cc3a76bd00_o_d.jpg)

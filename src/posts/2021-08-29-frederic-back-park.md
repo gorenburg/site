@@ -4,14 +4,14 @@ type: photos
 title:  "Парк Frédéric-Back, Монреаль"
 date:   2021-08-29 10:00:00 -0400
 tags: [photos, explore, travel, story]
-preview: 'https://live.staticflickr.com/65535/51410915026_f7de68ccc6_k_d.jpg'
+preview: 'https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51410915026_f7de68ccc6_k_d.jpg'
 ---
 
 Карьеры Сен-Мишель вызывают две вещи в истории этого бывшего города, а ныне района Монреаля: проблемы и процветание.
 
 Сульпиции стали владельцами острова Монреаль в 1663 году, они создали сеть троп в соответствии с системой холмов и подъемов. Побережье - это тропа, идущая вдоль ручья, на котором селятся поселенцы. От этой тропы отходят тропы в глубь острова. В 1699 году был открыт Кот-Сен-Мишель (Côte Saint-Michel), сейчас это улица Жарри (Jarry). Для перехода от одного берега к другому появляются тропы, называемые «подъемами». В 1707 году был открыт Монте-Сен-Мишель (Montée Saint-Michel), сегодня это бульвар Сен-Мишель. В 18 веке на углу Монте и Кот-Сен-Мишель сформировалось небольшое поселение. Термин «деревушка» более подходит для описания этого места в то время.
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51411898615_a51010807f_o_d.jpg){: width="852" height="489" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51411898615_a51010807f_o_d.jpg){: width="852" height="489" loading="lazy"}
 
 Шведский путешественник-натуралист Пер Кальм посетил Монреаль в 1749 году он проезжал Монте Сен-Мишель, чтобы добраться до района Сау-о-Реколе. Он описывает это место как место транзита. Там он видит печь для обжига извести. Это уже свидетельствует о существовании в то время на этом месте небольшого действующего карьера.
 
@@ -19,7 +19,7 @@ preview: 'https://live.staticflickr.com/65535/51410915026_f7de68ccc6_k_d.jpg'
 
 Первые карьеры в Монреале находятся недалеко от старого города. Места добычи с годами продвинулись дальше на север: Плато (Plateau), Роземонт (Rosemont), Виллерэ (Villeray)… Только в середине 19 века появились карьеры в районе Кот-Сен-Мишель.
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51410169152_498b4af586_o_d.jpg){: width="529" height="209" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51410169152_498b4af586_o_d.jpg){: width="529" height="209" loading="lazy"}
 
 1885 год
 
@@ -27,19 +27,19 @@ preview: 'https://live.staticflickr.com/65535/51410915026_f7de68ccc6_k_d.jpg'
 
 В начале 20 века бетон и сталь постепенно заменили известняк при строительстве зданий. С этого момента серый камень будет дробиться в больших количествах: для расширения железной дороги требуется много щебня, который будет балластом для рельсов. А внедрение автомобильных и дорожных сетей также требует много щебня для асфальтирования дорог. В 1911 году правительство Квебека выделило муниципалитетам субсидии на строительство дорог.
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51411178028_a384c2140e_o_d.jpg){: width="568" height="625" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51411178028_a384c2140e_o_d.jpg){: width="568" height="625" loading="lazy"}
 
 Так же в начале 20 века отрасль начала меняться из-за механизации труда. Эта механизация стоит дорого, поэтому небольшие фермы покупаются, объединяются или закрываются. Начинается эпоха крупных хозяйств.
 
 Новая эра разработки карьеров началась в 1947 году, когда братья Мирон купили карьер «Лимож» (Limoges). Затем, в течение 1950-х годов, территория района была ограничена Метрополитеном (юг), бульваром Индустриэль (север), бульваром Сен-Мишель (восток) и проспектом Папино (запад). Потребность в рабочей силе привлекает в Сен-Мишель множество семей, в том числе итальянских иммигрантов. В 1949 году в Сен-Мишеле проживало 6000 человек, 48000 в 1959 году, 68000 в 1965 году.
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51411675414_35b6c86499_o_d.jpg){: width="679" height="849" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51411675414_35b6c86499_o_d.jpg){: width="679" height="849" loading="lazy"}
 
 Джеймс Франческини с семьей
 
 Другой карьер, расположенный между бульварами Сен-Мишель и Пи-IX (Pie-IX), находился в эксплуатации с начала 20 века, «Карьеры Дюпре» (Dupré Quarries), а с 1929 года он становится «Франкон» - это произошло после приобретения данного предприятия Джеймсом Франческини. Название «Francon» происходит от первых слогов «Franceschini» и «concreate» (конкретный на английском языке). Работа карьера прекратилась в 1980 году. Город купил участок в 1984 году. Карьер имел три уровня высотой от 20 до 30 метров. Его размеры - 1,8 км на 400 метров (15% территории района Сен-Мишель). Глубина 75 метров. Добываемые породы использовали для производства бетона, цемента и щебня.
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51411177433_70d449bf78_h_d.jpg){: width="1495" height="1500" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51411177433_70d449bf78_h_d.jpg){: width="1495" height="1500" loading="lazy"}
 
 Из известняка этих карьеров выросли Центральный вокзал, больница Сент-Жюстин, морской порт Сен-Лоран, площадь Вилль-Мари, комплекс Дежарден. Цементный завод Miron начал работу в 1959 году и на тот момент являлся одним из самых крупных в Северной Америке. Его красно-белые трубы стали символом этого завода.
 
@@ -49,7 +49,7 @@ preview: 'https://live.staticflickr.com/65535/51410915026_f7de68ccc6_k_d.jpg'
 
 В 1991 г. город Монреаль соглашается с тем, что компания Gaz Métropolitain построит электростанцию ​​на биогазе: Gazmont. Позде, когда город Монреаль ставит под сомнение дату закрытия свалки, некоторые недовольные Сан-Мишель говорят о «аннексии» и слиянии с районом Сен-Леонар.
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51410912991_5a3e299e2e_o_d.jpg){: width="1366" height="720" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51410912991_5a3e299e2e_o_d.jpg){: width="1366" height="720" loading="lazy"}
 
 Работа самого карьера закончилась в 1986 году. 17 апреля 1988 года 50 000 любопытных посетителей пришли посмотреть, как сносят его дымовые трубы.
 
@@ -61,37 +61,37 @@ preview: 'https://live.staticflickr.com/65535/51410915026_f7de68ccc6_k_d.jpg'
 
 На большей части территории было решено открыть парк, полностью закрыв свалку землей. Концепт создания парка Фредерик-Бэк может показаться нелогичным - необходимо было объединить общественное пространство и 40 миллионов тонн мусора под ним. Проблема в реализации этой концепции состояла в том, что свалка постоянно выпускает биогаз (от разложения отходов) и самая необычная задача проекта заключалась в том, как безопасно интегрировать 250 скважин для сбора биогаза, необходимых для управления дымом, который все еще выходит из покрытой травой свалки. Понятно, что любое решение должно работать без искр; предложить достаточную вентиляцию; чтобы работники могли легко контролировать их ежедневно; чтобы приспособиться к меняющейся местности под ним; и, пожалуй, самый сложный из всех критериев - быть уникальным в мире.
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51415028579_c6e247db2c_k_d.jpg){: width="1920" height="1133" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51415028579_c6e247db2c_k_d.jpg){: width="1920" height="1133" loading="lazy"}
 
 Команда ландшафтных архитекторов Лемея в сотрудничестве с Морелли разработала дизайн сферических каркасов, которые теперь составляют визитную карточку парка. Изготовленные из фосфоресцирующего стекловолокна, они поглощают солнечный свет в течение дня и мягко светятся после наступления сумерек. Они приглашают к физическому взаимодействию, сохраняя рисунки, нарисованные на них с помощью источников света.
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51414537173_2adab0b2ab_k_d.jpg){: width="1920" height="1464" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51414537173_2adab0b2ab_k_d.jpg){: width="1920" height="1464" loading="lazy"}
 
 Сюрреалистические шары кажутся как дома в самом сердце обширного ландшафта, среди высоких, продуваемых ветрами трав и других местных растений, которые составляют намеренно устойчивую и биоразнообразную экосистему. Гигантская уличная мебель (шезлонги на шесть человек) подчеркивает огромные размеры территории, а с вершины холма открывается панорама парка, Монреаля и его северного берега. Лемей отвечал за ландшафтную архитектуру, а также за новый имидж бренда, который, если вспомнить прошлое парка, основан на принципах повторного использования и переработки. Эти темы, в свою очередь, повлияли на стратегии Lemay по поиску пути, указателям и освещению для парка, а также его программу интерпретации. Результатом стал эволюционирующий и причудливый вариант одного из самых амбициозных проектов восстановления городов в Северной Америке.
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51410914161_d0d192dbf5_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51410914161_d0d192dbf5_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51410914741_e71ca34c3c_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51410914741_e71ca34c3c_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51410916781_0087fdb96b_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51410916781_0087fdb96b_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51411676199_4964acee45_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51411676199_4964acee45_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51411677139_810ecb910f_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51411677139_810ecb910f_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51411677464_32c34f4315_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51411677464_32c34f4315_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51411678714_109d6cb9ea_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51411678714_109d6cb9ea_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51411901145_317c83b26c_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51411901145_317c83b26c_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51411901945_59288c08fd_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51411901945_59288c08fd_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Frédéric-Back Park](https://live.staticflickr.com/65535/51411902315_48fcae9c78_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Frédéric-Back Park](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51411902315_48fcae9c78_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Frédéric-Back Park5](https://live.staticflickr.com/65535/51410915026_f7de68ccc6_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Frédéric-Back Park5](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51410915026_f7de68ccc6_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Parc Frederic-Back map](https://live.staticflickr.com/65535/51415028579_c6e247db2c_k.jpg){: width="1920" height="1133" loading="lazy"}
+![Parc Frederic-Back map](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51415028579_c6e247db2c_k.jpg){: width="1920" height="1133" loading="lazy"}
 
-![Parc Frederic-Back Concept](https://live.staticflickr.com/65535/51414537173_2adab0b2ab_k.jpg){: width="1920" height="1464" loading="lazy"}
+![Parc Frederic-Back Concept](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51414537173_2adab0b2ab_k.jpg){: width="1920" height="1464" loading="lazy"}
 

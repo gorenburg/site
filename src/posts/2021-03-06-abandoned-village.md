@@ -6,7 +6,7 @@ title:  "Заброшенная деревня"
 subtitle: "Опустошенные дома, разобранные печи"
 date:   2021-03-08 10:00:00 -0400
 tags: [photos, explore, travel]
-preview: 'https://live.staticflickr.com/65535/50158903176_0393901ae6_k_d.jpg'
+preview: 'https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158903176_0393901ae6_k_d.jpg'
 preview_video: 'https://flickr.com/video_download.gne?id=50631217651'
 ---
 
@@ -26,84 +26,84 @@ preview_video: 'https://flickr.com/video_download.gne?id=50631217651'
 
 <p><em>Запись разговора с Надеждой о заброшенной деревне</em></p>
 
-![APC_1273](https://live.staticflickr.com/65535/50158342563_da84501ead_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1273](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158342563_da84501ead_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1274](https://live.staticflickr.com/65535/50158342918_0dfab7f3d6_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1274](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158342918_0dfab7f3d6_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1275](https://live.staticflickr.com/65535/50158343193_42c9ba4741_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1275](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158343193_42c9ba4741_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1276](https://live.staticflickr.com/65535/50158343473_306a06f65b_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1276](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158343473_306a06f65b_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1277](https://live.staticflickr.com/65535/50158895776_b66ff08812_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1277](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158895776_b66ff08812_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1279](https://live.staticflickr.com/65535/50159135607_8f968ffe22_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1279](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50159135607_8f968ffe22_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1280](https://live.staticflickr.com/65535/50159135972_a9d985ff0a_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1280](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50159135972_a9d985ff0a_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1282](https://live.staticflickr.com/65535/50158896831_da78ef6c52_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1282](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158896831_da78ef6c52_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1284](https://live.staticflickr.com/65535/50158897241_74958abc61_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1284](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158897241_74958abc61_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1285](https://live.staticflickr.com/65535/50158345338_b5990e4544_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1285](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158345338_b5990e4544_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1286](https://live.staticflickr.com/65535/50158345583_fcddd69a98_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1286](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158345583_fcddd69a98_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1287](https://live.staticflickr.com/65535/50158898196_9a28f55853_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1287](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158898196_9a28f55853_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1288](https://live.staticflickr.com/65535/50158898541_bdd62687b2_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1288](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158898541_bdd62687b2_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1291](https://live.staticflickr.com/65535/50158346448_f113192b4e_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1291](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158346448_f113192b4e_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1292](https://live.staticflickr.com/65535/50158899126_37eec76ce8_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1292](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158899126_37eec76ce8_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1293](https://live.staticflickr.com/65535/50158346988_43bd9f1f03_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1293](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158346988_43bd9f1f03_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1294](https://live.staticflickr.com/65535/50158347383_7139e40178_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1294](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158347383_7139e40178_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1295](https://live.staticflickr.com/65535/50159139222_abc6bf2769_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1295](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50159139222_abc6bf2769_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1296](https://live.staticflickr.com/65535/50158348018_cbca48c140_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1296](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158348018_cbca48c140_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1297](https://live.staticflickr.com/65535/50159139837_2565f072ed_k.jpg){: width="1536" height="2048" loading="lazy"}
+![APC_1297](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50159139837_2565f072ed_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![APC_1300](https://live.staticflickr.com/65535/50159140147_459793fbb1_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1300](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50159140147_459793fbb1_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1301](https://live.staticflickr.com/65535/50159140532_081f00e4e3_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1301](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50159140532_081f00e4e3_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1302](https://live.staticflickr.com/65535/50159140832_2ae3c8a559_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1302](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50159140832_2ae3c8a559_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1303](https://live.staticflickr.com/65535/50158349503_c034c13c3c_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1303](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158349503_c034c13c3c_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1304](https://live.staticflickr.com/65535/50158349713_6056f1d76b_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1304](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158349713_6056f1d76b_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1305](https://live.staticflickr.com/65535/50158902331_ca7ea766e7_k.jpg){: width="1536" height="2048" loading="lazy"}
+![APC_1305](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158902331_ca7ea766e7_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![APC_1306](https://live.staticflickr.com/65535/50158902651_a1d63867bb_k.jpg){: width="1536" height="2048" loading="lazy"}
+![APC_1306](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158902651_a1d63867bb_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![APC_1308](https://live.staticflickr.com/65535/50158902891_3afa17d46f_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1308](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158902891_3afa17d46f_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1309](https://live.staticflickr.com/65535/50158903176_0393901ae6_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1309](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158903176_0393901ae6_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1310](https://live.staticflickr.com/65535/50158350958_874f25c00f_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1310](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158350958_874f25c00f_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1312](https://live.staticflickr.com/65535/50158351188_532136d8fe_k.jpg){: width="1536" height="2048" loading="lazy"}
+![APC_1312](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158351188_532136d8fe_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![APC_1313](https://live.staticflickr.com/65535/50158894371_155c036123_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1313](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158894371_155c036123_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1314](https://live.staticflickr.com/65535/50158341958_f6df22988a_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1314](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158341958_f6df22988a_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1315](https://live.staticflickr.com/65535/50158893811_28bfdbacfa_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1315](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158893811_28bfdbacfa_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1316](https://live.staticflickr.com/65535/50158893541_cd2867c72a_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1316](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158893541_cd2867c72a_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1317](https://live.staticflickr.com/65535/50159132927_0394f6d7b8_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1317](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50159132927_0394f6d7b8_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1318](https://live.staticflickr.com/65535/50159132697_3bf9c0cf41_k.jpg){: width="1536" height="2048" loading="lazy"}
+![APC_1318](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50159132697_3bf9c0cf41_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![APC_1319](https://live.staticflickr.com/65535/50159132412_53c296c2a0_k.jpg){: width="1536" height="2048" loading="lazy"}
+![APC_1319](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50159132412_53c296c2a0_k.jpg){: width="1536" height="2048" loading="lazy"}
 
-![APC_1323](https://live.staticflickr.com/65535/50158340518_84c32a04f6_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1323](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50158340518_84c32a04f6_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1325](https://live.staticflickr.com/65535/50159131682_8f02203186_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1325](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50159131682_8f02203186_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![APC_1327](https://live.staticflickr.com/65535/50159131412_dc8a6060fb_k.jpg){: width="2048" height="1536" loading="lazy"}
+![APC_1327](https://ilya.cdn.gorenburg.com/2021-03-06-abandoned-village/50159131412_dc8a6060fb_k.jpg){: width="2048" height="1536" loading="lazy"}

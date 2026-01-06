@@ -8,22 +8,22 @@ lead: "Люди обустраивают дачи на острове. Без э
 
 ---
 
-[![](https://farm5.staticflickr.com/4908/45221874934_936ba8b653_o_d.jpg)](https://farm5.staticflickr.com/4908/45221874934_936ba8b653_o_d.jpg)
+[![](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/45221874934_936ba8b653_o_d.jpg)](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/45221874934_936ba8b653_o_d.jpg)
 
-[![](https://farm5.staticflickr.com/4893/32074906028_14d5ea563b_o_d.jpg)](https://farm5.staticflickr.com/4893/32074906028_14d5ea563b_o_d.jpg)
+[![](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/32074906028_14d5ea563b_o_d.jpg)](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/32074906028_14d5ea563b_o_d.jpg)
 
-[![](https://farm5.staticflickr.com/4890/45221875044_d76e94a447_o_d.jpg)](https://farm5.staticflickr.com/4890/45221875044_d76e94a447_o_d.jpg)
+[![](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/45221875044_d76e94a447_o_d.jpg)](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/45221875044_d76e94a447_o_d.jpg)
 
-[![](https://farm5.staticflickr.com/4874/32074906118_56aa104db4_o_d.jpg)](https://farm5.staticflickr.com/4874/32074906118_56aa104db4_o_d.jpg)
+[![](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/32074906118_56aa104db4_o_d.jpg)](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/32074906118_56aa104db4_o_d.jpg)
 
-[![](https://farm5.staticflickr.com/4832/45221875124_ec8a4b7203_o_d.jpg)](https://farm5.staticflickr.com/4832/45221875124_ec8a4b7203_o_d.jpg)
+[![](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/45221875124_ec8a4b7203_o_d.jpg)](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/45221875124_ec8a4b7203_o_d.jpg)
 
-[![](https://farm5.staticflickr.com/4809/32074906228_7ddbd4ec3c_o_d.jpg)](https://farm5.staticflickr.com/4809/32074906228_7ddbd4ec3c_o_d.jpg)
+[![](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/32074906228_7ddbd4ec3c_o_d.jpg)](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/32074906228_7ddbd4ec3c_o_d.jpg)
 
-[![](https://farm5.staticflickr.com/4828/45221875224_70606055b6_o_d.jpg)](https://farm5.staticflickr.com/4828/45221875224_70606055b6_o_d.jpg)
+[![](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/45221875224_70606055b6_o_d.jpg)](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/45221875224_70606055b6_o_d.jpg)
 
-[![](https://farm5.staticflickr.com/4823/32074906318_7bef71d2dd_o_d.jpg)](https://farm5.staticflickr.com/4823/32074906318_7bef71d2dd_o_d.jpg)
+[![](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/32074906318_7bef71d2dd_o_d.jpg)](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/32074906318_7bef71d2dd_o_d.jpg)
 
-[![](https://farm5.staticflickr.com/4848/45221875344_48a046c288_o_d.jpg)](https://farm5.staticflickr.com/4848/45221875344_48a046c288_o_d.jpg)
+[![](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/45221875344_48a046c288_o_d.jpg)](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/45221875344_48a046c288_o_d.jpg)
 
-[![](https://farm5.staticflickr.com/4863/32074906468_cec6b9dae9_o_d.jpg)](https://farm5.staticflickr.com/4863/32074906468_cec6b9dae9_o_d.jpg)
+[![](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/32074906468_cec6b9dae9_o_d.jpg)](https://ilya.cdn.gorenburg.com/2018-03-12-oktyabrskiy/32074906468_cec6b9dae9_o_d.jpg)

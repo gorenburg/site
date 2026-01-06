@@ -4,7 +4,7 @@ type: photos
 title:  "д. Малый Карамас, Марий Эл"
 date:   2017-09-03 10:00:00 -0400
 tags: [photos, explore, travel]
-preview: 'https://farm5.staticflickr.com/4406/36600902490_10bd9a5b74_k.jpg'
+preview: 'https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36600902490_10bd9a5b74_k.jpg'
 ---
 
 Деревня Малый Карамас находится на расстоянии 7 км на юго-восток от дер. Чодыраял, центра Карамасского территориального образования.
@@ -39,50 +39,50 @@ preview: 'https://farm5.staticflickr.com/4406/36600902490_10bd9a5b74_k.jpg'
 
 <Frame src="https://www.youtube.com/embed/vBdMm6QdxFE?rel=0&amp;showinfo=0" />
 
-![Малый Карамас](https://live.staticflickr.com/4406/36600902490_10bd9a5b74_k.jpg){: width="2048" height="1152" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36600902490_10bd9a5b74_k.jpg){: width="2048" height="1152" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4431/36600904060_1a8f4be972_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36600904060_1a8f4be972_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4397/36857613341_f02528290b_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36857613341_f02528290b_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4359/36600905460_ef94f70f83_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36600905460_ef94f70f83_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4422/36600906330_f79939e14b_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36600906330_f79939e14b_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4428/36600907210_ff783cf185_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36600907210_ff783cf185_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4430/36600908000_e93e63a84e_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36600908000_e93e63a84e_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4345/36857619791_250784fdb5_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36857619791_250784fdb5_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4425/36600910270_fcf92f2e90_k.jpg){: width="1365" height="2048" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36600910270_fcf92f2e90_k.jpg){: width="1365" height="2048" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4357/36189392033_06b0cc6f5d_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36189392033_06b0cc6f5d_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4382/36162295334_850efd76e2_k.jpg){: width="1365" height="2048" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36162295334_850efd76e2_k.jpg){: width="1365" height="2048" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4412/36162295894_eb2dd4bd45_k.jpg){: width="1365" height="2048" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36162295894_eb2dd4bd45_k.jpg){: width="1365" height="2048" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4372/36826634302_f5568ea9aa_k.jpg){: width="2048" height="1365" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36826634302_f5568ea9aa_k.jpg){: width="2048" height="1365" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4415/36998077955_4ecb8b0b1e_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36998077955_4ecb8b0b1e_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4419/36998078315_c0d3712f9d_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36998078315_c0d3712f9d_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4398/36826635502_1ccc21a644_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36826635502_1ccc21a644_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4388/36162298454_013f6819ea_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36162298454_013f6819ea_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4361/36857607991_6ca20a5673_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36857607991_6ca20a5673_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4423/36162285374_93fd1edf54_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36162285374_93fd1edf54_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4370/36998067035_8428954c3f_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36998067035_8428954c3f_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4367/36189375333_3240279282_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36189375333_3240279282_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4427/36600897370_3682774ae5_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36600897370_3682774ae5_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4336/36826624942_6a89c62f60_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36826624942_6a89c62f60_k.jpg){: width="2048" height="1536" loading="lazy"}
 
-![Малый Карамас](https://live.staticflickr.com/4372/36162280724_39ff90c10b_k.jpg){: width="2048" height="1536" loading="lazy"}
+![Малый Карамас](https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36162280724_39ff90c10b_k.jpg){: width="2048" height="1536" loading="lazy"}
