@@ -4,13 +4,15 @@
 	import { getFormatedDate } from '$lib/utils'
   import { onMount } from 'svelte'
   import { base } from '$app/paths'
-  import { getPreviewImageUrl } from '$lib/functions/base_path'
+  import { page } from '$app/state'
 
 	import Toc from '../../components/toc.svelte'
 	import Comments from '../../components/comments.svelte'
 	import Video from '../../components/video.svelte'
 
   let { data } = $props()
+
+  const description = $derived(data.meta.description ?? data.meta.subtitle ?? config.description)
 
   setLangAttr()
 
@@ -27,12 +29,15 @@
 <svelte:head>
   <title>{data.meta.title}{config.siteTitle}</title>
   <meta property="og:type" content="article" />
+  <meta name="description" content={description} />
   <meta property="og:title" content={data.meta.title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={new URL(page.url.pathname, config.url).href} />
   <meta name="twitter:title" content={data.meta.title} />
   <meta name="twitter:card" content="summary_large_image" />
   {#if data.meta.preview}
-    <meta property="og:image" content={getPreviewImageUrl(data.meta.preview)} />
-    <meta name="twitter:image" content={getPreviewImageUrl(data.meta.preview)} />
+    <meta property="og:image" content={new URL(data.meta.preview, config.url).href} />
+    <meta name="twitter:image" content={new URL(data.meta.preview, config.url).href} />
   {/if}
 </svelte:head>
 
