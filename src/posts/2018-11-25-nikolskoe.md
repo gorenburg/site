@@ -2,6 +2,7 @@
 layout: post
 type: photos
 title:  "с. Никольское, Татарстан. Церковь Николая Чудотворца"
+description: "Церковь Николая Чудотворца в селе Никольское, Татарстан: храм 1829 года в стиле русский ампир — все, что осталось от села."
 date:   2018-11-25 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2018-11-25-nikolskoe/31113826107_378d77a290_k_d.jpg'

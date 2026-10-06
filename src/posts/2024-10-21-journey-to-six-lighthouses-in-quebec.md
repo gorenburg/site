@@ -2,6 +2,7 @@
 layout: post
 type: photos
 title:  "Journey to 6 lighthouses in Quebec"
+description: "A two-day boat and road trip from Tadoussac to six Quebec lighthouses, including the remote Phare du Haut-Fond-Prince, 6 km offshore."
 date:   2024-10-21 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2024-10-21-journey-to-six-lighthouses-in-quebec/54084430656_622a2cd150_k_d.jpg'

@@ -2,6 +2,7 @@
 layout: post
 type: talks
 title: 'Beyond libraries'
+description: "Slides from my JS Montreal talk «Beyond libraries» (March 10, 2026)."
 date: 2026-03-10 10:00:00 -0400
 tags: [talks, speaker notes]
 preview: '/images/cover/beyond-libraries.png'

@@ -1,4 +1,7 @@
 import { error } from '@sveltejs/kit'
+import { getExcerpt } from '$lib/functions/excerpt'
+
+const rawPosts = import.meta.glob<string>('/src/posts/*.md', { query: '?raw', import: 'default' })
 
 const slugRegExp = new RegExp(/^[0-9]{4}\/[0-9]{2}\/[0-9]{2}\//)
 
@@ -11,10 +14,12 @@ export async function load({ params }) {
     }
 
     const post = await import(`../../posts/${params.slug}.md`)
+    const raw = await rawPosts[`/src/posts/${params.slug}.md`]?.()
 
     return {
       content: post.default,
-      meta: post.metadata
+      meta: post.metadata,
+      excerpt: raw && getExcerpt(raw)
     }
   } catch (e) {
     error(404, `Could not find ${params.slug}`)

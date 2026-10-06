@@ -3,6 +3,7 @@ layout: post
 type: photos
 header: photo
 title: 'Carbide Willson Ruins, Ottawa, CA'
+description: "Руины лаборатории Томаса «Карбида» Уилсона на озере Мич в парке Гатино: история изобретателя и его заброшенной фабрики."
 subtitle: 'Заброшенная лаборатория по производству карбида кальция'
 date: 2021-02-21 10:00:00 -0400
 tags: [photos, explore, travel, story]

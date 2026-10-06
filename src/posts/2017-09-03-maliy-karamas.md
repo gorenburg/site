@@ -2,6 +2,7 @@
 layout: post
 type: photos
 title:  "д. Малый Карамас, Марий Эл"
+description: "Заброшенная деревня Малый Карамас в Марий Эл: история возникновения со времен Столыпинской реформы и фото того, что от нее осталось."
 date:   2017-09-03 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2017-09-03-maliy-karamas/36600902490_10bd9a5b74_k.jpg'

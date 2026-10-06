@@ -12,7 +12,7 @@
 
   let { data } = $props()
 
-  const description = $derived(data.meta.description ?? data.meta.subtitle ?? config.description)
+  const description = $derived(data.meta.description ?? data.meta.subtitle ?? data.excerpt ?? `${data.meta.title} — ${config.title}`)
 
   setLangAttr()
 

@@ -2,6 +2,7 @@
 layout: post
 type: photos
 title: 'Вальпараисо, Чили'
+description: "Вальпараисо, Чили: поездка из Сантьяго на автобусе в город холмов, фуникулеров и уличного искусства. Фото и видео."
 date: 2019-10-20 10:00:00 -0400
 tags: [photos, explore, travel, video]
 preview: 'https://ilya.cdn.gorenburg.com/2019-10-20-valparaiso/48399851842_4259ed1f02_k_d.jpg'

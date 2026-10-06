@@ -2,6 +2,7 @@
 layout: post
 type: photos
 title:  "Diefenbunker, Ottawa, CA"
+description: "Diefenbunker под Оттавой: четырехэтажный бункер времен холодной войны, построенный для правительства Канады на случай ядерного удара."
 date:   2021-03-22 10:00:00 -0400
 tags: [photos, explore, travel, story]
 preview: 'https://ilya.cdn.gorenburg.com/2021-03-22-diefenbunker-ottawa/50872152093_08ae53e6db_k_d.jpg'

@@ -2,6 +2,7 @@
 layout: post
 type: photos
 title:  "Ambassador shipwreck, Estancia San Gregorio, Chile"
+description: "Остов клипера «Амбассадор», участника чайных гонок XIX века, на берегу Магелланова пролива у Эстансии Сан Грегорио, Чили."
 date:   2022-10-09 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2022-10-03-ambassador-shipwreck/52415793814_71bef5b36a_k_d.jpg'
