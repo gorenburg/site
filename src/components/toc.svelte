@@ -1,18 +1,22 @@
 <script lang="ts">
-	import { onMount } from "svelte"
+  import { onMount } from 'svelte';
 
-  let titleList: HTMLHeadingElement[] = []
+  let titleList: HTMLHeadingElement[] = [];
 
   onMount(() => {
-    titleList = Array.from<HTMLHeadingElement>(document.body.querySelectorAll('h2, h3, h4, h5, h6'))
-  })
+    titleList = Array.from<HTMLHeadingElement>(
+      document.body.querySelectorAll('h2, h3, h4, h5, h6')
+    );
+  });
 
   function scrollToSection(event: MouseEvent, id: string): void {
-    const el = document.getElementById(id)
-    if (!el) { return }
+    const el = document.getElementById(id);
+    if (!el) {
+      return;
+    }
 
-    event.preventDefault()
-    el.scrollIntoView({ behavior: "smooth" })
+    event.preventDefault();
+    el.scrollIntoView({ behavior: 'smooth' });
   }
 </script>
 
@@ -22,7 +26,9 @@
       {#each titleList as title}
         {#if title.id}
           <li>
-            <a href="#{title.id}" on:click={(event) => scrollToSection(event, title.id)}>{title.textContent}</a>
+            <a href="#{title.id}" on:click={(event) => scrollToSection(event, title.id)}>
+              {title.textContent}
+            </a>
           </li>
         {/if}
       {/each}

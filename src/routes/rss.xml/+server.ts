@@ -15,8 +15,8 @@ export async function GET() {
           <link>${config.url}</link>
           <atom:link href="${config.url}/rss.xml" rel="self" type="application/rss+xml"/>
           ${posts.items
-            .map(
-              (post) => `
+        .map(
+          (post) => `
               <item>
                 <title>${post.title}</title>
                 <description>${post.description ? post.description : ''}</description>
@@ -25,8 +25,8 @@ export async function GET() {
                 <pubDate>${new Date(post.date).toUTCString()}</pubDate>
               </item>
             `
-            )
-            .join('')}
+        )
+        .join('')}
         </channel>
       </rss>
     `.trim()

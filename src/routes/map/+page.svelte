@@ -1,6 +1,6 @@
 <script lang="ts">
-  import * as config from '#lib/config.ts'
-	import Frame from "../../components/frame.svelte"
+  import * as config from '#lib/config.ts';
+  import Frame from '../../components/frame.svelte';
 </script>
 
 <svelte:head>

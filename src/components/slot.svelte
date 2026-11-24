@@ -1,13 +1,13 @@
 <script lang="ts">
-	import { onMount } from "svelte"
+  import { onMount } from 'svelte';
 
-  export let onMounted: () => void
+  export let onMounted: () => void;
 
   onMount(() => {
     if (onMounted) {
-      onMounted()
+      onMounted();
     }
-  })
+  });
 </script>
 
 <slot />
