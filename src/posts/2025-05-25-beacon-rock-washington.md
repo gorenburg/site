@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "Beacon rock, Washington"
-date:   2025-05-24 10:00:00 -0400
+title: 'Beacon rock, Washington'
+date: 2025-05-24 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2025-05-25-beacon-rock-washington/54542712330_439ea15cfe_k_d.jpg'
 ---

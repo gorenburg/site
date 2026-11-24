@@ -1,9 +1,9 @@
 ---
 layout: post
 type: photos
-title:  "Парк Frédéric-Back, Монреаль"
-description: "История парка Frédéric-Back в Монреале: от карьеров Сен-Мишель и городской свалки до одного из крупнейших парков города."
-date:   2021-08-29 10:00:00 -0400
+title: 'Парк Frédéric-Back, Монреаль'
+description: 'История парка Frédéric-Back в Монреале: от карьеров Сен-Мишель и городской свалки до одного из крупнейших парков города.'
+date: 2021-08-29 10:00:00 -0400
 tags: [photos, explore, travel, story]
 preview: 'https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51410915026_f7de68ccc6_k_d.jpg'
 ---
@@ -95,4 +95,3 @@ preview: 'https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/514109150
 ![Parc Frederic-Back map](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51415028579_c6e247db2c_k.jpg){: width="1920" height="1133" loading="lazy"}
 
 ![Parc Frederic-Back Concept](https://ilya.cdn.gorenburg.com/2021-08-29-frederic-back-park/51414537173_2adab0b2ab_k.jpg){: width="1920" height="1464" loading="lazy"}
-

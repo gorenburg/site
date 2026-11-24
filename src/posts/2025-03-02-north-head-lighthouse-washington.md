@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "North Head lighthouse, Washington"
-date:   2025-03-02 10:00:00 -0400
+title: 'North Head lighthouse, Washington'
+date: 2025-03-02 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2025-03-02-north-head-lighthouse-washington/54361904418_a9c1d74173_k_d.jpg'
 ---

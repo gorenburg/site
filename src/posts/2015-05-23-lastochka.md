@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "д. Крутушка, Татарстан. Заброшенный лагерь “Ласточка”"
-date:   2015-05-23 10:00:00 -0400
+title: 'д. Крутушка, Татарстан. Заброшенный лагерь “Ласточка”'
+date: 2015-05-23 10:00:00 -0400
 tags: [photos, travel, explore]
 preview: 'https://ilya.cdn.gorenburg.com/2015-05-23-lastochka/17358644528_99d4aa8c17_k.jpg'
 ---

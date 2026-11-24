@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "с. Набережные Моркваши, Татарстан. «Пряничная фабрика»"
-date:   2021-06-26 10:00:00 -0400
+title: 'с. Набережные Моркваши, Татарстан. «Пряничная фабрика»'
+date: 2021-06-26 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2021-06-26-naberezhnie-morkvashi/51272440276_129057b3ed_k_d.jpg'
 ---

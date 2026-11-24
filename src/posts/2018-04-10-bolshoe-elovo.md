@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "с. Большое Елово, Татарстан. Церковь Михаила Архангела"
-date:   2018-04-01 10:00:00 -0400
+title: 'с. Большое Елово, Татарстан. Церковь Михаила Архангела'
+date: 2018-04-01 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2018-04-10-bolshoe-elovo/39084228150_ca44fc2223_k.jpg'
 ---

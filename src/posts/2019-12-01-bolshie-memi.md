@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "с. Большие Меми, Татарстан. Церковь Александра Невского"
-date:   2019-12-01 10:00:00 -0400
+title: 'с. Большие Меми, Татарстан. Церковь Александра Невского'
+date: 2019-12-01 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2019-12-01-bolshie-memi/49152618608_36874e6048_k_d.jpg'
 ---

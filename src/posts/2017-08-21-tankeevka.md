@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "с. Танкеевка, Татарстан. Храм Живоначальной Троицы"
-date:   2017-08-21 10:00:00 -0400
+title: 'с. Танкеевка, Татарстан. Храм Живоначальной Троицы'
+date: 2017-08-21 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2017-08-21-tankeevka/35309520864_48e4a4028e_k.jpg'
 ---

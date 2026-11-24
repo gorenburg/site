@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "Capelton mine, Quebec"
-date:   2024-02-27 10:00:00 -0400
+title: 'Capelton mine, Quebec'
+date: 2024-02-27 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2024-02-27-capelton-mine-quebec/53557188410_99ce5a99e8_k_d.jpg'
 ---

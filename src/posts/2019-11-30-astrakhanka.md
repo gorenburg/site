@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "с. Астраханка, Татарстан. Казанско-Богородицкая церковь"
-date:   2019-11-30 10:00:00 -0400
+title: 'с. Астраханка, Татарстан. Казанско-Богородицкая церковь'
+date: 2019-11-30 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2019-11-30-astrakhanka/43086254845_8168ae8ef5_k_d.jpg'
 ---
@@ -42,4 +42,3 @@ preview: 'https://ilya.cdn.gorenburg.com/2019-11-30-astrakhanka/43086254845_8168
 ![Астраханка](https://ilya.cdn.gorenburg.com/2019-11-30-astrakhanka/43086254845_8168ae8ef5_k.jpg){: width="2048" height="1536" loading="lazy"}
 
 ![Астраханка](https://ilya.cdn.gorenburg.com/2019-11-30-astrakhanka/30123386698_5efd9be7fc_k.jpg){: width="2048" height="1536" loading="lazy"}
-

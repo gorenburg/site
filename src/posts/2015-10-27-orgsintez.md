@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "Оргсинтез ночью"
-date:   2015-10-27 10:00:00 -0400
+title: 'Оргсинтез ночью'
+date: 2015-10-27 10:00:00 -0400
 tags: [photos]
 preview: 'https://ilya.cdn.gorenburg.com/2015-10-27-orgsintez/19673111221_47feda1395_k.jpg'
 ---
@@ -30,4 +30,3 @@ preview: 'https://ilya.cdn.gorenburg.com/2015-10-27-orgsintez/19673111221_47feda
 ![КазаньОргсинтез ночью](https://ilya.cdn.gorenburg.com/2015-10-27-orgsintez/19481993969_15a71fdfbf_k.jpg){: width="2048" height="1365" loading="lazy"}
 
 ![КазаньОргсинтез ночью](https://ilya.cdn.gorenburg.com/2015-10-27-orgsintez/19481992459_37b0144f39_k.jpg){: width="2048" height="1365" loading="lazy"}
-

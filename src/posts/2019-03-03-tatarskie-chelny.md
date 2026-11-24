@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "с. Татарские Челны, Татарстан. Троицкая церковь"
-date:   2019-03-03 10:00:00 -0400
+title: 'с. Татарские Челны, Татарстан. Троицкая церковь'
+date: 2019-03-03 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2019-03-03-tatarskie-chelny/31526634627_bc45a15114_k_d.jpg'
 ---

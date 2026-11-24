@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "с. Ивановское, Татарстан. Церковь Иоанна Златоуста"
-date:   2018-09-18 10:00:00 -0400
+title: 'с. Ивановское, Татарстан. Церковь Иоанна Златоуста'
+date: 2018-09-18 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2018-09-18-ivanovskoe/44469488961_93562cbe4a_k.jpg'
 ---

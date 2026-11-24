@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "Тихий Плес, Татарстан. Церковь Ризоположения"
-date:   2020-03-29 10:00:00 -0400
+title: 'Тихий Плес, Татарстан. Церковь Ризоположения'
+date: 2020-03-29 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2020-03-29-tikhiy-ples/49706048142_a4c0d69c27_k_d.jpg'
 ---

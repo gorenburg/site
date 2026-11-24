@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "Amadeo shipwreck, Estancia San Gregorio, Chile"
-date:   2022-09-03 10:00:00 -0400
+title: 'Amadeo shipwreck, Estancia San Gregorio, Chile'
+date: 2022-09-03 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2022-09-03-amadeo-shipwreck/52331950058_193ec9c999_k_d.jpg'
 lang: 'ru'

@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "Grumman A-6A Intruder Crash Site, Christmas Valley, Oregon"
-date:   2022-12-19 10:00:00 -0400
+title: 'Grumman A-6A Intruder Crash Site, Christmas Valley, Oregon'
+date: 2022-12-19 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2022-12-19-grumman-a-6a-christmas-valley-oregon/52573892741_756ed5e9df_k_d.jpg'
 lang: 'ru'

@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "Fort Rock Homestead Village Museum, Oregon"
-date:   2023-07-10 10:00:00 -0400
+title: 'Fort Rock Homestead Village Museum, Oregon'
+date: 2023-07-10 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2023-07-10-fort-rock-oregon/53036769994_236e64f5f8_k_d.jpg'
 lang: 'ru'

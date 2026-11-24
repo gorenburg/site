@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "Cape Disappointment Lighthouse, Oregon"
-date:   2025-01-03 10:00:00 -0400
+title: 'Cape Disappointment Lighthouse, Oregon'
+date: 2025-01-03 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2025-01-03-cape-disappointment-lighthouse-oregon/54244641683_eb0473820d_k_d.jpg'
 ---

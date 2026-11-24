@@ -1,8 +1,8 @@
 ---
 layout: post
 type: insta
-title:  "Shooting Day"
-date:   2014-05-05 10:00:00 -0400
+title: 'Shooting Day'
+date: 2014-05-05 10:00:00 -0400
 tags: [photos]
 ---
 

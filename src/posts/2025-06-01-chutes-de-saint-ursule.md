@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "Chutes de Sainte-Ursule"
-date:   2025-06-01 10:00:00 -0400
+title: 'Chutes de Sainte-Ursule'
+date: 2025-06-01 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2025-06-01-chutes-de-saint-ursule/54559942322_f2fae12b80_k_d.jpg'
 ---

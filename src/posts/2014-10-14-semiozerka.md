@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "п. Семиозерка, Татарстан. ДОЛ им. Гайдара"
-date:   2014-10-14 10:00:00 -0400
+title: 'п. Семиозерка, Татарстан. ДОЛ им. Гайдара'
+date: 2014-10-14 10:00:00 -0400
 tags: [photos, travel, explore]
 preview: 'https://ilya.cdn.gorenburg.com/2014-10-14-semiozerka/15530746232_2f17970464_k.jpg'
 ---

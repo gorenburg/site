@@ -1,8 +1,8 @@
 ---
 layout: post
 type: insta
-title:  "Mountain Travel"
-date:   2014-05-11 10:00:00 -0400
+title: 'Mountain Travel'
+date: 2014-05-11 10:00:00 -0400
 tags: [photos]
 ---
 

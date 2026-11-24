@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "P38 Lighting Crash Site, Christmas Valley, Oregon"
-date:   2023-02-11 10:00:00 -0400
+title: 'P38 Lighting Crash Site, Christmas Valley, Oregon'
+date: 2023-02-11 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2023-02-11-p38-lightning-christmas-valley-oregon/52682966523_385896f1bc_k_d.jpg'
 lang: 'ru'

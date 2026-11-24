@@ -1,8 +1,8 @@
 ---
 layout: post
 type: photos
-title:  "с. Татарское Бурнашево, Татарстан. Церковь Михаила Архангела"
-date:   2020-11-01 10:00:00 -0400
+title: 'с. Татарское Бурнашево, Татарстан. Церковь Михаила Архангела'
+date: 2020-11-01 10:00:00 -0400
 tags: [photos, explore, travel]
 preview: 'https://ilya.cdn.gorenburg.com/2020-11-01-tatarskoe-burnashevo/50555788727_a96bcddc13_k_d.jpg'
 ---

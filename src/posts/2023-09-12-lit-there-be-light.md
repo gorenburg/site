@@ -1,8 +1,8 @@
 ---
 layout: post
 type: talks
-title:  "Lit there be light"
-date:   2023-09-12 10:00:00 -0400
+title: 'Lit there be light'
+date: 2023-09-12 10:00:00 -0400
 tags: [talks, speaker notes]
 preview: '/images/cover/lit-there-be-light.png'
 ---
