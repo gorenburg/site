@@ -17,6 +17,8 @@ const markdownAttrs = (): Plugin => ({
   enforce: 'pre',
   transform(code, id) {
     if (!id.endsWith('.md')) return;
+    // a block that starts with raw <img> is an HTML block (no <p>), so wrap it like remark-attr's paragraph did
+    code = code.replace(/(^|\n[ \t]*\n)(!\[[^\]\n]*\]\([^)\s]+\)\{:[^\n]*(?:\n(?![ \t]*\n)[^\n]*)*)/g, '$1<p>$2</p>');
     return {
       map: null,
       code: code.replace(

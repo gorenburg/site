@@ -91,7 +91,7 @@
       margin-top: 0;
       margin-bottom: var(--content-block-margin);
     }
-    article > *:not(img) {
+    article > *:not(p:has(img)) {
       width: 100%;
       max-width: var(--content-width);
       padding-left: var(--content-padding);

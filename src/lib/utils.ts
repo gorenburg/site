@@ -22,7 +22,7 @@ export function getParsedDate(date: string): Date | undefined {
   return undefined
 }
 
-export function formatDate(date: string | Date, dateStyle: DateStyle = 'long', locales = 'en-US'): string  {
+export function formatDate(date: string | Date, dateStyle: DateStyle = 'long', locales = 'en-US'): string {
   const dateValue = new Date(date)
 
   if (dateValue) {
