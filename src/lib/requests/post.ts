@@ -1,4 +1,4 @@
-import type { Post } from '$lib/types'
+import type { Post } from '#lib/types.ts'
 import { error } from '@sveltejs/kit'
 
 const slugRegExp = new RegExp(/^[0-9]{4}\/[0-9]{2}\/[0-9]{2}\//)
@@ -17,7 +17,7 @@ export async function getPost(slug: string): Promise<{ content: ConstructorOfATy
       content: post.default,
       meta: post.metadata
     }
-  } catch (e) {
+  } catch {
     error(404, `Could not find ${slug}`)
   }
 }

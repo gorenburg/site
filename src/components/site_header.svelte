@@ -1,41 +1,32 @@
 <script lang="ts">
-  import * as config from '$lib/config'
-  import { base } from '$app/paths'
-  import IconCode from '$lib/icons/code.svg?raw'
-  import IconImage from '$lib/icons/image.svg?raw'
-  import IconMap from '$lib/icons/map.svg?raw'
+  import * as config from '#lib/config.ts';
+  import { asset, resolve } from '$app/paths';
+  import IconCode from '#lib/icons/code.svg?raw';
+  import IconImage from '#lib/icons/image.svg?raw';
+  import IconMap from '#lib/icons/map.svg?raw';
 </script>
 
 <header class="wrapper page-header">
   <section class="header-profile">
-    <a href="{base}/" class="header-logo">
-      <img src="{base}/images/avatar.jpg" width="64" height="64" class="header-avatar" alt={config.title}>
+    <a href={resolve('/')} class="header-logo">
+      <img
+        src={asset('images/avatar.jpg')}
+        width="64"
+        height="64"
+        class="header-avatar"
+        alt={config.title}
+      />
     </a>
     <div class="header-profile-inner">
-      <a href="{base}/" class="header-profile-link">{config.title}</a>
+      <a href={resolve('/')} class="header-profile-link">{config.title}</a>
       <section class="header-description">{config.description}</section>
     </div>
   </section>
   <nav>
     <ul class="header-menu">
-      <li>
-        <a href="{base}/map">
-          {@html IconMap}
-          <br>map
-        </a>
-      </li>
-      <li>
-        <a href="{base}/tag/photos">
-          {@html IconImage}
-          <br>photos
-        </a>
-      </li>
-      <li>
-        <a href="{base}/tag/code">
-          {@html IconCode}
-          <br>code
-        </a>
-      </li>
+      <li><a href={resolve('map')}>{@html IconMap} <br />map</a></li>
+      <li><a href={resolve('tag/photos')}>{@html IconImage} <br />photos</a></li>
+      <li><a href={resolve('tag/code')}>{@html IconCode} <br />code</a></li>
     </ul>
   </nav>
 </header>
@@ -72,7 +63,7 @@
   }
 
   .header-avatar {
-    border-radius: .375rem;
+    border-radius: 0.375rem;
   }
 
   .header-profile-link {
@@ -94,7 +85,7 @@
 
   .header-menu {
     display: flex;
-    gap: .5rem 1.5rem;
+    gap: 0.5rem 1.5rem;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -107,7 +98,7 @@
       height: 1.5rem;
       fill: var(--text-color);
       vertical-align: top;
-      transition: fill .15s linear;
+      transition: fill 0.15s linear;
     }
   }
 

@@ -1,17 +1,13 @@
 <script lang="ts">
-	import { getPost } from "$lib/requests/post"
-	import type { Post } from "$lib/types"
-  import { base } from '$app/paths'
-  import { getPreviewImageUrl } from "$lib/functions/base_path"
+  import { getPost } from '#lib/requests/post.ts';
+  import type { Post } from '#lib/types.ts';
+  import { resolve } from '$app/paths';
+  import PostListItemMeta from './post_list_item_meta.svelte';
+  import Insta from './insta.svelte';
 
-  import PostListItemMeta from "./post_list_item_meta.svelte"
-	import Insta from "./insta.svelte"
+  type Props = { items: Post[] };
 
-  type Props = {
-    items: Post[]
-  }
-
-  let { items }: Props = $props()
+  let { items }: Props = $props();
 </script>
 
 <ul class="posts wrapper">
@@ -22,21 +18,56 @@
           {@const Component = data.content}
           <Component />
         {/await}
-        <PostListItemMeta slug={post.slug} date={post.date} type={post.type} tags={post.tags} hasLinks={true} />
+        <PostListItemMeta
+          slug={post.slug}
+          date={post.date}
+          type={post.type}
+          tags={post.tags}
+          hasLinks={true}
+        />
       {:else if post.type === 'link' && post.link}
         <a href={post.link} target="_blank" class="h2">{post.title}</a>
-        <PostListItemMeta slug={post.slug} date={post.date} type={post.type} tags={post.tags} hasLinks={true} />
+        <PostListItemMeta
+          slug={post.slug}
+          date={post.date}
+          type={post.type}
+          tags={post.tags}
+          hasLinks={true}
+        />
       {:else if post.type === 'insta'}
         <Insta slug={post.slug} />
         {#if post.description}
           <p>{post.description}</p>
         {/if}
-        <PostListItemMeta slug={post.slug} date={post.date} type={post.type} tags={post.tags} hasLinks={true} />
+        <PostListItemMeta
+          slug={post.slug}
+          date={post.date}
+          type={post.type}
+          tags={post.tags}
+          hasLinks={true}
+        />
       {:else}
-        <a href="{base}/{post.slug}" class="post-link">
-          <h2 class="h3 post-title {post.tags.includes('talks') ? 'visibility-hidden' : ''}">{post.title}</h2>
-          <PostListItemMeta slug={post.slug} date={post.date} type={post.type} tags={post.tags} hasLinks={false} />
-          <img class="post-img" src={getPreviewImageUrl(post.preview)} alt={post.title} width="2048" height="1536" loading="lazy" />
+        <a href={resolve(post.slug)} class="post-link">
+          <h2 class="h3 post-title {post.tags.includes('talks') ? 'visibility-hidden' : ''}">
+            {post.title}
+          </h2>
+
+          <PostListItemMeta
+            slug={post.slug}
+            date={post.date}
+            type={post.type}
+            tags={post.tags}
+            hasLinks={false}
+          />
+
+          <img
+            class="post-img"
+            src={post.preview}
+            alt={post.title}
+            width="2048"
+            height="1536"
+            loading="lazy"
+          />
         </a>
       {/if}
     </li>
@@ -87,7 +118,7 @@
   }
 
   .post-link:hover:before {
-    opacity: .7;
+    opacity: 0.7;
   }
 
   .post-link:before {
@@ -101,7 +132,7 @@
     border-radius: 1.5rem;
     z-index: -1;
     opacity: 1;
-    transition: opacity .15s linear;
+    transition: opacity 0.15s linear;
     background: var(--background-overlay);
   }
 

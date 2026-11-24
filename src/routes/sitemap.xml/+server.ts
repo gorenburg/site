@@ -1,12 +1,12 @@
-import { url } from "$lib/config"
-import { getPosts } from "$lib/requests/posts"
+import { url } from "#lib/config.ts"
+import { getPosts } from "#lib/requests/posts.ts"
 import { error } from '@sveltejs/kit'
-import type { Post } from '$lib/types'
+import type { Post } from '#lib/types.ts'
 
 export const prerender = true
 
 /** @type {import('./$types').RequestHandler} */
-export async function GET({ url }) {
+export async function GET() {
   try {
     const posts = await getPosts()
     const body = sitemap(posts.items)
@@ -14,7 +14,7 @@ export async function GET({ url }) {
     response.headers.set('Cache-Control', 'max-age=0, s-maxage=3600')
     response.headers.set('Content-Type', 'application/xml')
     return response
-  } catch (e) {
+  } catch {
     error(404, `Could not find sitemap.xml`)
   }
 }

@@ -1,5 +1,5 @@
 import { error } from '@sveltejs/kit'
-import { getExcerpt } from '$lib/functions/excerpt'
+import { getExcerpt } from '#lib/functions/excerpt.ts'
 
 const rawPosts = import.meta.glob<string>('/src/posts/*.md', { query: '?raw', import: 'default' })
 
@@ -21,7 +21,7 @@ export async function load({ params }) {
       meta: post.metadata,
       excerpt: raw && getExcerpt(raw)
     }
-  } catch (e) {
+  } catch {
     error(404, `Could not find ${params.slug}`)
   }
 }

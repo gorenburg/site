@@ -8,6 +8,10 @@ declare global {
 		// interface PageState {}
 		// interface Platform {}
 	}
+
+	// loaded at runtime from a CDN, see components/audio.svelte
+	// eslint-disable-next-line @typescript-eslint/no-explicit-any
+	const WaveSurfer: any;
 }
 
-export {};
+export { };

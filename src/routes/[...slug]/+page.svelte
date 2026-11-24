@@ -1,28 +1,33 @@
 <script lang="ts">
-  import * as config from '$lib/config'
-	import { slugify } from '$lib/functions/slugify'
-	import { getFormatedDate } from '$lib/utils'
-  import { onMount } from 'svelte'
-  import { base } from '$app/paths'
-  import { page } from '$app/state'
+  import * as config from '#lib/config.ts';
+  import { slugify } from '#lib/functions/slugify.ts';
+  import { getFormatedDate } from '#lib/utils.ts';
+  import { onMount } from 'svelte';
+  import { resolve } from '$app/paths';
+  import { page } from '$app/state';
+  import Toc from '../../components/toc.svelte';
+  import Comments from '../../components/comments.svelte';
+  import Video from '../../components/video.svelte';
 
-	import Toc from '../../components/toc.svelte'
-	import Comments from '../../components/comments.svelte'
-	import Video from '../../components/video.svelte'
+  let { data } = $props();
+  const description = $derived(
+    data.meta.description ??
+      data.meta.subtitle ??
+      data.excerpt ??
+      `${data.meta.title} — ${config.title}`
+  );
 
-  let { data } = $props()
-
-  const description = $derived(data.meta.description ?? data.meta.subtitle ?? data.excerpt ?? `${data.meta.title} — ${config.title}`)
-
-  setLangAttr()
+  setLangAttr();
 
   function setLangAttr(): void {
-    if (!data.meta.lang) { return }
+    if (!data.meta.lang) {
+      return;
+    }
 
     onMount(() => {
-      const documentEl = document.body.parentElement
-      documentEl?.setAttribute('lang', data.meta.lang)
-    })
+      const documentEl = document.body.parentElement;
+      documentEl?.setAttribute('lang', data.meta.lang);
+    });
   }
 </script>
 
@@ -59,13 +64,13 @@
       <h1>{data.meta.title}</h1>
     {/if}
     <span class="post-meta">
-      <time class="post-date" datetime={getFormatedDate(data.meta.date, 'full')}>{getFormatedDate(data.meta.date)}</time>
+      <time class="post-date" datetime={getFormatedDate(data.meta.date, 'full')}>
+        {getFormatedDate(data.meta.date)}
+      </time>
       •
       <ul class="post-tags">
         {#each data.meta.tags as tag}
-          <li class="post-tag">
-            <a href="{base}/tag/{slugify(tag)}">&num;{slugify(tag)}</a>
-          </li>
+          <li class="post-tag"><a href={resolve(`tag/${slugify(tag)}`)}>#{slugify(tag)}</a></li>
         {/each}
       </ul>
     </span>
@@ -111,14 +116,15 @@
       text-align: center;
     }
 
-    article > ol, article > ul {
+    article > ol,
+    article > ul {
       padding-left: 4rem !important;
     }
 
     article > blockquote {
       > * {
         border-left: 0.25rem solid var(--border-color);
-        padding: .5rem 0 .5rem 1rem;
+        padding: 0.5rem 0 0.5rem 1rem;
       }
     }
 

@@ -1,3 +1,79 @@
+<script lang="ts">
+  type Props = {
+    src: string;
+  };
+
+  let { src }: Props = $props();
+
+  import { onDestroy, onMount } from 'svelte';
+  import { loadScript } from '#lib/functions/load_library.ts';
+
+  onMount(async () => {
+    const audioLoaderEl = document.querySelector('.js-audio-loading');
+    const preloadBtn = document.querySelector('.js-audio-load');
+    const audioPlayEl = document.querySelector('.js-audio-play');
+    const audioPauseEl = document.querySelector('.js-audio-pause');
+
+    function createPlayer(): void {
+      let isAudioReady = false;
+      let isPlayOnLoad = false;
+
+      const wavesurfer = WaveSurfer.create({
+        container: '#waveform',
+        barWidth: 2,
+        height: 60
+      });
+
+      wavesurfer.on('ready', () => {
+        audioLoaderEl!.classList.add('hide');
+        isAudioReady = true;
+        if (isPlayOnLoad) {
+          wavesurfer.play();
+        }
+      });
+
+      wavesurfer.on('pause', () => {
+        audioPlayEl!.classList.remove('hide');
+        audioPauseEl!.classList.add('hide');
+      });
+
+      wavesurfer.on('play', () => {
+        audioPlayEl!.classList.add('hide');
+        audioPauseEl!.classList.remove('hide');
+      });
+
+      preloadBtn!.addEventListener('click', () => {
+        loadAudio();
+      });
+
+      audioPlayEl!.addEventListener('click', () => {
+        if (isAudioReady) {
+          wavesurfer.play();
+        } else {
+          isPlayOnLoad = true;
+          loadAudio();
+        }
+      });
+
+      audioPauseEl!.addEventListener('click', () => {
+        wavesurfer.pause();
+      });
+
+      function loadAudio() {
+        preloadBtn!.classList.add('hide');
+        audioLoaderEl!.classList.remove('hide');
+        wavesurfer.load(src);
+      }
+    }
+
+    loadScript('https://unpkg.com/wavesurfer.js').then(() => {
+      createPlayer();
+    });
+  });
+
+  onDestroy(() => {});
+</script>
+
 <div class="audio-player">
   <div class="audio-player-controls">
     <button class="audio-player-btn js-audio-play" type="button" aria-label="Play audio">
@@ -21,96 +97,16 @@
   </div>
 </div>
 
-<script lang="ts">
-  type Props = {
-    src: string
-  }
-
-  let { src }: Props = $props()
-
-  import { onDestroy, onMount } from 'svelte'
-	import { loadScript } from '$lib/functions/load_library'
-
-  onMount(async () => {
-    const audioLoaderEl = document.querySelector('.js-audio-loading')
-    const preloadBtn = document.querySelector('.js-audio-load')
-    const audioPlayEl = document.querySelector('.js-audio-play')
-    const audioPauseEl = document.querySelector('.js-audio-pause')
-
-    function createPlayer(): void {
-      let isAudioReady = false
-      let isPlayOnLoad = false
-
-      const wavesurfer = WaveSurfer.create({
-        container: '#waveform',
-        barWidth: 2,
-        height: 60
-      })
-
-      wavesurfer.on('ready', () => {
-        audioLoaderEl!.classList.add('hide')
-        isAudioReady = true
-        if (isPlayOnLoad) {
-          wavesurfer.play()
-        }
-      })
-
-      wavesurfer.on('pause', () => {
-        audioPlayEl!.classList.remove('hide')
-        audioPauseEl!.classList.add('hide')
-      })
-
-      wavesurfer.on('play', () => {
-        audioPlayEl!.classList.add('hide')
-        audioPauseEl!.classList.remove('hide')
-      })
-      
-      preloadBtn!.addEventListener('click', () => {
-        loadAudio()
-      })
-
-      audioPlayEl!.addEventListener('click', () => {
-        if (isAudioReady) {
-          wavesurfer.play()
-        } else {
-          isPlayOnLoad = true
-          loadAudio()
-        }
-      })
-
-      audioPauseEl!.addEventListener('click', () => {
-        wavesurfer.pause()
-      })
-
-      function loadAudio() {
-        preloadBtn!.classList.add('hide')
-        audioLoaderEl!.classList.remove('hide')
-        wavesurfer.load(src)
-      }
-    }
-
-    loadScript('https://unpkg.com/wavesurfer.js').then(() => {
-      createPlayer()
-    })
-
-  })
-
-  onDestroy(() => {
-    
-  })
-
-</script>
-
 <style>
   .audio-player {
     display: flex;
     align-items: stretch;
     background: var(--accent-color);
-    border: .25rem solid transparent;
+    border: 0.25rem solid transparent;
   }
 
   .audio-player-controls {
-    padding-left: .25rem;
+    padding-left: 0.25rem;
   }
 
   .audio-player-btn {
@@ -122,7 +118,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-right: .25rem;
+    margin-right: 0.25rem;
     outline: none;
   }
 

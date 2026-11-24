@@ -1,10 +1,10 @@
-import * as config from '$lib/config'
-import { getPosts } from "$lib/requests/posts"
+import * as config from '#lib/config.ts'
+import { getPosts } from "#lib/requests/posts.ts"
 import { error } from '@sveltejs/kit'
 
 export const prerender = true
 
-export async function GET({ fetch }) {
+export async function GET() {
   try {
     const posts = await getPosts({ page: 1 })
     const body = `
@@ -34,7 +34,7 @@ export async function GET({ fetch }) {
     response.headers.set('Content-Type', 'application/xml')
     response.headers.set('Cache-Control', 'max-age=0, s-max-age=1200')
     return response
-  } catch (e) {
+  } catch {
     error(404, `Could not find sitemap.xml`)
   }
 }

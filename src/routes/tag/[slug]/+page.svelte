@@ -1,23 +1,21 @@
 <script lang="ts">
-  import * as config from '$lib/config'
-  import { page } from '$app/state'
-  import { formatDate } from '$lib/utils'
-  import { base } from '$app/paths'
+  import * as config from '#lib/config.ts';
+  import { page } from '$app/state';
+  import { formatDate } from '#lib/utils.ts';
+  import { resolve } from '$app/paths';
 
-  let { data } = $props()
+  let { data } = $props();
 </script>
 
-<svelte:head>
-  <title>Tag: &num;{page.params.slug}{config.siteTitle}</title>
-</svelte:head>
+<svelte:head><title>Tag: #{page.params.slug}{config.siteTitle}</title></svelte:head>
 
 <div class="wrapper">
-  <h1 class="text-center">&num;{page.params.slug}</h1>
-  
+  <h1 class="text-center">#{page.params.slug}</h1>
+
   <ul class="tag-list">
     {#each data.posts.items as post}
       <li class="tag-list-item">
-        <h2><a href="{base}/{post.slug}" class="title">{post.title}</a></h2>
+        <h2><a href={resolve(post.slug)} class="title">{post.title}</a></h2>
         <time class="date" datetime={formatDate(post.date)}>{formatDate(post.date)}</time>
       </li>
     {/each}
@@ -38,7 +36,7 @@
 
   .tag-list-item {
     h2 {
-      margin-bottom: .25rem;
+      margin-bottom: 0.25rem;
     }
 
     + .tag-list-item {

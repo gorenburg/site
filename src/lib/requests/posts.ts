@@ -1,6 +1,6 @@
-import { itemsPerPage } from '$lib/config'
-import type { GetPostsParams, GetPostsResponse, Post } from '$lib/types'
-import { getParsedDate } from '$lib/utils'
+import { itemsPerPage } from '#lib/config.ts'
+import type { GetPostsParams, GetPostsResponse, Post } from '#lib/types.ts'
+import { getParsedDate } from '#lib/utils.ts'
 
 const slugRegExp = new RegExp(/^[0-9]{4}-[0-9]{2}-[0-9]{2}-/)
 
